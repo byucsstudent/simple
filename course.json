@@ -7,19 +7,23 @@
       "topics": [
         {
           "title": "Home",
-          "path": "README.md"
+          "path": "README.md",
+          "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f"
         },
         {
           "title": "Syllabus",
-          "path": "instruction/syllabus/syllabus.md"
+          "path": "instruction/syllabus/syllabus.md",
+          "id": "73b2703c-2690-4c9d-9a84-a5749458e270"
         },
         {
           "title": "Schedule",
-          "path": "schedule/schedule.md"
+          "path": "schedule/schedule.md",
+          "id": "85660655-a2a0-47a7-90bb-e946ccb2c1fa"
         },
         {
           "title": "Instruction",
-          "path": "instruction/modules.md"
+          "path": "instruction/modules.md",
+          "id": "22879775-f5c8-4e10-bb94-c7a855bd6e9b"
         }
       ]
     },
@@ -28,21 +32,25 @@
       "topics": [
         {
           "title": "☑ Introduction",
-          "path": "instruction/introduction/introduction.md"
+          "path": "instruction/introduction/introduction.md",
+          "id": "0a739177-92fd-4264-9629-19602dc70e96"
         },
         {
           "title": "Example topic",
-          "path": "instruction/exampleTopic/exampleTopic.md"
+          "path": "instruction/exampleTopic/exampleTopic.md",
+          "id": "5509359d-22a7-4df5-b773-2baa9e190a29"
         },
         {
           "title": "Example quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
-          "type": "quiz"
+          "type": "quiz",
+          "id": "482158a6-d74b-4255-bf7c-095bd9282f68"
         },
         {
           "title": "Example video",
           "path": "https://youtu.be/PKiRH2ZKZeM",
-          "type": "video"
+          "type": "video",
+          "id": "4da809c5-14b3-494f-8261-e705bbb20d29"
         }
       ]
     }
