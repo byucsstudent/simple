@@ -10,7 +10,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 362759
+        "canvasModuleId": 362761
       },
       "topics": [
         {
@@ -18,7 +18,7 @@
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "externalRefs": {
-            "canvasPageId": 1478130
+            "canvasPageId": 1478138
           }
         },
         {
@@ -26,7 +26,7 @@
           "path": "instruction/syllabus/syllabus.md",
           "id": "73b2703c-2690-4c9d-9a84-a5749458e270",
           "externalRefs": {
-            "canvasPageId": 1478131
+            "canvasPageId": 1478139
           }
         },
         {
@@ -34,7 +34,7 @@
           "path": "schedule/schedule.md",
           "id": "85660655-a2a0-47a7-90bb-e946ccb2c1fa",
           "externalRefs": {
-            "canvasPageId": 1478132
+            "canvasPageId": 1478140
           }
         },
         {
@@ -43,7 +43,7 @@
           "id": "22879775-f5c8-4e10-bb94-c7a855bd6e9b",
           "commit": "d4be973a3ebd2749e994fba02be60cee02e4393f",
           "externalRefs": {
-            "canvasPageId": 1478133
+            "canvasPageId": 1478141
           }
         }
       ]
@@ -51,7 +51,7 @@
     {
       "title": "Getting started",
       "externalRefs": {
-        "canvasModuleId": 362760
+        "canvasModuleId": 362762
       },
       "topics": [
         {
@@ -59,7 +59,7 @@
           "path": "instruction/introduction/introduction.md",
           "id": "0a739177-92fd-4264-9629-19602dc70e96",
           "externalRefs": {
-            "canvasPageId": 1478134
+            "canvasPageId": 1478142
           }
         },
         {
@@ -67,7 +67,7 @@
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "5509359d-22a7-4df5-b773-2baa9e190a29",
           "externalRefs": {
-            "canvasPageId": 1478135
+            "canvasPageId": 1478143
           }
         },
         {
@@ -76,7 +76,7 @@
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "482158a6-d74b-4255-bf7c-095bd9282f68",
           "externalRefs": {
-            "canvasPageId": 1478136
+            "canvasPageId": 1478144
           }
         },
         {
@@ -85,7 +85,7 @@
           "path": "https://youtu.be/PKiRH2ZKZeM",
           "id": "4da809c5-14b3-494f-8261-e705bbb20d29",
           "externalRefs": {
-            "canvasPageId": 1478137
+            "canvasPageId": 1478145
           }
         }
       ]
