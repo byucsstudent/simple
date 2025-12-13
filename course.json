@@ -1,0 +1,50 @@
+{
+  "schedule": "schedule/schedule.md",
+  "syllabus": "instruction/syllabus/syllabus.md",
+  "modules": [
+    {
+      "title": "Course info",
+      "topics": [
+        {
+          "title": "Home",
+          "path": "README.md"
+        },
+        {
+          "title": "Syllabus",
+          "path": "instruction/syllabus/syllabus.md"
+        },
+        {
+          "title": "Schedule",
+          "path": "schedule/schedule.md"
+        },
+        {
+          "title": "Instruction",
+          "path": "instruction/modules.md"
+        }
+      ]
+    },
+    {
+      "title": "Getting started",
+      "topics": [
+        {
+          "title": "☑ Introduction",
+          "path": "instruction/introduction/introduction.md"
+        },
+        {
+          "title": "Example topic",
+          "path": "instruction/exampleTopic/exampleTopic.md"
+        },
+        {
+          "title": "Example quiz",
+          "path": "instruction/exampleQuiz/exampleQuiz.md",
+          "type": "quiz"
+        },
+        {
+          "title": "Example video",
+          "path": "https://youtu.be/PKiRH2ZKZeM",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}
