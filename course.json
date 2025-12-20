@@ -75,6 +75,7 @@
           "type": "quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "482158a6-d74b-4255-bf7c-095bd9282f68",
+          "commit": "0cb9540578700857c93296a478200203f26cb34f",
           "externalRefs": {
             "canvasPageId": 1478152
           }
