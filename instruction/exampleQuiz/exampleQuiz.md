@@ -3,6 +3,10 @@
 This demonstrates how to write quizzes in Mastery LS format.
 
 ```masteryls
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Teaching", "type":"teaching", "body":"Simple **multiple choice** question" }
+```
+
+```masteryls
 {"id":"a347b1df-9f80-4d3e-8585-a64bc1f76a5f", "title":"Multiple choice", "type":"multiple-choice", "body":"Simple **multiple choice** question" }
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
