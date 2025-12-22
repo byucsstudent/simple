@@ -3,7 +3,7 @@
 This demonstrates how to write quizzes in Mastery LS format.
 
 ```masteryls
-{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Teaching", "type":"teaching", "body":"Simple **Explain the Socratic method to me." }
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Socratic method", "type":"teaching", "body":"Help me understand the **Socratic method**." }
 ```
 
 ```masteryls
