@@ -4,6 +4,7 @@ This is the content of the instruction. It can include **bold text**, _italic te
 
 [GitHub formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+
 ## Footnotes
 
 Here is a footnote reference.[^1]
@@ -12,23 +13,16 @@ Here is a footnote reference.[^1]
 
 ## Emojis
 
-[GitHub Emojis](https://gist.github.com/rxaviers/7360908)
-
-- ⭐ — Star
-- 📖 — Book
-- :smile:
--  :rocket:
--  :tada:
--  :+1:
-- :arrow_up:
+⭐ — Star
+📖 — Book
 
 ## Lists
 
 - Item 1
 - Item 2
 
-1. Item 1
-1. Item 2
+* Item 1
+* Item 2
 
 - nested
   1. cow
