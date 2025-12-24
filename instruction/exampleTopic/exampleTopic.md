@@ -1,6 +1,8 @@
 # Instruction Title
 
-This is the content of the instruction. It can include **bold text**, _italic text_, <sub>sub</sub> <sup>super</sup> and even [external links](https://byu.edu).
+This is the content of the instruction. It can include **bold text**, _italic text_, <sub>sub</sub>, <sup>super</sup>, and even [links](https://byu.edu).
+
+[GitHub formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Footnotes
 
@@ -10,16 +12,23 @@ Here is a footnote reference.[^1]
 
 ## Emojis
 
+[GitHub Emojis](https://gist.github.com/rxaviers/7360908)
+
 - ⭐ — Star
 - 📖 — Book
+- :smile:
+-  :rocket:
+-  :tada:
+-  :+1:
+- :arrow_up:
 
 ## Lists
 
 - Item 1
 - Item 2
 
-* Item 1
-* Item 2
+1. Item 1
+1. Item 2
 
 - nested
   1. cow
@@ -78,11 +87,11 @@ graph TD;
 
 ## Strikethrough
 
-- ~~Strikethrough~~
-- **Bold**
-- _Italics_
-- <sub>sub</sub>
-- <sup>super</sup>
+~~This was mistaken text~~
+
+## Emoji
+
+:smile: :rocket: :tada: :+1:
 
 ## Images
 
@@ -118,8 +127,6 @@ https://github.com
 |    1 | JavaScript |
 |    2 | Python     |
 |    3 | SQL        |
-|    4| Go |
-| 5 | Rust|
 
 </details>
 
