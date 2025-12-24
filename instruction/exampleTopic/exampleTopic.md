@@ -1,6 +1,6 @@
 # Instruction Title
 
-This is the content of the instruction. It can include **bold text**, _italic text_, <sub>sub</sub>, <sup>super</sup>, and even [links](https://byu.edu).
+This is the content of the instruction. It can include **bold text**, _italic text_, <sub>sub</sub> <sup>super</sup> and even [external links](https://byu.edu).
 
 ## Footnotes
 
@@ -10,8 +10,8 @@ Here is a footnote reference.[^1]
 
 ## Emojis
 
-⭐ — Star
-📖 — Book
+- ⭐ — Star
+- 📖 — Book
 
 ## Lists
 
@@ -78,11 +78,11 @@ graph TD;
 
 ## Strikethrough
 
-~~This was mistaken text~~
-
-## Emoji
-
-:smile: :rocket: :tada: :+1:
+- ~~Strikethrough~~
+- **Bold**
+- _Italics_
+- <sub>sub</sub>
+- <sup>super</sup>
 
 ## Images
 
@@ -118,6 +118,8 @@ https://github.com
 |    1 | JavaScript |
 |    2 | Python     |
 |    3 | SQL        |
+|    4| Go |
+| 5 | Rust|
 
 </details>
 
