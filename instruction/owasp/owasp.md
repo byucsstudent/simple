@@ -1,7 +1,5 @@
 # OWASP
 
-![owasp](owaspLogo.png)
-
 📖 **Deeper dive reading**: [OWASP 2021](https://owasp.org/www-project-top-ten/)
 
 The Open Web Application Security Project (OWASP) is a non-profit research entity that manages the _Top Ten_ list of the most important web application security risks. Understanding, and periodically reviewing, this list will help to keep your web applications secure.
