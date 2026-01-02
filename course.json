@@ -51,7 +51,8 @@
           "type": "instruction",
           "path": "instruction/owasp/owasp.md",
           "id": "71bcc8bd-5f9d-4d3a-b68b-bc2af2c2dfbb",
-          "description": ""
+          "description": "",
+          "commit": "f8acb4584fe5fbfcf709aac07e1a1be62b3112e2"
         }
       ]
     },
