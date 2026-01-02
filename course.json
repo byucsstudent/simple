@@ -45,6 +45,13 @@
           "externalRefs": {
             "canvasPageId": 1478149
           }
+        },
+        {
+          "title": "OWASP",
+          "type": "instruction",
+          "path": "instruction/owasp/owasp.md",
+          "id": "71bcc8bd-5f9d-4d3a-b68b-bc2af2c2dfbb",
+          "description": ""
         }
       ]
     },
