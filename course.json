@@ -22,14 +22,6 @@
           }
         },
         {
-          "title": "Syllabus",
-          "path": "instruction/syllabus/syllabus.md",
-          "id": "73b2703c-2690-4c9d-9a84-a5749458e270",
-          "externalRefs": {
-            "canvasPageId": 1478147
-          }
-        },
-        {
           "title": "Schedule",
           "path": "schedule/schedule.md",
           "id": "85660655-a2a0-47a7-90bb-e946ccb2c1fa",
