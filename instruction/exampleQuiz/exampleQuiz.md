@@ -2,8 +2,10 @@
 
 This demonstrates how to write quizzes in Mastery LS format.
 
+## Surveys
+
 ```masteryls
-{"id":"8c3d7244-aa22-4fa4-876d-dc9c34cf94d4", "title":"Survey", "type":"survey",  "multipleSelect": "true", "body":"What would you have as a pet?" }
+{"id":"8c3d7244-aa22-4fa4-876d-dc9c34cf94d4", "title":"Multiple select survey", "type":"survey",  "multipleSelect": "true", "body":"What would you have as a pet?" }
 - [ ] Cat
 - [ ] Dog
 - [ ] Hamster
@@ -13,7 +15,14 @@ This demonstrates how to write quizzes in Mastery LS format.
 ```
 
 ```masteryls
-{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Socratic method", "type":"teaching", "question":"Help me understand the **Socratic method**." }
+{"id":"3fb75669-037e-41ca-aafa-fa832c6c74d6",  "title":"Multiple choice survey", "type":"survey",  "body":"I found this instruction helpful?" }
+- [ ] Helpful
+- [ ] Somewhat
+- [ ] Not helpful
+```
+
+```masteryls
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Teaching", "type":"teaching", "question":"Help me understand the **Socratic method**." }
 ```
 
 ```masteryls
@@ -32,6 +41,7 @@ This demonstrates how to write quizzes in Mastery LS format.
 - [x] Another right answer
 - [ ] This is **not** the right answer
 ```
+
 
 ```masteryls
 {"id":"c42bd013-a1ac-4cf1-b425-ae78bd753d8f", "title":"Essay", "type":"essay", "body":"Simple **essay** question" }
