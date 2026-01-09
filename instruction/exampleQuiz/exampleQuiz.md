@@ -16,9 +16,9 @@ This demonstrates how to write quizzes in Mastery LS format.
 
 ```masteryls
 {"id":"3fb75669-037e-41ca-aafa-fa832c6c74d6",  "title":"Multiple choice survey", "type":"survey",  "body":"I found this instruction helpful?" }
-- [ ] Helpful
-- [ ] **Somewhat** helpful
-- [ ] **Not** helpful
+- [ ] 🙂 Helpful
+- [ ] 😐 **Somewhat** helpful
+- [ ] 🙁 **Not** helpful
 ```
 
 ```masteryls
