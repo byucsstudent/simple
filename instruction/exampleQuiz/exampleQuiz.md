@@ -3,10 +3,10 @@
 This demonstrates how to write quizzes in Mastery LS format.
 
 ```masteryls
-{"id":"8c3d7244-aa22-4fa4-876d-dc9c34cf94d4", "title":"Survey", "type":"survey", "body":"Make a vote" }
-- [ ] Choice 1
-- [ ] Choice 2
-- [ ] Choice 3
+{"id":"8c3d7244-aa22-4fa4-876d-dc9c34cf94d4", "title":"Survey", "type":"survey", "body":"What do you prefer?" }
+- [ ] Red
+- [ ] Green
+- [ ] Blue
 ```
 
 ```masteryls
