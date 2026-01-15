@@ -88,6 +88,13 @@
           "externalRefs": {
             "canvasPageId": 1478153
           }
+        },
+        {
+          "title": "test",
+          "type": "instruction",
+          "path": "instruction/test/test.md",
+          "id": "4c22562a-24e8-4ff6-a446-b3abb9cab158",
+          "description": ""
         }
       ]
     }
