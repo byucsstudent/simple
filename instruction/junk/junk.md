@@ -1,6 +1,7 @@
 
-# junk
 
-![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
+this is `inline` code.
 
-overview content placeholder
+```
+This is a block
+```
