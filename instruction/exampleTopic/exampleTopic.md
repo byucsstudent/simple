@@ -44,19 +44,15 @@ Here is a footnote reference.[^1]
 
 ## Code Block
 
-```go
-package main
+```
+All the world's a stage,
+And all the men and women merely players;
+They have their exits and their entrances;
+And one man in his time plays many parts,
 
-import "fmt"
+— Jaques, *As You Like It*, Act II, Scene VII
 
-func main() {
-	// Explicit variable declaration: 'var' keyword followed by name, type, and initial value.
-	var userName string = "Gopher"
-	var userAge = 35
-	const daysInWeek = 7
-	var totalWeeks float64 = 52.0 // daysInWeek can be used with float64
-	fmt.Println("Days in a year:", int(daysInWeek*totalWeeks)) // Explicit conversion to int
-}
+This renowned monologue serves as an excellent example of Shakespearean dramatic verse, showcasing intricate character portrayal through an extended metaphor and vivid descriptive language. It offers rich opportunities for analyzing thematic development, rhetorical strategies, and the structure of blank verse within a theatrical context.
 ```
 
 ```python
