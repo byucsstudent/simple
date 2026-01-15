@@ -94,7 +94,9 @@
           "type": "instruction",
           "path": "instruction/test/test.md",
           "id": "4c22562a-24e8-4ff6-a446-b3abb9cab158",
-          "description": ""
+          "interactions": [],
+          "description": "",
+          "commit": "5625b63a682f807735e3be33237493f1d93ea82d"
         }
       ]
     }
