@@ -50,7 +50,9 @@ Ask **any** question you would like.
 
 
 ```masteryls
-{"id":"c42bd013-a1ac-4cf1-b425-ae78bd753d8f", "title":"Essay", "type":"essay", "body":"Simple **essay** question" }
+{"id":"c42bd013-a1ac-4cf1-b425-ae78bd753d8f", "title":"Essay", "type":"essay" }
+Simple **essay** question
+![Stock Photo](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80)
 ```
 
 ```masteryls
