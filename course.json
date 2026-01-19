@@ -78,7 +78,18 @@
           "type": "quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "482158a6-d74b-4255-bf7c-095bd9282f68",
-          "commit": "dc17975027b004f0d963aa79dea0ea1821c09bd8",
+          "interactions": [
+            "4c6869b8-bb23-4156-b3ad-6aba061ba7a6",
+            "8c3d7244-aa22-4fa4-876d-dc9c34cf94d4",
+            "3fb75669-037e-41ca-aafa-fa832c6c74d6",
+            "b1de730b-9331-4e2f-8c7b-b8ff66a51a03",
+            "a347b1df-9f80-4d3e-8585-a64bc1f76a5f",
+            "d3faa8e4-03ee-4bc2-bfe4-4f448940daa0",
+            "c42bd013-a1ac-4cf1-b425-ae78bd753d8f",
+            "e5e7cc56-0173-4cda-8938-a27235a33bc3",
+            "18a20532-4e47-42e7-ac2c-cffc3c35f8c5"
+          ],
+          "commit": "f18c914391bb09336bd0f64679af933ee0557233",
           "externalRefs": {
             "canvasPageId": 1478152
           }
