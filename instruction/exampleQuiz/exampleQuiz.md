@@ -4,7 +4,8 @@ This demonstrates how to write quizzes in Mastery LS format.
 
 
 ```masteryls
-{"id":"4c6869b8-bb23-4156-b3ad-6aba061ba7a6", "title":"Prompt", "type":"prompt", "body":"Ask AI a question" }
+{"id":"4c6869b8-bb23-4156-b3ad-6aba061ba7a6", "title":"Prompt", "type":"prompt"}
+Ask **any** question you would like.
 ```
 
 
