@@ -2,6 +2,13 @@
 
 This demonstrates how to write quizzes in Mastery LS format.
 
+
+```masteryls
+{"id":"4c6869b8-bb23-4156-b3ad-6aba061ba7a6", "title":"Chat practice", "type":"prompt", "body":"Ask AI a question" }
+```
+
+
+
 ```masteryls
 {"id":"8c3d7244-aa22-4fa4-876d-dc9c34cf94d4", "title":"Multiple select survey", "type":"survey",  "multipleSelect": "true", "body":"What would you have as a pet?" }
 - [ ] 🐱 Cat
