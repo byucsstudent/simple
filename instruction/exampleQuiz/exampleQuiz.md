@@ -66,9 +66,11 @@ Simple **essay** question
 ```
 
 ```masteryls
-{"id":"e5e7cc56-0173-4cda-8938-a27235a33bc3", "title":"File submission", "type":"file-submission", "body":"Simple **submission** by file", "allowComment":true  }
+{"id":"e5e7cc56-0173-4cda-8938-a27235a33bc3", "title":"File submission", "type":"file-submission", "allowComment":true  }
+Simple **submission** by file
 ```
 
 ```masteryls
-{"id":"18a20532-4e47-42e7-ac2c-cffc3c35f8c5", "title":"URL submission", "type":"url-submission", "body":"Simple **submission** by url", "allowComment":true }
+{"id":"18a20532-4e47-42e7-ac2c-cffc3c35f8c5", "title":"URL submission", "type":"url-submission", "allowComment":true }
+Simple **submission** by url
 ```
