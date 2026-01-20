@@ -48,6 +48,8 @@ Simple **multiple choice** question
 {"id":"d3faa8e4-03ee-4bc2-bfe4-4f448940daa0", "title":"Multiple select", "type":"multiple-select" }
 A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage.
 
+![Stock Photo](https://images.unsplash.com/photo-1443632864897-14973fa006cf&fit=crop&w=200&q=80)
+
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
 - [ ] This is **not** the right answer
