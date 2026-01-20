@@ -12,7 +12,7 @@ Ask **any** question you would like.
 
 ```masteryls
 {"id":"8c3d7244-aa22-4fa4-876d-dc9c34cf94d4", "title":"Multiple select survey", "type":"survey",  "multipleSelect": "true" }
-What would you have as a pet?
+What would you have as a **pet**?
 - [ ] 🐱 Cat
 - [ ] 🐶 Dog
 - [ ] 🐹 Hamster
