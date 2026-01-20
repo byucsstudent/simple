@@ -1,5 +1,5 @@
 
 ```masteryls
-{"id":"b6564422-5d5c-4410-8bfb-479bf25ecd7b", "title":"Essay", "type":"essay" }
-Simple **essay** question
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Teaching", "type":"teaching" }
+Help me understand the **Socratic method**.
 ```
