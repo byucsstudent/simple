@@ -61,6 +61,7 @@ A **multiple select** question can have multiple answers. Incorrect selections c
 ```masteryls
 {"id":"c42bd013-a1ac-4cf1-b425-ae78bd753d8f", "title":"Essay", "type":"essay" }
 Simple **essay** question
+
 ![Stock Photo](https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=200&q=80)
 ```
 
