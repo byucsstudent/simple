@@ -41,14 +41,14 @@ Simple **multiple choice** question
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
 - [ ] This one has a [link](https://cow.com)
-- [ ] This one has an image ![Stock Photo](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80)
+- [ ] This one has an image ![Stock Photo](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=200&q=80)
 ```
 
 ```masteryls
 {"id":"d3faa8e4-03ee-4bc2-bfe4-4f448940daa0", "title":"Multiple select", "type":"multiple-select" }
 A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage.
 
-![Stock Photo](https://images.unsplash.com/photo-1443632864897-14973fa006cf&fit=crop&w=200&q=80)
+![Stock Photo](https://images.unsplash.com/photo-1443632864897-14973fa006cf?auto-format&fit=crop&w=200&q=80)
 
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
@@ -61,7 +61,7 @@ A **multiple select** question can have multiple answers. Incorrect selections c
 ```masteryls
 {"id":"c42bd013-a1ac-4cf1-b425-ae78bd753d8f", "title":"Essay", "type":"essay" }
 Simple **essay** question
-![Stock Photo](https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=400&q=80)
+![Stock Photo](https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=200&q=80)
 ```
 
 ```masteryls
