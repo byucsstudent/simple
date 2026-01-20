@@ -35,7 +35,9 @@ Help me understand the **Socratic method**.
 ```
 
 ```masteryls
-{"id":"a347b1df-9f80-4d3e-8585-a64bc1f76a5f", "title":"Multiple choice", "type":"multiple-choice", "body":"Simple **multiple choice** question" }
+{"id":"a347b1df-9f80-4d3e-8585-a64bc1f76a5f", "title":"Multiple choice", "type":"multiple-choice" }
+Simple **multiple choice** question
+
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
 - [ ] This one has a [link](https://cow.com)
@@ -43,7 +45,9 @@ Help me understand the **Socratic method**.
 ```
 
 ```masteryls
-{"id":"d3faa8e4-03ee-4bc2-bfe4-4f448940daa0", "title":"Multiple select", "type":"multiple-select", "body": "A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage." }
+{"id":"d3faa8e4-03ee-4bc2-bfe4-4f448940daa0", "title":"Multiple select", "type":"multiple-select" }
+A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage.
+
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
 - [ ] This is **not** the right answer
