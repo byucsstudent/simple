@@ -1,4 +1,4 @@
-# Example Quiz
+# Example Quizx
 
 This demonstrates how to write quizzes in Mastery LS format.
 
