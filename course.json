@@ -113,6 +113,13 @@
           ],
           "description": "",
           "commit": "6dcd32fe8bc28c964dfee7c83902caaf4b0f4c5b"
+        },
+        {
+          "title": "Test",
+          "type": "video",
+          "path": "https://youtu.be/PKiRH2ZKZeM?cb=1769461943974",
+          "id": "390f5327-fbe1-4f24-bd0a-4bfdb9478f09",
+          "description": ""
         }
       ]
     }
