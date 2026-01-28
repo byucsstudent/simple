@@ -4,7 +4,7 @@ The course content is divided into multiple topics that you should strive to mas
 
 ## Course Info
 
-- [Syllabus](../syllabus/syllabus.md)
+- [OWASP](../owasp/owasp.md)
 - [Schedule](../schedule/schedule.md)
 
 ## Getting Started
