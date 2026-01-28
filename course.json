@@ -23,7 +23,8 @@
           "title": "Schedule",
           "path": "schedule/schedule.md",
           "id": "85660655-a2a0-47a7-90bb-e946ccb2c1fa",
-          "commit": "16ab2ce6f8245b9a125e678533a3f40ff1a5e91e",
+          "interactions": [],
+          "commit": "4c44563a1487691b913f7ce311cae6a1afda9ee9",
           "externalRefs": {
             "canvasPageId": 1478148
           }
