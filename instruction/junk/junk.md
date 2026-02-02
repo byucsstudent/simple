@@ -1,6 +1,13 @@
 # Junk heading
 
 ```
+mkdir reactDemo && cd reactDemo
+npm init -y
+npm install vite@latest -D
+npm install react react-dom
+```
+
+```
 xyz
 ```
 
