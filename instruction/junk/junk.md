@@ -5,7 +5,8 @@ xyz
 ```
 
 ```js
-xyz js block
+const xyz = () => { return "xyz"}
+xyz()
 ```
 
 
