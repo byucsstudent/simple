@@ -110,9 +110,11 @@
           "type": "instruction",
           "path": "instruction/junk/junk.md",
           "id": "9f9eb59b-60ef-45e1-a19c-ab914c1b48dc",
-          "interactions": [],
+          "interactions": [
+            "d3b65e58-dbb4-4c03-bd39-2bcccc98d307"
+          ],
           "description": "",
-          "commit": "2092d10ab49a75e9e26afa851e16fdc8fa4fb3af"
+          "commit": "788ddcc8e977bade31313eef9256a6cd36206132"
         }
       ]
     }
