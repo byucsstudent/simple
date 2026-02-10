@@ -115,6 +115,13 @@
           ],
           "description": "",
           "commit": "b07e7296ab7c9283dbbdd7954e8e3bbe3e34d925"
+        },
+        {
+          "title": "Example slideshow",
+          "type": "slideshow",
+          "path": "instruction/example-slideshow/example-slideshow.md",
+          "id": "b2162c65-7a46-4fc6-a602-2876bf65c6c0",
+          "description": ""
         }
       ]
     }
