@@ -111,11 +111,9 @@
           "type": "instruction",
           "path": "instruction/junk/junk.md",
           "id": "9f9eb59b-60ef-45e1-a19c-ab914c1b48dc",
-          "interactions": [
-            "d3b65e58-dbb4-4c03-bd39-2bcccc98d307"
-          ],
+          "interactions": [],
           "description": "",
-          "commit": "b07e7296ab7c9283dbbdd7954e8e3bbe3e34d925"
+          "commit": "a0fca43f0ac981e25d3c8557c6ae743d02189c7d"
         },
         {
           "title": "Example slideshow",
