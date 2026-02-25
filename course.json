@@ -118,9 +118,11 @@
           "type": "instruction",
           "path": "instruction/junk/junk.md",
           "id": "9f9eb59b-60ef-45e1-a19c-ab914c1b48dc",
-          "interactions": [],
+          "interactions": [
+            "ai-prompting-01"
+          ],
           "description": "",
-          "commit": "2c22dec35e93a8ec43b482ea52bd3748a6481530"
+          "commit": "5362e358d0484b061e8cde2c67d2e11a7f98517e"
         }
       ]
     }
