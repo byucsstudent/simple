@@ -109,4 +109,60 @@ fdsdsffdsfds
 
 dsf
 sdf
-sd
+sd```js
+function cow() {
+  function rat() {
+    function fish() {
+
+      return "fish";
+    }
+    return fish();
+  }
+  return rat()
+}
+
+console.log(cow())
+```
+
+```js
+function cow() {
+  function rat() {
+    function fish() {
+
+      return "fish";
+    }
+    return fish();
+  }
+  return rat()
+}
+
+console.log(cow())
+``````js
+function cow() {
+  function rat() {
+    function fish() {
+
+      return "fish";
+    }
+    return fish();
+  }
+  return rat()
+}
+
+console.log(cow())
+```
+
+```js
+function cow() {
+  function rat() {
+    function fish() {
+
+      return "fish";
+    }
+    return fish();
+  }
+  return rat()
+}
+
+console.log(cow())
+```
