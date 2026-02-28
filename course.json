@@ -1,5 +1,5 @@
 {
-  "title": "simple",
+  "title": "Simple",
   "links": {},
   "externalRefs": {
     "canvasCourseId": "33932"
@@ -15,6 +15,7 @@
           "title": "Home",
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
+          "state": "published",
           "externalRefs": {
             "canvasPageId": 1478146
           }
@@ -23,6 +24,7 @@
           "title": "Schedule",
           "path": "schedule/schedule.md",
           "id": "85660655-a2a0-47a7-90bb-e946ccb2c1fa",
+          "state": "published",
           "interactions": [],
           "commit": "4c44563a1487691b913f7ce311cae6a1afda9ee9",
           "externalRefs": {
@@ -33,6 +35,7 @@
           "title": "Instruction",
           "path": "instruction/modules.md",
           "id": "22879775-f5c8-4e10-bb94-c7a855bd6e9b",
+          "state": "published",
           "interactions": [],
           "commit": "5a94a7b8df0e02c173461a93f8f4aca9ddbfa9b4",
           "externalRefs": {
@@ -44,8 +47,10 @@
           "type": "instruction",
           "path": "instruction/owasp/owasp.md",
           "id": "71bcc8bd-5f9d-4d3a-b68b-bc2af2c2dfbb",
+          "state": "published",
+          "interactions": [],
           "description": "",
-          "commit": "601051d7dc56c6361d70ddc66770d56a75ae77e6"
+          "commit": "1199ffa6648c60ea493f8e1ff674a6ecb9ba60a8"
         }
       ]
     },
@@ -59,6 +64,7 @@
           "title": "☑ Introduction",
           "path": "instruction/introduction/introduction.md",
           "id": "0a739177-92fd-4264-9629-19602dc70e96",
+          "state": "published",
           "externalRefs": {
             "canvasPageId": 1478150
           }
@@ -68,6 +74,7 @@
           "type": "instruction",
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "5509359d-22a7-4df5-b773-2baa9e190a29",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "6bc55897108ced0f16c8a7421cacfe1b51bbbc90",
@@ -80,6 +87,7 @@
           "type": "quiz",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "482158a6-d74b-4255-bf7c-095bd9282f68",
+          "state": "published",
           "interactions": [
             "4c6869b8-bb23-4156-b3ad-6aba061ba7a6",
             "8c3d7244-aa22-4fa4-876d-dc9c34cf94d4",
@@ -101,6 +109,7 @@
           "type": "embedded",
           "path": "https://www.youtube.com/embed/HXNx_Gp0jyM?si=CV3Wem9u8_yFsgk5",
           "id": "4da809c5-14b3-494f-8261-e705bbb20d29",
+          "state": "published",
           "description": "",
           "externalRefs": {
             "canvasPageId": 1478153
@@ -111,6 +120,7 @@
           "type": "embedded",
           "path": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed",
           "id": "b2162c65-7a46-4fc6-a602-2876bf65c6c0",
+          "state": "published",
           "description": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed"
         },
         {
@@ -118,6 +128,7 @@
           "type": "instruction",
           "path": "instruction/junk/junk.md",
           "id": "9f9eb59b-60ef-45e1-a19c-ab914c1b48dc",
+          "state": "published",
           "interactions": [
             "ai-prompting-01"
           ],
