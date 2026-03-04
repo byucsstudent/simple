@@ -93,21 +93,6 @@
           "externalRefs": {
             "canvasPageId": 1522030
           }
-        },
-        {
-          "title": "junk",
-          "type": "instruction",
-          "path": "instruction/junk/junk.md",
-          "id": "9f9eb59b-60ef-45e1-a19c-ab914c1b48dc",
-          "state": "published",
-          "interactions": [
-            "ai-prompting-01"
-          ],
-          "description": "",
-          "commit": "5362e358d0484b061e8cde2c67d2e11a7f98517e",
-          "externalRefs": {
-            "canvasPageId": 1522031
-          }
         }
       ]
     }
