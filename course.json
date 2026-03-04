@@ -8,7 +8,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 362763
+        "canvasModuleId": 377795
       },
       "topics": [
         {
@@ -17,7 +17,7 @@
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
           "externalRefs": {
-            "canvasPageId": 1478146
+            "canvasPageId": 1522022
           }
         },
         {
@@ -28,7 +28,7 @@
           "interactions": [],
           "commit": "4c44563a1487691b913f7ce311cae6a1afda9ee9",
           "externalRefs": {
-            "canvasPageId": 1478148
+            "canvasPageId": 1522023
           }
         },
         {
@@ -39,7 +39,7 @@
           "interactions": [],
           "commit": "5a94a7b8df0e02c173461a93f8f4aca9ddbfa9b4",
           "externalRefs": {
-            "canvasPageId": 1478149
+            "canvasPageId": 1522024
           }
         },
         {
@@ -50,14 +50,17 @@
           "state": "published",
           "interactions": [],
           "description": "",
-          "commit": "7e200ba9ead556adadb92c523fb8b415d81350b8"
+          "commit": "7e200ba9ead556adadb92c523fb8b415d81350b8",
+          "externalRefs": {
+            "canvasPageId": 1522025
+          }
         }
       ]
     },
     {
       "title": "Getting started",
       "externalRefs": {
-        "canvasModuleId": 362764
+        "canvasModuleId": 377796
       },
       "topics": [
         {
@@ -66,7 +69,7 @@
           "id": "0a739177-92fd-4264-9629-19602dc70e96",
           "state": "published",
           "externalRefs": {
-            "canvasPageId": 1478150
+            "canvasPageId": 1522026
           }
         },
         {
@@ -79,7 +82,7 @@
           "description": "",
           "commit": "6bc55897108ced0f16c8a7421cacfe1b51bbbc90",
           "externalRefs": {
-            "canvasPageId": 1478151
+            "canvasPageId": 1522027
           }
         },
         {
@@ -101,7 +104,7 @@
           ],
           "commit": "de0447a58813acc37b484c37170ff892cd3d611f",
           "externalRefs": {
-            "canvasPageId": 1478152
+            "canvasPageId": 1522028
           }
         },
         {
@@ -112,7 +115,7 @@
           "state": "published",
           "description": "",
           "externalRefs": {
-            "canvasPageId": 1478153
+            "canvasPageId": 1522029
           }
         },
         {
@@ -121,7 +124,10 @@
           "path": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed",
           "id": "b2162c65-7a46-4fc6-a602-2876bf65c6c0",
           "state": "published",
-          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed"
+          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed",
+          "externalRefs": {
+            "canvasPageId": 1522030
+          }
         },
         {
           "title": "junk",
@@ -133,7 +139,10 @@
             "ai-prompting-01"
           ],
           "description": "",
-          "commit": "5362e358d0484b061e8cde2c67d2e11a7f98517e"
+          "commit": "5362e358d0484b061e8cde2c67d2e11a7f98517e",
+          "externalRefs": {
+            "canvasPageId": 1522031
+          }
         }
       ]
     }
