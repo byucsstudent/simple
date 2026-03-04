@@ -21,17 +21,6 @@
           }
         },
         {
-          "title": "Schedule",
-          "path": "schedule/schedule.md",
-          "id": "85660655-a2a0-47a7-90bb-e946ccb2c1fa",
-          "state": "published",
-          "interactions": [],
-          "commit": "4c44563a1487691b913f7ce311cae6a1afda9ee9",
-          "externalRefs": {
-            "canvasPageId": 1522023
-          }
-        },
-        {
           "title": "Instruction",
           "path": "instruction/modules.md",
           "id": "22879775-f5c8-4e10-bb94-c7a855bd6e9b",
