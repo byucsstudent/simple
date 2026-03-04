@@ -17,7 +17,6 @@
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
           "interactions": [],
-          "commit": "805514bc9e7f984b38f24bbc9c4824ef6c1743c9",
           "externalRefs": {
             "canvasPageId": 1522022
           }
@@ -47,7 +46,6 @@
           "state": "published",
           "interactions": [],
           "description": "",
-          "commit": "6bc55897108ced0f16c8a7421cacfe1b51bbbc90",
           "externalRefs": {
             "canvasPageId": 1522027
           }
@@ -69,7 +67,6 @@
             "e5e7cc56-0173-4cda-8938-a27235a33bc3",
             "18a20532-4e47-42e7-ac2c-cffc3c35f8c5"
           ],
-          "commit": "de0447a58813acc37b484c37170ff892cd3d611f",
           "externalRefs": {
             "canvasPageId": 1522028
           }
@@ -95,7 +92,6 @@
             "ai-prompting-01"
           ],
           "description": "",
-          "commit": "5362e358d0484b061e8cde2c67d2e11a7f98517e",
           "externalRefs": {
             "canvasPageId": 1522031
           }
