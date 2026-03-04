@@ -84,14 +84,18 @@
           }
         },
         {
-          "title": "Example slideshow",
-          "type": "embedded",
-          "path": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed",
-          "id": "b2162c65-7a46-4fc6-a602-2876bf65c6c0",
+          "title": "junk",
+          "type": "instruction",
+          "path": "instruction/junk/junk.md",
+          "id": "9f9eb59b-60ef-45e1-a19c-ab914c1b48dc",
           "state": "published",
-          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed",
+          "interactions": [
+            "ai-prompting-01"
+          ],
+          "description": "",
+          "commit": "5362e358d0484b061e8cde2c67d2e11a7f98517e",
           "externalRefs": {
-            "canvasPageId": 1522030
+            "canvasPageId": 1522031
           }
         }
       ]
