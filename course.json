@@ -8,7 +8,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 377795
+        "canvasModuleId": 377894
       },
       "topics": [
         {
@@ -18,7 +18,7 @@
           "state": "published",
           "interactions": [],
           "externalRefs": {
-            "canvasPageId": 1522022
+            "canvasPageId": 1522335
           }
         },
         {
@@ -26,14 +26,22 @@
           "type": "instruction",
           "path": "instruction/test/test.md",
           "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
-          "description": ""
+          "state": "published",
+          "description": "",
+          "externalRefs": {
+            "canvasPageId": 1522336
+          }
         },
         {
           "title": "anothertest",
           "type": "instruction",
           "path": "instruction/anothertest/anothertest.md",
           "id": "de21cce1-f4d2-4338-86e8-9049055f1086",
-          "description": ""
+          "state": "published",
+          "description": "",
+          "externalRefs": {
+            "canvasPageId": 1522337
+          }
         }
       ]
     }
