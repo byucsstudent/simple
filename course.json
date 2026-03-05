@@ -27,6 +27,13 @@
           "path": "instruction/test/test.md",
           "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
           "description": ""
+        },
+        {
+          "title": "anothertest",
+          "type": "instruction",
+          "path": "instruction/anothertest/anothertest.md",
+          "id": "de21cce1-f4d2-4338-86e8-9049055f1086",
+          "description": ""
         }
       ]
     }
