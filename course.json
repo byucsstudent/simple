@@ -49,8 +49,16 @@
           "type": "schedule",
           "path": "instruction/schedule/schedule.md",
           "id": "a7db85a9-da40-4623-bce2-b99162b416f9",
+          "state": "published",
           "description": "",
           "commit": "7a3e2868f8b735cde9f980b49ba7f49dcae662c8"
+        },
+        {
+          "title": "schedule two",
+          "type": "schedule",
+          "path": "instruction/schedule-two/schedule-two.md",
+          "id": "2eeae4cc-7370-4efc-888c-f158e6d9035e",
+          "description": ""
         }
       ]
     }
