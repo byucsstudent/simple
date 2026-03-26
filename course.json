@@ -49,7 +49,8 @@
           "type": "schedule",
           "path": "instruction/schedule/schedule.md",
           "id": "a7db85a9-da40-4623-bce2-b99162b416f9",
-          "description": ""
+          "description": "",
+          "commit": "11d0587e9eb78e4be33bb4d9fef8f14c7e610c5b"
         }
       ]
     }
