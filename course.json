@@ -43,25 +43,6 @@
           "externalRefs": {
             "canvasPageId": 1522337
           }
-        },
-        {
-          "title": "Schedule",
-          "type": "schedule",
-          "path": "instruction/schedule/schedule.md",
-          "id": "a7db85a9-da40-4623-bce2-b99162b416f9",
-          "state": "published",
-          "description": "",
-          "commit": "b401e7bdc9c00958f8498a84e948f5e70e540127",
-          "externalRefs": {
-            "schedules": [
-              {
-                "id": "schedule-3333e301-9068-4bb7-a2e7-fa6bc03e7b97",
-                "title": "Joe's schedule",
-                "path": "joe-s-schedule.md",
-                "default": true
-              }
-            ]
-          }
         }
       ]
     }
