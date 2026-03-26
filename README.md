@@ -4,12 +4,7 @@
 
 ![cover](coursecover.jpg?raw=true)
 
-## Welcomex
 
-The content for this course is represented by the following parts.
-
-- 📅 [Schedule](schedule/schedule.md)
-- 📘 [Instruction](instruction/modules.md)
 
 ## Outcomes
 
