@@ -58,7 +58,8 @@
           "type": "schedule",
           "path": "instruction/schedule-two/schedule-two.md",
           "id": "2eeae4cc-7370-4efc-888c-f158e6d9035e",
-          "description": ""
+          "description": "",
+          "commit": "f53526dec655abb3c71ec6dd8c9e9d4ebb25dd07"
         }
       ]
     }
