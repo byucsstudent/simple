@@ -65,6 +65,12 @@
                 "title": "Doom",
                 "path": "bean.md",
                 "default": true
+              },
+              {
+                "id": "schedule-51620218-57be-4e71-b50a-7e7bd8dd2d31",
+                "title": "pickles",
+                "path": "pickles.md",
+                "default": false
               }
             ]
           }
