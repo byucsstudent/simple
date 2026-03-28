@@ -51,7 +51,7 @@
           "id": "f0215903-cd92-4ea1-8861-59220ee627ae",
           "state": "published",
           "description": "",
-          "commit": "6c9329811cc98f77d837600d5507787164f98abf",
+          "commit": "4fd3cd1ffc9ed7a1c22ca7a865477e73e73ad0f2",
           "externalRefs": {
             "schedules": [
               {
@@ -62,7 +62,7 @@
               },
               {
                 "id": "schedule-8d440b46-fabe-4e25-a587-04403fa9a059",
-                "title": "Beanofjoy",
+                "title": "Doom",
                 "path": "bean.md",
                 "default": false
               }
