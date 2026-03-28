@@ -65,6 +65,12 @@
                 "title": "Doom",
                 "path": "bean.md",
                 "default": true
+              },
+              {
+                "id": "schedule-e58302c4-6675-4577-badd-79b1c78d5fc8",
+                "title": "Taco First",
+                "path": "taco-first.md",
+                "default": false
               }
             ]
           }
