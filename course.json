@@ -71,6 +71,12 @@
                 "title": "pickles",
                 "path": "pickles.md",
                 "default": false
+              },
+              {
+                "id": "schedule-bc6920e8-cd38-4c03-a17c-f599108efa16",
+                "title": "Summer of fun",
+                "path": "summer-of-fun.md",
+                "default": false
               }
             ]
           }
