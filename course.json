@@ -50,7 +50,23 @@
           "path": "instruction/sched/sched.md",
           "id": "f0215903-cd92-4ea1-8861-59220ee627ae",
           "description": "",
-          "commit": "077ea8f2d221e65856c487eef2932d6aff7ecaed"
+          "commit": "077ea8f2d221e65856c487eef2932d6aff7ecaed",
+          "externalRefs": {
+            "schedules": [
+              {
+                "id": "default",
+                "title": "Sched",
+                "path": "sched.md",
+                "default": true
+              },
+              {
+                "id": "schedule-8d440b46-fabe-4e25-a587-04403fa9a059",
+                "title": "Bean",
+                "path": "bean.md",
+                "default": false
+              }
+            ]
+          }
         }
       ]
     }
