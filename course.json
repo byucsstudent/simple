@@ -58,13 +58,13 @@
                 "id": "default",
                 "title": "Sched",
                 "path": "sched.md",
-                "default": true
+                "default": false
               },
               {
                 "id": "schedule-8d440b46-fabe-4e25-a587-04403fa9a059",
                 "title": "Doom",
                 "path": "bean.md",
-                "default": false
+                "default": true
               }
             ]
           }
