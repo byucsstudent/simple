@@ -12,39 +12,6 @@
       },
       "topics": [
         {
-          "title": "Home",
-          "path": "README.md",
-          "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
-          "state": "published",
-          "interactions": [],
-          "commit": "6c027e1b277a49db34a91ae93be5f6d633a5d2b7",
-          "externalRefs": {
-            "canvasPageId": 1522335
-          }
-        },
-        {
-          "title": "Test",
-          "type": "instruction",
-          "path": "instruction/test/test.md",
-          "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
-          "state": "published",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522336
-          }
-        },
-        {
-          "title": "anothertest",
-          "type": "instruction",
-          "path": "instruction/anothertest/anothertest.md",
-          "id": "de21cce1-f4d2-4338-86e8-9049055f1086",
-          "state": "published",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522337
-          }
-        },
-        {
           "title": "Schedule",
           "type": "schedule",
           "path": "instruction/sched/sched.md",
@@ -79,6 +46,39 @@
                 "default": false
               }
             ]
+          }
+        },
+        {
+          "title": "Home",
+          "path": "README.md",
+          "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
+          "state": "published",
+          "interactions": [],
+          "commit": "6c027e1b277a49db34a91ae93be5f6d633a5d2b7",
+          "externalRefs": {
+            "canvasPageId": 1522335
+          }
+        },
+        {
+          "title": "Test",
+          "type": "instruction",
+          "path": "instruction/test/test.md",
+          "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
+          "state": "published",
+          "description": "",
+          "externalRefs": {
+            "canvasPageId": 1522336
+          }
+        },
+        {
+          "title": "anothertest",
+          "type": "instruction",
+          "path": "instruction/anothertest/anothertest.md",
+          "id": "de21cce1-f4d2-4338-86e8-9049055f1086",
+          "state": "published",
+          "description": "",
+          "externalRefs": {
+            "canvasPageId": 1522337
           }
         }
       ]
