@@ -1,4 +1,4 @@
-# Bean
+# Beano
 
 [fsdfs](fdsfsdds)
 
