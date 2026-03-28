@@ -49,8 +49,9 @@
           "type": "schedule",
           "path": "instruction/sched/sched.md",
           "id": "f0215903-cd92-4ea1-8861-59220ee627ae",
+          "state": "published",
           "description": "",
-          "commit": "9c5e3c443188ed1436890b058849d14bbf68603a",
+          "commit": "2fa5fcc76612bb62768a04cc62e0d3ce13e37b85",
           "externalRefs": {
             "schedules": [
               {
