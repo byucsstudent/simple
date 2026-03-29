@@ -1,6 +1,6 @@
 # Sched
 
-[BYU schedule](https://academicschedule.byu.edu)
+[BYU schedule](https://academiccalendar.byu.edu)
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
