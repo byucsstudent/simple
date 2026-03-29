@@ -43,13 +43,6 @@
           "externalRefs": {
             "canvasPageId": 1522337
           }
-        },
-        {
-          "title": "schedule",
-          "type": "schedule",
-          "path": "instruction/schedule/schedule.md",
-          "id": "0b009a03-a9fe-4788-ab7a-ecd677bcd634",
-          "description": ""
         }
       ]
     }
