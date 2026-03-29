@@ -28,7 +28,9 @@
           "path": "instruction/test/test.md",
           "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
           "state": "published",
+          "interactions": [],
           "description": "",
+          "commit": "206b9e0ef2c207c1c18aaac878ed7a2e72c69a4d",
           "externalRefs": {
             "canvasPageId": 1522336
           }
