@@ -65,11 +65,11 @@
           "id": "b6b9100f-fe92-4787-8321-4aecce42711d",
           "state": "published",
           "description": "",
-          "commit": "45155c30d7a3945cc675e91e33bce2d85f898bcb",
+          "commit": "737ce589f543f14f2991a77f50282428a1f42091",
           "schedules": [
             {
               "id": "a9488330-31e0-4d94-97eb-f98b83246a09",
-              "title": "schedule",
+              "title": "Jensen",
               "path": "schedule.md",
               "default": true
             }
