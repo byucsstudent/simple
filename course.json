@@ -114,6 +114,12 @@
               "title": "Old schedule",
               "path": "old-schedule.md",
               "default": false
+            },
+            {
+              "id": "b7180a90-3533-4d94-bc09-1a334579d419",
+              "title": "n1",
+              "path": "n1.md",
+              "default": false
             }
           ]
         }
