@@ -53,6 +53,7 @@
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "0bc51c30-cf46-4e05-b32b-a645fe3f625e",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "f0010846bf83707004e63a72fccf9d7a2154acfa"
@@ -62,7 +63,9 @@
           "type": "schedule",
           "path": "instruction/schedule/schedule.md",
           "id": "b6b9100f-fe92-4787-8321-4aecce42711d",
+          "state": "published",
           "description": "",
+          "commit": "a35b709877c201bd2fc085d16efcc2cae330f7ab",
           "schedules": [
             {
               "id": "a9488330-31e0-4d94-97eb-f98b83246a09",
