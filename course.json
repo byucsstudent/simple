@@ -72,6 +72,12 @@
               "title": "Jensen",
               "path": "schedule.md",
               "default": true
+            },
+            {
+              "id": "bc0c1713-e9f3-482a-9a1b-dea35a915e87",
+              "title": "Rodham",
+              "path": "rodham.md",
+              "default": false
             }
           ]
         }
