@@ -74,12 +74,6 @@
               "default": true
             },
             {
-              "id": "b29c119d-3e6d-42e3-9611-cf004527556f",
-              "title": "Section 4",
-              "path": "section-4.md",
-              "default": false
-            },
-            {
               "id": "6cbdbba5-8527-473b-9f60-fe0276ea4f89",
               "title": "Section 5",
               "path": "section-5.md",
