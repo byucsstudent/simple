@@ -18,7 +18,7 @@
           "id": "f0215903-cd92-4ea1-8861-59220ee627ae",
           "state": "published",
           "description": "",
-          "commit": "ecf2bb0c8663d81080309ab82a671494931ab277",
+          "commit": "15353d8ddd2ddc3d445c5df483cf85cbfba28ecb",
           "externalRefs": {
             "schedules": [
               {
@@ -43,12 +43,6 @@
                 "id": "schedule-bc6920e8-cd38-4c03-a17c-f599108efa16",
                 "title": "new summer",
                 "path": "summer-of-fun.md",
-                "default": false
-              },
-              {
-                "id": "schedule-ec0be117-c4a5-4175-8b14-a32997ace732",
-                "title": "newer summer",
-                "path": "newer-summer.md",
                 "default": false
               }
             ]
