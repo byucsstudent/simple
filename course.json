@@ -108,6 +108,12 @@
               "title": "Section 6",
               "path": "section-6.md",
               "default": false
+            },
+            {
+              "id": "7d0c1f78-5ee0-4418-bad3-d7e9590e4f2f",
+              "title": "Old schedule",
+              "path": "old-schedule.md",
+              "default": false
             }
           ]
         }
