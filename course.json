@@ -68,12 +68,6 @@
           "commit": "0096ac8a661ddc317a77a6a3b6497ff10970ed9a",
           "schedules": [
             {
-              "id": "default",
-              "title": "schedule",
-              "path": "schedule.md",
-              "default": true
-            },
-            {
               "id": "b7180a90-3533-4d94-bc09-1a334579d419",
               "title": "n1",
               "path": "n1.md",
