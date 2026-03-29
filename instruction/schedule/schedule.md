@@ -2,4 +2,4 @@
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
-|  1   |      |        |     |                |        |
+| 1 |  |  |  | [cow](../cow/cow.md) |  |
