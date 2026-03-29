@@ -9,3 +9,10 @@
 |  | Sat Apr 11, 2026 |  |  | [Test](../test/test.md)</br>[city](../anothertest/anothertest.md) |  |
 | 2 | Sat Apr 4, 2026 | `frontend` | [Test](../test/test.md) | [city](../anothertest/anothertest.md) | [Building cities](https://cow.com) |
 |  | Tue Mar 31, 2026 |  |  | [Test](../test/test.md) |  |
+
+## Special days
+
+- Thu May 14, 2026: Last day
+  All assignments are due
+- Sat May 30, 2026: Start of semester
+  start again
