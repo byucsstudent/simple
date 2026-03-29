@@ -84,6 +84,12 @@
               "title": "wilkerson",
               "path": "wilkerson.md",
               "default": false
+            },
+            {
+              "id": "2915e9a4-2964-46cd-875d-22cdcb413e3a",
+              "title": "Section3",
+              "path": "section3.md",
+              "default": false
             }
           ]
         }
