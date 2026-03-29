@@ -90,6 +90,12 @@
               "title": "Section3",
               "path": "section3.md",
               "default": false
+            },
+            {
+              "id": "b29c119d-3e6d-42e3-9611-cf004527556f",
+              "title": "Section 4",
+              "path": "section-4.md",
+              "default": false
             }
           ]
         }
