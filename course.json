@@ -39,7 +39,9 @@
           "path": "instruction/anothertest/anothertest.md",
           "id": "de21cce1-f4d2-4338-86e8-9049055f1086",
           "state": "published",
+          "interactions": [],
           "description": "",
+          "commit": "8880df7002351b83e492635dc5adc060da45e625",
           "externalRefs": {
             "canvasPageId": 1522337
           }
