@@ -74,12 +74,6 @@
               "default": true
             },
             {
-              "id": "90a4b9c5-027c-496c-af47-b4b603d3c912",
-              "title": "wilkerson",
-              "path": "wilkerson.md",
-              "default": false
-            },
-            {
               "id": "2915e9a4-2964-46cd-875d-22cdcb413e3a",
               "title": "Section3",
               "path": "section3.md",
