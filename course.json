@@ -71,7 +71,7 @@
               "id": "a9488330-31e0-4d94-97eb-f98b83246a09",
               "title": "Jensen",
               "path": "schedule.md",
-              "default": true
+              "default": false
             },
             {
               "id": "bc0c1713-e9f3-482a-9a1b-dea35a915e87",
@@ -119,7 +119,7 @@
               "id": "b7180a90-3533-4d94-bc09-1a334579d419",
               "title": "n1",
               "path": "n1.md",
-              "default": false
+              "default": true
             }
           ]
         }
