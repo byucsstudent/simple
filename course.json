@@ -44,6 +44,12 @@
                 "title": "Summer of fun",
                 "path": "summer-of-fun.md",
                 "default": false
+              },
+              {
+                "id": "schedule-c889c7db-8f66-42e3-a799-324d4efd5d10",
+                "title": "new summer",
+                "path": "new-summer.md",
+                "default": false
               }
             ]
           }
