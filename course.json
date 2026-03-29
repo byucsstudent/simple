@@ -102,6 +102,12 @@
               "title": "Section 5",
               "path": "section-5.md",
               "default": false
+            },
+            {
+              "id": "6ffbca09-c343-4a95-9071-f020427f4d14",
+              "title": "Section 6",
+              "path": "section-6.md",
+              "default": false
             }
           ]
         }
