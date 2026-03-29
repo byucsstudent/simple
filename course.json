@@ -68,10 +68,10 @@
           "commit": "0096ac8a661ddc317a77a6a3b6497ff10970ed9a",
           "schedules": [
             {
-              "id": "bc0c1713-e9f3-482a-9a1b-dea35a915e87",
-              "title": "Rodham",
-              "path": "rodham.md",
-              "default": false
+              "id": "default",
+              "title": "schedule",
+              "path": "schedule.md",
+              "default": true
             },
             {
               "id": "90a4b9c5-027c-496c-af47-b4b603d3c912",
