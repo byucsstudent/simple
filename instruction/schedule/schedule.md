@@ -1,4 +1,4 @@
-# schedule
+# Jensen
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
