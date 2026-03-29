@@ -49,7 +49,9 @@
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "0bc51c30-cf46-4e05-b32b-a645fe3f625e",
-          "description": ""
+          "interactions": [],
+          "description": "",
+          "commit": "f0010846bf83707004e63a72fccf9d7a2154acfa"
         }
       ]
     }
