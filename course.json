@@ -45,14 +45,6 @@
           }
         },
         {
-          "title": "cow",
-          "type": "instruction",
-          "path": "instruction/cow/cow.md",
-          "id": "2d31c447-46bb-4d5a-8f3b-8a8bd2f19e86",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "cowboy",
           "type": "instruction",
           "path": "instruction/cow-2/cow-2.md",
