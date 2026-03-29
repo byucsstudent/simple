@@ -12,43 +12,6 @@
       },
       "topics": [
         {
-          "title": "Schedule",
-          "type": "schedule",
-          "path": "instruction/sched/sched.md",
-          "id": "f0215903-cd92-4ea1-8861-59220ee627ae",
-          "state": "published",
-          "description": "",
-          "commit": "15353d8ddd2ddc3d445c5df483cf85cbfba28ecb",
-          "externalRefs": {
-            "schedules": [
-              {
-                "id": "default",
-                "title": "Schedx",
-                "path": "sched.md",
-                "default": false
-              },
-              {
-                "id": "schedule-8d440b46-fabe-4e25-a587-04403fa9a059",
-                "title": "Doom",
-                "path": "bean.md",
-                "default": true
-              },
-              {
-                "id": "schedule-51620218-57be-4e71-b50a-7e7bd8dd2d31",
-                "title": "pickles",
-                "path": "pickles.md",
-                "default": false
-              },
-              {
-                "id": "schedule-bc6920e8-cd38-4c03-a17c-f599108efa16",
-                "title": "new summer",
-                "path": "summer-of-fun.md",
-                "default": false
-              }
-            ]
-          }
-        },
-        {
           "title": "Home",
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
