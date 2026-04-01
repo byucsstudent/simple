@@ -19,7 +19,8 @@
         "id": "f74ff368-7a75-4b74-a97e-acd104c3eda8",
         "title": "Jensen",
         "path": "schedule/jensen.md",
-        "default": false
+        "default": false,
+        "commit": "f01338d4407241c9c596cc6ed18a26c26d3ca9aa"
       }
     ]
   },
