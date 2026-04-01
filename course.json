@@ -12,7 +12,8 @@
         "title": "Schedule",
         "path": "schedule/schedule.md",
         "default": true,
-        "state": "published"
+        "state": "published",
+        "commit": "22ed4e9f1ea6af79fa5609d8c8fde394e4a299b5"
       }
     ]
   },
