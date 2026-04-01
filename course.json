@@ -8,6 +8,20 @@
     "id": "schedule",
     "title": "Schedule",
     "path": "schedule/schedule.md",
+    "files": [
+      {
+        "id": "schedule",
+        "title": "Schedule",
+        "path": "schedule/schedule.md",
+        "default": true
+      },
+      {
+        "id": "c364417f-db99-43a5-aaf8-1e31dc2fea95",
+        "title": "taco",
+        "path": "taco.md",
+        "default": false
+      }
+    ],
     "state": "published",
     "commit": "cb103f0b26ace80d9e2fa3e6e9d3d685ba3e93bc"
   },
