@@ -68,6 +68,13 @@
           "state": "published",
           "interactions": [],
           "description": ""
+        },
+        {
+          "title": "cow video",
+          "type": "embedded",
+          "path": "https://www.youtube.com/embed/Yl65JzffgII",
+          "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
+          "description": "https://www.youtube.com/embed/Yl65JzffgII"
         }
       ]
     }
