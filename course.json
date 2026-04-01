@@ -13,7 +13,7 @@
         "path": "schedule/jensen.md",
         "default": true,
         "state": "published",
-        "commit": "37cdf726ba4d6ae10264f261b7f69f6e7fb86c58"
+        "commit": "bec4f72288b8d2e0199c4e8ed2c7b5c5c9653eef"
       }
     ]
   },
@@ -82,6 +82,7 @@
           "type": "exam",
           "path": "instruction/final/final.md",
           "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
+          "state": "published",
           "description": ""
         },
         {
@@ -89,6 +90,7 @@
           "type": "project",
           "path": "instruction/mastery-project/mastery-project.md",
           "id": "a95db487-be8b-478a-9ba9-8c1699bd9637",
+          "state": "published",
           "description": ""
         }
       ]
