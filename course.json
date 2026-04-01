@@ -8,7 +8,8 @@
     "id": "schedule",
     "title": "Schedule",
     "path": "schedule/schedule.md",
-    "state": "published"
+    "state": "published",
+    "commit": "cb103f0b26ace80d9e2fa3e6e9d3d685ba3e93bc"
   },
   "modules": [
     {
