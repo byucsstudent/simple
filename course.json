@@ -4,21 +4,6 @@
   "externalRefs": {
     "canvasCourseId": "33932"
   },
-  "schedule": {
-    "id": "5bcaf4fd-be82-4d90-957b-f78f5e8d39c8",
-    "title": "Jensen w2026",
-    "path": "schedule/schedule.md",
-    "state": "published",
-    "commit": "3c136648c4392eb52067253bc93b0ebbf9b06677",
-    "files": [
-      {
-        "id": "cefd27ed-660a-4fc2-b1ac-73aefea64e5d",
-        "title": "Jensen w2026",
-        "path": "schedule/schedule.md",
-        "default": true
-      }
-    ]
-  },
   "modules": [
     {
       "title": "Course info",
