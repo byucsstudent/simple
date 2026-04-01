@@ -76,6 +76,13 @@
           "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
           "state": "published",
           "description": "https://www.youtube.com/embed/Yl65JzffgII"
+        },
+        {
+          "title": "final",
+          "type": "exam",
+          "path": "instruction/final/final.md",
+          "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
+          "description": ""
         }
       ]
     }
