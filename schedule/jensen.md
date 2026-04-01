@@ -2,7 +2,7 @@
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
-| 1 |  |  |  | [Home](../README.md) |  |
-|  |  |  | [Home](../README.md) | [city](../instruction/anothertest/anothertest.md) |  |
-|  |  |  | [city](../instruction/anothertest/anothertest.md) | [Fish](../instruction/test/test.md)</br>[cow](../instruction/cow/cow.md) |  |
-|  |  |  | [Fish](../instruction/test/test.md)</br>[cow](../instruction/cow/cow.md) |  |  |
+| 1 | Wed Apr 1, 2026 |  |  | [Home](../README.md) |  |
+|  | Fri Apr 3, 2026 |  | [Home](../README.md) | [city](../instruction/anothertest/anothertest.md) |  |
+|  | Wed Apr 8, 2026 |  | [city](../instruction/anothertest/anothertest.md) | [Fish](../instruction/test/test.md)</br>[cow](../instruction/cow/cow.md) |  |
+|  | Fri Apr 10, 2026 |  | [Fish](../instruction/test/test.md)</br>[cow](../instruction/cow/cow.md) |  |  |
