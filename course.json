@@ -4,21 +4,6 @@
   "externalRefs": {
     "canvasCourseId": "33932"
   },
-  "schedule": {
-    "id": "schedule",
-    "title": "burger",
-    "path": "schedule/schedule.md",
-    "files": [
-      {
-        "id": "schedule",
-        "title": "burger",
-        "path": "schedule/schedule.md",
-        "default": true
-      }
-    ],
-    "state": "published",
-    "commit": "3af23c5efb32c78e8f49a646a97ea2dee2f86e5a"
-  },
   "modules": [
     {
       "title": "Course info",
