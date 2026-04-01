@@ -13,7 +13,7 @@
         "path": "schedule/jensen.md",
         "default": true,
         "state": "published",
-        "commit": "b0b19bed81c35cc33ca1b19324de568d8af279d6"
+        "commit": "de5497a84a54962e8bd39de5e86b8c7ab74a143e"
       }
     ]
   },
@@ -74,6 +74,7 @@
           "type": "embedded",
           "path": "https://www.youtube.com/embed/Yl65JzffgII",
           "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
+          "state": "published",
           "description": "https://www.youtube.com/embed/Yl65JzffgII"
         }
       ]
