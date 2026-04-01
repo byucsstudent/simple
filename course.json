@@ -4,6 +4,27 @@
   "externalRefs": {
     "canvasCourseId": "33932"
   },
+  "schedule": {
+    "id": "d60acc4b-7a30-416a-8f05-dee8e6e44824",
+    "files": [
+      {
+        "id": "d54af9ba-b84b-4e30-b44e-6541f3c99b8a",
+        "title": "Schedule",
+        "path": "schedule/schedule.md",
+        "default": true,
+        "state": "published",
+        "commit": "e94a035f7e297dedc1bd66497165a66e53e39cdc"
+      },
+      {
+        "id": "6580524d-8091-4d28-90be-9db1ca37ecb8",
+        "title": "tacos",
+        "path": "tacos.md",
+        "default": false,
+        "state": "published",
+        "commit": "44b7e122d7e4b5f692f5a227c2f9b8f83ef2272b"
+      }
+    ]
+  },
   "modules": [
     {
       "title": "Course info",
@@ -17,7 +38,6 @@
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
           "interactions": [],
-          "commit": "6c027e1b277a49db34a91ae93be5f6d633a5d2b7",
           "externalRefs": {
             "canvasPageId": 1522335
           }
@@ -30,7 +50,6 @@
           "state": "published",
           "interactions": [],
           "description": "",
-          "commit": "206b9e0ef2c207c1c18aaac878ed7a2e72c69a4d",
           "externalRefs": {
             "canvasPageId": 1522336
           }
@@ -43,7 +62,6 @@
           "state": "published",
           "interactions": [],
           "description": "",
-          "commit": "8880df7002351b83e492635dc5adc060da45e625",
           "externalRefs": {
             "canvasPageId": 1522337
           }
@@ -55,8 +73,7 @@
           "id": "0bc51c30-cf46-4e05-b32b-a645fe3f625e",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "commit": "f0010846bf83707004e63a72fccf9d7a2154acfa"
+          "description": ""
         }
       ]
     }
