@@ -1,0 +1,5 @@
+# Jensen w2026
+
+| Week | Date | Module | Due | Topics Covered | Slides |
+| :--: | ---- | ------ | --- | -------------- | ------ |
+|  1   |      |        |     |                |        |
