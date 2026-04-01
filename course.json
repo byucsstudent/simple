@@ -64,6 +64,7 @@
           "path": "instruction/schedule/schedule.md",
           "id": "f3f015fe-c9b4-488f-a36c-6ac9dab9f8d7",
           "description": "",
+          "commit": "b965a40e34dd1ad2aaebc9e65b2403b52e847efe",
           "schedules": [
             {
               "id": "e264ddb7-03a5-407c-89ec-56abc9bdd912",
