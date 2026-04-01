@@ -19,7 +19,8 @@
         "id": "6580524d-8091-4d28-90be-9db1ca37ecb8",
         "title": "tacos",
         "path": "tacos.md",
-        "default": false
+        "default": false,
+        "commit": "44b7e122d7e4b5f692f5a227c2f9b8f83ef2272b"
       }
     ]
   },
