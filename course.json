@@ -20,7 +20,8 @@
         "title": "Jensen",
         "path": "schedule/jensen.md",
         "default": false,
-        "commit": "49fb6e4086ab456034032bbc9d9ec303c78195d2"
+        "state": "published",
+        "commit": "db5503a33ea8b2a0e7df4f992e1370395dd3ac0b"
       }
     ]
   },
