@@ -16,6 +16,12 @@
         "title": "Schedule",
         "path": "schedule/schedule.md",
         "default": true
+      },
+      {
+        "id": "09ab583c-0262-4edc-b2e1-d97302c0a116",
+        "title": "Jensen w2026",
+        "path": "jensen-w2026.md",
+        "default": false
       }
     ]
   },
