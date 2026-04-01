@@ -92,6 +92,13 @@
           "id": "a95db487-be8b-478a-9ba9-8c1699bd9637",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "city slides",
+          "type": "embedded",
+          "path": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
+          "id": "73fbf3c2-5c0a-4c7e-a5d9-7f54cadd95c5",
+          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed"
         }
       ]
     }
