@@ -4,6 +4,18 @@
   "externalRefs": {
     "canvasCourseId": "33932"
   },
+  "schedule": {
+    "id": "c054d0f5-4170-4bec-b5eb-4190e1278c52",
+    "files": [
+      {
+        "id": "870eba18-5157-4cd5-b19d-9973b90082de",
+        "title": "Schedule",
+        "path": "schedule/schedule.md",
+        "default": true,
+        "state": "published"
+      }
+    ]
+  },
   "modules": [
     {
       "title": "Course info",
