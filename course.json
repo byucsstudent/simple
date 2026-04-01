@@ -11,7 +11,7 @@
         "id": "870eba18-5157-4cd5-b19d-9973b90082de",
         "title": "Schedule",
         "path": "schedule/schedule.md",
-        "default": true,
+        "default": false,
         "state": "published",
         "commit": "76070dbac747ddd75ce5a1829992af4f7b1b0d22"
       },
@@ -19,7 +19,7 @@
         "id": "f74ff368-7a75-4b74-a97e-acd104c3eda8",
         "title": "Jensen",
         "path": "schedule/jensen.md",
-        "default": false,
+        "default": true,
         "state": "published",
         "commit": "b0b19bed81c35cc33ca1b19324de568d8af279d6"
       }
