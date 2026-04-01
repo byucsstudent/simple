@@ -4,27 +4,6 @@
   "externalRefs": {
     "canvasCourseId": "33932"
   },
-  "schedule": {
-    "id": "c5810bdf-5bed-49ca-9ddc-b05d4ab7333d",
-    "files": [
-      {
-        "id": "0a47b588-7136-46f7-bc94-1196727f27ac",
-        "title": "Main",
-        "path": "schedule/schedule.md",
-        "default": true,
-        "state": "published",
-        "commit": "25821280861453fdaffba19abe26ade4c4c16620"
-      },
-      {
-        "id": "c5f2373e-3a0b-4ca1-a107-891835703eb0",
-        "title": "Joy",
-        "path": "schedule/joy.md",
-        "default": false,
-        "state": "published",
-        "commit": "d341feb0aae69739842803bfe33c834b735ffa02"
-      }
-    ]
-  },
   "modules": [
     {
       "title": "Course info",
