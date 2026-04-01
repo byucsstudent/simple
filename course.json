@@ -23,6 +23,29 @@
           }
         },
         {
+          "title": "schedule",
+          "type": "schedule",
+          "path": "instruction/schedule/schedule.md",
+          "id": "b6b9100f-fe92-4787-8321-4aecce42711d",
+          "state": "published",
+          "description": "",
+          "commit": "0096ac8a661ddc317a77a6a3b6497ff10970ed9a",
+          "schedules": [
+            {
+              "id": "default",
+              "title": "schedule",
+              "path": "schedule.md",
+              "default": true
+            },
+            {
+              "id": "b7180a90-3533-4d94-bc09-1a334579d419",
+              "title": "n1",
+              "path": "n1.md",
+              "default": true
+            }
+          ]
+        },
+        {
           "title": "Test",
           "type": "instruction",
           "path": "instruction/test/test.md",
@@ -57,23 +80,6 @@
           "interactions": [],
           "description": "",
           "commit": "f0010846bf83707004e63a72fccf9d7a2154acfa"
-        },
-        {
-          "title": "schedule",
-          "type": "schedule",
-          "path": "instruction/schedule/schedule.md",
-          "id": "b6b9100f-fe92-4787-8321-4aecce42711d",
-          "state": "published",
-          "description": "",
-          "commit": "0096ac8a661ddc317a77a6a3b6497ff10970ed9a",
-          "schedules": [
-            {
-              "id": "b7180a90-3533-4d94-bc09-1a334579d419",
-              "title": "n1",
-              "path": "n1.md",
-              "default": true
-            }
-          ]
         }
       ]
     }
