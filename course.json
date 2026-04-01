@@ -6,22 +6,16 @@
   },
   "schedule": {
     "id": "5bcaf4fd-be82-4d90-957b-f78f5e8d39c8",
-    "title": "Schedule",
+    "title": "Jensen w2026",
     "path": "schedule/schedule.md",
     "state": "published",
-    "commit": "a055ae478893e4366e91e6514fe9dfe4b3ca9db3",
+    "commit": "3c136648c4392eb52067253bc93b0ebbf9b06677",
     "files": [
       {
         "id": "cefd27ed-660a-4fc2-b1ac-73aefea64e5d",
-        "title": "Schedule",
+        "title": "Jensen w2026",
         "path": "schedule/schedule.md",
         "default": true
-      },
-      {
-        "id": "09ab583c-0262-4edc-b2e1-d97302c0a116",
-        "title": "Jensen w2026",
-        "path": "jensen-w2026.md",
-        "default": false
       }
     ]
   },
