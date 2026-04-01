@@ -57,22 +57,6 @@
           "interactions": [],
           "description": "",
           "commit": "f0010846bf83707004e63a72fccf9d7a2154acfa"
-        },
-        {
-          "title": "Schedule",
-          "type": "schedule",
-          "path": "instruction/schedule/schedule.md",
-          "id": "f3f015fe-c9b4-488f-a36c-6ac9dab9f8d7",
-          "description": "",
-          "commit": "b965a40e34dd1ad2aaebc9e65b2403b52e847efe",
-          "schedules": [
-            {
-              "id": "e264ddb7-03a5-407c-89ec-56abc9bdd912",
-              "title": "Schedule",
-              "path": "schedule.md",
-              "default": true
-            }
-          ]
         }
       ]
     }
