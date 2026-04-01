@@ -23,6 +23,21 @@
           }
         },
         {
+          "title": "winter 2026",
+          "type": "schedule",
+          "path": "schedule/winter-2026/winter-2026.md",
+          "id": "4d9884e3-58dc-46d6-8698-81c2119164d5",
+          "description": "",
+          "schedules": [
+            {
+              "id": "80926efe-6032-42c5-b22f-915535c8c3d9",
+              "title": "winter 2026",
+              "path": "winter-2026.md",
+              "default": true
+            }
+          ]
+        },
+        {
           "title": "Test",
           "type": "instruction",
           "path": "instruction/test/test.md",
@@ -57,21 +72,6 @@
           "interactions": [],
           "description": "",
           "commit": "f0010846bf83707004e63a72fccf9d7a2154acfa"
-        },
-        {
-          "title": "winter 2026",
-          "type": "schedule",
-          "path": "schedule/winter-2026/winter-2026.md",
-          "id": "4d9884e3-58dc-46d6-8698-81c2119164d5",
-          "description": "",
-          "schedules": [
-            {
-              "id": "80926efe-6032-42c5-b22f-915535c8c3d9",
-              "title": "winter 2026",
-              "path": "winter-2026.md",
-              "default": true
-            }
-          ]
         }
       ]
     }
