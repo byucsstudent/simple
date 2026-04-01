@@ -23,28 +23,6 @@
           }
         },
         {
-          "title": "winter 2026",
-          "type": "schedule",
-          "path": "schedule/winter-2026/winter-2026.md",
-          "id": "4d9884e3-58dc-46d6-8698-81c2119164d5",
-          "description": "",
-          "commit": "0d4b98421220f3d95ebb5cee17cb72ed230ab0f6",
-          "schedules": [
-            {
-              "id": "80926efe-6032-42c5-b22f-915535c8c3d9",
-              "title": "winter 2026",
-              "path": "winter-2026.md",
-              "default": true
-            },
-            {
-              "id": "7f47fb61-f733-46a2-8a01-8cf727cbfb6e",
-              "title": "jensen",
-              "path": "jensen.md",
-              "default": false
-            }
-          ]
-        },
-        {
           "title": "Test",
           "type": "instruction",
           "path": "instruction/test/test.md",
