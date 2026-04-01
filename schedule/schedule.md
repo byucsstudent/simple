@@ -1,4 +1,4 @@
-# Schedule
+# Main
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
