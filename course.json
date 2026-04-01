@@ -6,24 +6,18 @@
   },
   "schedule": {
     "id": "schedule",
-    "title": "taco",
+    "title": "burger",
     "path": "schedule/schedule.md",
     "files": [
       {
         "id": "schedule",
-        "title": "taco",
+        "title": "burger",
         "path": "schedule/schedule.md",
         "default": true
-      },
-      {
-        "id": "05451b39-2322-4412-94a8-6bb9198e0a17",
-        "title": "burger",
-        "path": "burger.md",
-        "default": false
       }
     ],
     "state": "published",
-    "commit": "70639cd84c4a4a0d44edcf768d4abef7ffbb2d7b"
+    "commit": "2fc5fb4fb65bde3927381c707e141fc8a03c4b96"
   },
   "modules": [
     {
