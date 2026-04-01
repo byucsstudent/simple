@@ -63,6 +63,7 @@
           "state": "published",
           "interactions": [],
           "description": "",
+          "commit": "22dd64d3d8108ff127b5e1ddbc5c5cf432345e62",
           "externalRefs": {
             "canvasPageId": 1522337
           }
