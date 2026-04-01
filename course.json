@@ -29,11 +29,11 @@
           "id": "b6b9100f-fe92-4787-8321-4aecce42711d",
           "state": "published",
           "description": "",
-          "commit": "0096ac8a661ddc317a77a6a3b6497ff10970ed9a",
+          "commit": "80b4a255e803c972edf2ae3022e8611f14215317",
           "schedules": [
             {
               "id": "default",
-              "title": "schedule",
+              "title": "Schedule",
               "path": "schedule.md",
               "default": true
             },
