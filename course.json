@@ -4,6 +4,12 @@
   "externalRefs": {
     "canvasCourseId": "33932"
   },
+  "schedule": {
+    "id": "schedule",
+    "title": "Schedule",
+    "path": "schedule/schedule.md",
+    "state": "published"
+  },
   "modules": [
     {
       "title": "Course info",
