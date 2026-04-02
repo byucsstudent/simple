@@ -13,3 +13,14 @@ When considering the final assembly of a high-quality, authentic taco, which fac
 - [ ] Using a cold, store-bought flour tortilla to ensure it does not tear when filled with heavy, unseasoned ingredients.
 - [ ] Focusing entirely on the heat level of the peppers to ensure the spice level masks the flavor of the other components.
 ```
+
+
+```masteryls
+{"id":"a0f441e1-ae14-4a35-8376-cbc42528c7ca", "title":"Elements of Skyline Composition", "type":"multiple-choice"}
+In urban design and architectural theory, which factor is most essential for creating a visually compelling and iconic city skyline?
+
+- [ ] A uniform roofline where all buildings are constructed to the same maximum height limit to ensure horizontal symmetry.
+- [x] The presence of distinct focal points or "anchor" landmarks that establish a clear visual hierarchy and a dynamic silhouette.
+- [ ] The strict adherence to a single architectural style and building material across all downtown structures to maintain consistency.
+- [ ] The elimination of all negative space between buildings to create a continuous, solid wall of glass and steel.
+```
