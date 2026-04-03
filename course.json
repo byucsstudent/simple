@@ -112,9 +112,11 @@
           "path": "instruction/table-scroll/table-scroll.md",
           "id": "0706c405-4f42-4b1c-bce7-7bd6275d09d0",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
+          ],
           "description": "",
-          "commit": "0f402a4b453335fc0401799d4470f7e639416c48"
+          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
         }
       ]
     }
