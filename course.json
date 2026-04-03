@@ -19,7 +19,8 @@
         "id": "9e87b980-d499-4081-b6a3-76b50654ec37",
         "title": "Winter",
         "path": "schedule/winter.md",
-        "default": false
+        "default": false,
+        "commit": "0db8bf381232e99c1f7efb011b3903de1e9616bf"
       }
     ]
   },
