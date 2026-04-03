@@ -40,9 +40,11 @@
           "path": "instruction/test/test.md",
           "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "fish-taco-01"
+          ],
           "description": "",
-          "commit": "ba5841c88672d59d1bee5c94992cf7a68d634f9e",
+          "commit": "03b1eda41e04050fef09698b1988afbda38d2487",
           "externalRefs": {
             "canvasPageId": 1522336
           }
