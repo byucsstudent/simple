@@ -41,10 +41,11 @@
           "id": "ee9ffe33-a6a3-4e0b-a108-a5f72c9cfbde",
           "state": "published",
           "interactions": [
+            "hist-001",
             "fish-taco-01"
           ],
           "description": "",
-          "commit": "03b1eda41e04050fef09698b1988afbda38d2487",
+          "commit": "4bf022dca5ee5d5a3bd9d8f9bcc63a81fef50df7",
           "externalRefs": {
             "canvasPageId": 1522336
           }
