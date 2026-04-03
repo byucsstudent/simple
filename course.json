@@ -53,9 +53,11 @@
           "path": "instruction/anothertest/anothertest.md",
           "id": "de21cce1-f4d2-4338-86e8-9049055f1086",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "urb-des-001"
+          ],
           "description": "",
-          "commit": "22dd64d3d8108ff127b5e1ddbc5c5cf432345e62",
+          "commit": "973ad509afc71fdd2debdb55beefc928198e5b4b",
           "externalRefs": {
             "canvasPageId": 1522337
           }
