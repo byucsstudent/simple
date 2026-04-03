@@ -14,6 +14,12 @@
         "default": true,
         "state": "published",
         "commit": "84f2777641bf75bad398f985c8c3ba7f85f696a7"
+      },
+      {
+        "id": "9e87b980-d499-4081-b6a3-76b50654ec37",
+        "title": "Winter",
+        "path": "schedule/winter.md",
+        "default": false
       }
     ]
   },
