@@ -130,13 +130,6 @@
           ],
           "description": "",
           "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
-        },
-        {
-          "title": "Gestalt",
-          "type": "embedded",
-          "path": "https://github.com/webprogramming260/webprogramming/blob/main/instruction/uxdesign/exampleCode/gestalt.html",
-          "id": "ccf1644a-63dd-4513-afcc-7e5938028099",
-          "description": "https://github.com/webprogramming260/webprogramming/blob/main/instruction/uxdesign/exampleCode/gestalt.html"
         }
       ]
     }
