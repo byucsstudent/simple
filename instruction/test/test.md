@@ -24,6 +24,8 @@ The following diagram illustrates the convergence of cultures that resulted in t
 
 ```mermaid
 graph TD
+    classDef default fill:#ffffff,stroke:#000000,color:#000000,stroke-width:1px;
+    
     A[Indigenous Mexican Tradition] -->|Corn Tortillas| C(The Modern Fish Taco)
     B[Japanese Immigrants] -->|Tempura Frying Techniques| C
     D[Baja California Geography] -->|Abundance of White Fish| C
