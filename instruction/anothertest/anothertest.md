@@ -10,6 +10,8 @@ Proper city design, often referred to as urban planning, is the technical and po
 
 One of the most influential frameworks in contemporary design is the **15-Minute City**. This concept suggests that every resident should be able to access their daily needs—work, groceries, healthcare, and education—within a 15-minute walk or bike ride from their home. To achieve this, planners must move away from "Euclidean Zoning" (where residential and commercial areas are strictly separated) and toward mixed-use development.
 
+[city slides](/course/07252223-4200-48d1-8e60-5e02e594d32a/topic/73fbf3c2-5c0a-4c7e-a5d9-7f54cadd95c5)
+
 ### Core Elements of Effective Design
 
 To build a resilient city, planners focus on several key pillars:
