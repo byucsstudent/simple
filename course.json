@@ -87,8 +87,12 @@
           "path": "instruction/cow/cow.md",
           "id": "0bc51c30-cf46-4e05-b32b-a645fe3f625e",
           "state": "published",
-          "interactions": [],
-          "description": ""
+          "interactions": [
+            "bovine-basics-01",
+            "0e28ce18-f54a-4632-9f90-27deae07c846"
+          ],
+          "description": "",
+          "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50"
         },
         {
           "title": "cow video",
