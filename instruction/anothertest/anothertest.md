@@ -31,6 +31,8 @@ graph TD
     F --> G[Mixed-Use Retail]
     F --> H[Urban Parks]
     G --> I[Low-Density Residential]
+
+        classDef default fill:#ffffff,stroke:#000000,color:#000000,stroke-width:1px;
 ```
 
 ### Data-Driven Planning
