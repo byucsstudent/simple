@@ -33,16 +33,6 @@
       },
       "topics": [
         {
-          "title": "Home",
-          "path": "README.md",
-          "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
-          "state": "published",
-          "interactions": [],
-          "externalRefs": {
-            "canvasPageId": 1522335
-          }
-        },
-        {
           "title": "Fish",
           "type": "instruction",
           "path": "instruction/test/test.md",
@@ -71,6 +61,16 @@
           "commit": "15e9366f22f4019114827a53bf2888bd28a2506e",
           "externalRefs": {
             "canvasPageId": 1522337
+          }
+        },
+        {
+          "title": "Home",
+          "path": "README.md",
+          "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
+          "state": "published",
+          "interactions": [],
+          "externalRefs": {
+            "canvasPageId": 1522335
           }
         },
         {
