@@ -82,6 +82,18 @@
           "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed"
         },
         {
+          "title": "Table Scroll",
+          "type": "instruction",
+          "path": "instruction/table-scroll/table-scroll.md",
+          "id": "0706c405-4f42-4b1c-bce7-7bd6275d09d0",
+          "state": "published",
+          "interactions": [
+            "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
+          ],
+          "description": "",
+          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
+        },
+        {
           "title": "cow",
           "type": "instruction",
           "path": "instruction/cow/cow.md",
@@ -122,18 +134,6 @@
           ],
           "description": "",
           "commit": "3cb470a4e08cf96a515f09bcc0b6627ea5a7f249"
-        },
-        {
-          "title": "Table Scroll",
-          "type": "instruction",
-          "path": "instruction/table-scroll/table-scroll.md",
-          "id": "0706c405-4f42-4b1c-bce7-7bd6275d09d0",
-          "state": "published",
-          "interactions": [
-            "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
-          ],
-          "description": "",
-          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
         }
       ]
     }
