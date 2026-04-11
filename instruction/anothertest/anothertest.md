@@ -64,3 +64,5 @@ What is the primary benefit of transitioning from traditional single-use zoning 
 - [x] It reduces car dependency by placing essential services within walking distance of residents
 - [ ] It simplifies the architectural process by using uniform building designs across the city
 ```
+
+![alt text](https://images.unsplash.com/photo-1767597186218-813e8e6c44d6?q=80&w=400)
