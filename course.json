@@ -134,6 +134,13 @@
           ],
           "description": "",
           "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
+        },
+        {
+          "title": "HTML",
+          "type": "instruction",
+          "path": "instruction/html/html.md",
+          "id": "3cea2619-f248-444b-99ee-80e16ac2074e",
+          "description": ""
         }
       ]
     }
