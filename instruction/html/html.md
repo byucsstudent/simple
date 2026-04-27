@@ -1,6 +1,7 @@
 
 # HTML
 
-![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
-
-overview content placeholder
+```masteryls
+{"id":"a9b2c3d4-e5f6-7890-1234-567890123460", "title":"AI web page", "type":"ai-web-page", "height":420}
+Create an HTML page from your prompt.
+```
