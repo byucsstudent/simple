@@ -140,9 +140,12 @@
           "type": "instruction",
           "path": "instruction/html/html.md",
           "id": "3cea2619-f248-444b-99ee-80e16ac2074e",
-          "interactions": [],
+          "state": "published",
+          "interactions": [
+            "a9b2c3d4-e5f6-7890-1234-567890123460"
+          ],
           "description": "",
-          "commit": "b0fa328ea8f59ecc760f97814ebb8a60219f0588"
+          "commit": "89583a82f33dee5819943fd63f4b746028f73d7d"
         }
       ]
     }
