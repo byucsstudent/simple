@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Laughing Pickle</title>
+    <style>
+        :root {
+            --pickle-green: #4a7c2c;
+            --pickle-dark: #2d4c1a;
+            --pickle-light: #76a35a;
+            --bg-color: #f0f8ff;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: var(--bg-color);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow: hidden;
+            touch-action: manipulation;
+        }
+
+        .container {
+            text-align: center;
+            position: relative;
+        }
+
+        h1 {
+            color: var(--pickle-dark);
+            margin-bottom: 2rem;
+            font-size: 1.5rem;
+        }
+
+        .pickle-wrapper {
+            position: relative;
+            cursor: pointer;
+            user-select: none;
+            transition: transform 0.1s;
+        }
+
+        .pickle-wrapper:active {
+            transform: scale(0.95);
+        }
+
+        #pickle-svg {
+            width: 150px;
+            height: auto;
+            filter: drop-shadow(0 10px 15px rgba(0,0,0,0.2));
+        }
+
+        /* Animations */
+        @keyframes shake {
+            0% { transform: rotate(0deg) translateY(0); }
+            25% { transform: rotate(8deg) translateY(-5px); }
+            50% { transform: rotate(-8deg) translateY(0); }
+            75% { transform: rotate(8deg) translateY(-5px); }
+            100% { transform: rotate(0deg) translateY(0); }
+        }
+
+        .laughing {
+            animation: shake 0.3s ease-in-out infinite;
+        }
+
+        .mouth {
+            transition: d 0.2s;
+        }
+
+        /* Laugh Text */
+        .laugh-text {
+            position: absolute;
+            font-weight: bold;
+            color: #d32f2f;
+            pointer-events: none;
+            z-index: 10;
+            font-size: 1.2rem;
+            animation: floatUp 1s ease-out forwards;
+        }
+
+        @keyframes floatUp {
+            0% { opacity: 1; transform: translateY(0) scale(1); }
+            100% { opacity: 0; transform: translateY(-100px) scale(1.5); }
+        }
+
+        .instructions {
+            margin-top: 2rem;
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <main class="container">
+        <h1>The Ticklish Pickle</h1>
+        
+        <div class="pickle-wrapper" id="pickle-trigger" role="button" aria-label="Click to make the pickle laugh">
+            <svg id="pickle-svg" viewBox="0 0 100 200" xmlns="http://www.w3.org/2000/svg">
+                <!-- Shadow/Texture -->
+                <defs>
+                    <radialGradient id="grad" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                        <stop offset="0%" style="stop-color:var(--pickle-light);stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:var(--pickle-green);stop-opacity:1" />
+                    </radialGradient>
+                </defs>
+                
+                <!-- Main Body -->
+                <path d="M30 30 C 10 60, 15 140, 30 170 C 45 195, 65 190, 75 165 C 90 130, 85 60, 70 30 C 55 5, 40 10, 30 30 Z" fill="url(#grad)" stroke="var(--pickle-dark)" stroke-width="3"/>
+                
+                <!-- Bumps -->
+                <circle cx="35" cy="50" r="3" fill="var(--pickle-dark)" opacity="0.4" />
+                <circle cx="65" cy="70" r="4" fill="var(--pickle-dark)" opacity="0.4" />
+                <circle cx="40" cy="110" r="3" fill="var(--pickle-dark)" opacity="0.4" />
+                <circle cx="60" cy="140" r="4" fill="var(--pickle-dark)" opacity="0.4" />
+                <circle cx="45" cy="160" r="2" fill="var(--pickle-dark)" opacity="0.4" />
+                <circle cx="70" cy="100" r="3" fill="var(--pickle-dark)" opacity="0.4" />
+                
+                <!-- Eyes -->
+                <g id="eyes">
+                    <circle cx="40" cy="65" r="5" fill="white" />
+                    <circle id="pupil-l" cx="40" cy="65" r="2" fill="black" />
+                    <circle cx="60" cy="65" r="5" fill="white" />
+                    <circle id="pupil-r" cx="60" cy="65" r="2" fill="black" />
+                </g>
+                
+                <!-- Mouth -->
+                <path id="pickle-mouth" d="M 40 85 Q 50 90 60 85" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" />
+            </svg>
+        </div>
+
+        <p class="instructions">Click or tap the pickle!</p>
+    </main>
+
+    <script>
+        const pickle = document.getElementById('pickle-trigger');
+        const svg = document.getElementById('pickle-svg');
+        const mouth = document.getElementById('pickle-mouth');
+        const container = document.querySelector('.container');
+        
+        const laughPhrases = ["HA HA!", "HEE HEE!", "HO HO!", "GIGGLE!", "SNORT!"];
+
+        function createLaughText() {
+            const span = document.createElement('span');
+            span.className = 'laugh-text';
+            span.textContent = laughPhrases[Math.floor(Math.random() * laughPhrases.length)];
+            
+            // Random position around the pickle
+            const x = (Math.random() * 100) - 50;
+            const y = (Math.random() * 50) - 25;
+            
+            span.style.left = `calc(50% + ${x}px)`;
+            span.style.top = `calc(50% + ${y}px)`;
+            
+            container.appendChild(span);
+            
+            // Cleanup
+            setTimeout(() => {
+                span.remove();
+            }, 1000);
+        }
+
+        function startLaughing() {
+            // Add animation class
+            svg.classList.add('laughing');
+            
+            // Open mouth
+            mouth.setAttribute('d', 'M 35 85 Q 50 110 65 85 Z');
+            mouth.setAttribute('fill', '#f00');
+
+            // Generate visual laughs
+            createLaughText();
+            const extraLaugh = setInterval(createLaughText, 150);
+
+            // Reset after a short delay
+            setTimeout(() => {
+                svg.classList.remove('laughing');
+                mouth.setAttribute('d', 'M 40 85 Q 50 90 60 85');
+                mouth.setAttribute('fill', 'none');
+                clearInterval(extraLaugh);
+            }, 800);
+        }
+
+        pickle.addEventListener('click', startLaughing);
+
+        // Subtle eye tracking
+        document.addEventListener('mousemove', (e) => {
+            const pupils = [document.getElementById('pupil-l'), document.getElementById('pupil-r')];
+            const rect = svg.getBoundingClientRect();
+            const centerX = rect.left + rect.width / 2;
+            const centerY = rect.top + rect.height / 2;
+            
+            const angle = Math.atan2(e.clientY - centerY, e.clientX - centerX);
+            const distance = 1.5;
+            
+            pupils.forEach((pupil, i) => {
+                const baseCX = i === 0 ? 40 : 60;
+                const baseCY = 65;
+                pupil.setAttribute('cx', baseCX + Math.cos(angle) * distance);
+                pupil.setAttribute('cy', baseCY + Math.sin(angle) * distance);
+            });
+        });
+    </script>
+</body>
+</html>
