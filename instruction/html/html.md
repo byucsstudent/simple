@@ -16,18 +16,8 @@ Make a laughing pickle
 {"id":"a9d2c3d4-e5f6-7890-1234-567890123460", "title":"AI web page", "type":"web-page", "file":"demo/pickle.html", "height":420}
 ```
 
-
 ```masteryls
-{"id":"a9d2c3d4-e5f6-7890-1234-567890123460", "title":"AI web page", "type":"web-page",  "height":420}
-<html>
-  <body>
-    Hello world
-  </body>
-</html>
-```
-
-```masteryls
-{"id":"a9c2c3d4-e5f6-7890-1234-567890123460", "title":"Basic React Demo", "type":"web-page", "file":"demo/reactBasic.html" "height":420}
+{"id":"a9c2c3d4-e5f6-7890-1234-567890123460", "title":"Basic React Demo", "type":"web-page", "height":420}
 <!DOCTYPE html>
 <html lang="en">
 <head>
