@@ -7,8 +7,8 @@ Create a web page that demonstrates the proper use of HTML structural elements.
 ```
 
 ```masteryls
-{"id":"a9b2c3d4-e5f6-7890-1234-567890123460", "title":"Laughing pickle", "type":"ai-web-page", "height":420}
-Make a laughing pickle
+{"id":"a9b2c3d4-e5f6-7890-1234-567890123460", "title":"Animation usage", "type":"ai-web-page", "height":420}
+Demonstrate the use of CSS animation. The web page should include at least one animation that repeats.
 ```
 
 
