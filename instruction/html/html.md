@@ -2,10 +2,8 @@
 # HTML
 
 ```masteryls
-{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"AI Web Page (Prompt + Starter HTML)", "type":"ai-web-page", "height":240, "gradingCriteria":"Create a responsive page with semantic HTML, accessible labels, and a clear call-to-action. Score based on structure, accessibility, and prompt alignment."}
-Build a landing page for a student coding club.
-Use the prompt box to generate a first version, then edit and submit.
-
+{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"HTML Structure", "type":"ai-web-page", "height":240, "gradingCriteria":"The page should demonstrate proper use of semantic HTML elements, accessible labels, and a clear call-to-action. Score based on structure, proper use of elements, and accessibility."}
+Create a page that demonstrates proper use of semantic HTML elements, accessible labels, and a clear call-to-action. You can use the AI generator to get started or start from scratch.
 ~~~html
 <!doctype html>
 <html>
@@ -16,13 +14,12 @@ Use the prompt box to generate a first version, then edit and submit.
     <style>
       body { font-family: sans-serif; margin: 0; padding: 24px; }
       main { max-width: 720px; margin: 0 auto; }
-      .cta { display: inline-block; padding: 10px 14px; background: #0b60d0; color: #fff; text-decoration: none; border-radius: 8px; }
     </style>
   </head>
   <body>
     <main>
-      <h1>Join Cow Coding Club</h1>
-      <p>Build projects, prepare for hackathons, and level up your skills.</p>
+      <h1>HTML demo</h1>
+      <p>This is a paragraph</p>
       <a class="cta" href="#join">Join now</a>
     </main>
   </body>
