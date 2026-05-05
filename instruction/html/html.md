@@ -10,8 +10,8 @@
 ```
 
 ```masteryls
-{"id":"16d0d1b0-8af0-491f-9415-a39000cae3b4", "title":"AI web page", "type":"ai-web-page", "height":250 }
-Create an HTML page from your prompt.
+{"id":"94b47af6-f160-412f-9a28-c325e28c1d40", "title":"Web page development", "type":"ai-web-page", "height":250 }
+Interactively create an HTML page from your prompt.
 
 ~~~html
   <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#22d3aa,#004949);color:#ecfeff;font-family:ui-monospace,monospace;">
