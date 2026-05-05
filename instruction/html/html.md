@@ -2,9 +2,34 @@
 # HTML
 
 ```masteryls
-{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"HTML Structure", "type":"ai-web-page", "height":420}
-Create a web page that demonstrates the proper use of HTML structural elements.
+{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"AI Web Page (Prompt + Starter HTML)", "type":"ai-web-page", "height":420, "gradingCriteria":"Create a responsive page with semantic HTML, accessible labels, and a clear call-to-action. Score based on structure, accessibility, and prompt alignment."}
+Build a landing page for a student coding club.
+Use the prompt box to generate a first version, then edit and submit.
+
+~~~html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coding Club</title>
+    <style>
+      body { font-family: sans-serif; margin: 0; padding: 24px; }
+      main { max-width: 720px; margin: 0 auto; }
+      .cta { display: inline-block; padding: 10px 14px; background: #0b60d0; color: #fff; text-decoration: none; border-radius: 8px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Join Cow Coding Club</h1>
+      <p>Build projects, prepare for hackathons, and level up your skills.</p>
+      <a class="cta" href="#join">Join now</a>
+    </main>
+  </body>
+</html>
+~~~
 ```
+
 
 ```masteryls
 {"id":"a9b2c3d4-e5f6-7890-1234-567890123460", "title":"Animation usage", "type":"ai-web-page", "height":420}
