@@ -2,7 +2,7 @@
 # HTML
 
 ```masteryls
-{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"AI Web Page (Prompt + Starter HTML)", "type":"ai-web-page", "height":420, "gradingCriteria":"Create a responsive page with semantic HTML, accessible labels, and a clear call-to-action. Score based on structure, accessibility, and prompt alignment."}
+{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"AI Web Page (Prompt + Starter HTML)", "type":"ai-web-page", "height":240, "gradingCriteria":"Create a responsive page with semantic HTML, accessible labels, and a clear call-to-action. Score based on structure, accessibility, and prompt alignment."}
 Build a landing page for a student coding club.
 Use the prompt box to generate a first version, then edit and submit.
 
