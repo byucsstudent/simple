@@ -2,7 +2,7 @@
 # HTML
 
 ```masteryls
-{"id":"a9e2c3d4-e5f6-7890-1234-567890123460", "title":"HTML Structure", "type":"ai-web-page", "height":420}
+{"id":"b9e2c3d4-e5f6-7890-1234-567890123460", "title":"HTML Structure", "type":"ai-web-page", "height":420}
 Create a web page that demonstrates the proper use of HTML structural elements.
 ```
 
