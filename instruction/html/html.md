@@ -3,6 +3,25 @@
 
 
 ```masteryls
+{"id":"aea2c9b9-bf13-4019-a5d2-363da735f3e0", "title":"Web page", "type":"web-page", "height":250}
+  <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#22d3ee,#0f172a);color:#ecfeff;font-family:ui-monospace,monospace;">
+    <h1 style="font-size:clamp(1.4rem,4vw,2.4rem);letter-spacing:.06em;">Hello, curious learner.</h1>
+  </body>
+```
+
+```masteryls
+{"id":"16d0d1b0-8af0-491f-9415-a39000cae3b4", "title":"AI web page", "type":"ai-web-page", "height":250 }
+Create an HTML page from your prompt.
+
+~~~html
+  <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#22d3aa,#004949);color:#ecfeff;font-family:ui-monospace,monospace;">
+    <h1 style="font-size:clamp(1.4rem,4vw,2.4rem);letter-spacing:.06em;">Hello, curious learner.</h1>
+  </body>
+~~~
+```
+
+
+```masteryls
 {"id":"f9e2c3d4-e5f6-7890-1234-567890123460", "title":"HTML Structure", "type":"ai-web-page", "height":240, "gradingCriteria":"The page should demonstrate proper use of semantic HTML elements, accessible labels, and a clear call-to-action. Score based on structure, proper use of elements, and accessibility."}
 Create a page that demonstrates proper use of semantic HTML elements, accessible labels, and a clear call-to-action. You can use the AI generator to get started or start from scratch.
 ~~~html
