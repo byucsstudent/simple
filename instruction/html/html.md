@@ -9,8 +9,9 @@
   </body>
 ```
 
+
 ```masteryls
-{"id":"94b47af6-f160-412f-9a28-c325e28c1d40", "title":"Web page development", "type":"ai-web-page", "height":250 }
+{"id":"66b21705-47fa-4765-99a1-edf221121066", "title":"Web page development", "type":"ai-web-page", "height":500 }
 Interactively create an HTML page from your prompt.
 
 ~~~html
