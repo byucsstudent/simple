@@ -143,12 +143,10 @@
           "state": "published",
           "interactions": [
             "94b47af6-f160-412f-9a28-c325e28c1d40",
-            "f9e2c3d4-e5f6-7890-1234-567890123460",
-            "b9e2c3d4-e5f6-7890-1234-567890123460",
             "a9b2c3d4-e5f6-7890-1234-567890123460"
           ],
           "description": "",
-          "commit": "3d0768258d7289387f90d0ee16259140416c27eb"
+          "commit": "f5e43632e9bb37d10cd668de32226dd9cbc668e4"
         }
       ]
     }
