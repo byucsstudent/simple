@@ -142,11 +142,12 @@
           "id": "3cea2619-f248-444b-99ee-80e16ac2074e",
           "state": "published",
           "interactions": [
+            "f9e2c3d4-e5f6-7890-1234-567890123460",
             "b9e2c3d4-e5f6-7890-1234-567890123460",
             "a9b2c3d4-e5f6-7890-1234-567890123460"
           ],
           "description": "",
-          "commit": "0bf024d2f64af1165de0117f94c3c0406b8356af"
+          "commit": "2ba1d0972df13671aa87627ee4c296ab3050d2ec"
         }
       ]
     }
