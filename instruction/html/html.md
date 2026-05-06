@@ -11,7 +11,7 @@
 
 
 ```masteryls
-{"id":"b0c3c187-8e65-4d4f-9f60-b2aae1941d04", "title":"Web page development", "type":"ai-web-page", "height":500 }
+{"id":"b0c3c187-8e65-4d4f-9f60-b2aae1941d04", "title":"Web page development", "type":"ai-web-page", "gradingCriteria":"The word 'byu' must be included in the HTML.", "height":500 }
 Interactively create an HTML page from your prompt.
 
 ~~~html
