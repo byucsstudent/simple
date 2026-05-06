@@ -1,7 +1,11 @@
 
 # HTML
 
-
+```html
+  <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#d3aa,#004049);color:#ecfeff;font-family:ui-monospace,monospace;">
+    <h1 style="font-size:clamp(1.4rem,4vw,2.4rem);letter-spacing:.06em;">React router</h1>
+  </body>
+```
 ```masteryls
 {"id":"92535d2e-1a6e-4de3-8591-46b7b552dc5e", "title":"React router", "type":"ai-web-page", "gradingCriteria":"A React router with multiple views is included", "height":500 }
 Interactively create an HTML page from your prompt.
