@@ -149,6 +149,13 @@
           ],
           "description": "",
           "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441"
+        },
+        {
+          "title": "testdelete",
+          "type": "instruction",
+          "path": "instruction/testdelete/testdelete.md",
+          "id": "c6f76766-6964-4e4a-8c39-03839aac64b7",
+          "description": ""
         }
       ]
     }
