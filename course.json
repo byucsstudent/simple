@@ -59,13 +59,6 @@
           }
         },
         {
-          "title": "testdelete",
-          "type": "instruction",
-          "path": "instruction/testdelete/testdelete.md",
-          "id": "c6f76766-6964-4e4a-8c39-03839aac64b7",
-          "description": ""
-        },
-        {
           "title": "city",
           "type": "instruction",
           "path": "instruction/anothertest/anothertest.md",
