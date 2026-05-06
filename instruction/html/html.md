@@ -1,12 +1,15 @@
 
 # HTML
 
+## Basic code sample
+
 ```html
   <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#d3aa,#004049);color:#ecfeff;font-family:ui-monospace,monospace;">
     <h1 style="font-size:clamp(1.4rem,4vw,2.4rem);letter-spacing:.06em;">React router</h1>
   </body>
 ```
 
+## Manipulating the DOM
 
 ```masteryls
 {"id":"05db5593-00b4-4dbd-ac28-b0ac04205e27", "title":"Dom Reactivity", "type":"ai-web-page", "gradingCriteria":"Demonstrates direct manipulation of the DOM", "height":500 }
@@ -355,7 +358,6 @@ Demonstrate directly manipulating the DOM to represent state.
 ```
 
 
-
 ```masteryls
 {"id":"92535d2e-1a6e-4de3-8591-46b7b552dc5e", "title":"React state", "type":"ai-web-page", "gradingCriteria":"React state demonstrated", "height":500 }
 Demonstrate how React state hooks work. 
@@ -651,6 +653,8 @@ Demonstrate how React state hooks work.
 ~~~
 ```
 
+## A nicely styled HTML page use CSS
+
 
 ```masteryls
 {"id":"aea2c9b9-bf13-4019-a5d2-363da735f3e0", "title":"Web page", "type":"web-page", "height":250}
@@ -659,10 +663,11 @@ Demonstrate how React state hooks work.
   </body>
 ```
 
+## Your turn
 
 ```masteryls
 {"id":"b0c3c187-8e65-4d4f-9f60-b2aae1941d04", "title":"Web page development", "type":"ai-web-page", "gradingCriteria":"The word 'byu' must be included in the HTML.", "height":500 }
-Interactively create an HTML page from your prompt.
+Create an HTML page. You can start with one generated from a prompt. Or start from the provided HTML. Don't forget to represent BYU in your app.
 
 ~~~html
   <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#22d3aa,#004949);color:#ecfeff;font-family:ui-monospace,monospace;">
@@ -671,17 +676,20 @@ Interactively create an HTML page from your prompt.
 ~~~
 ```
 
-
+## Animation
 
 ```masteryls
 {"id":"a9b2c3d4-e5f6-7890-1234-567890123460", "title":"Animation usage", "type":"ai-web-page", "height":420}
 Demonstrate the use of CSS animation. The web page should include at least one animation that repeats.
 ```
 
+## A pickle demo
 
 ```masteryls
 {"id":"a9d2c3d4-e5f6-7890-1234-567890123460", "title":"AI web page", "type":"web-page", "file":"demo/pickle.html", "height":420}
 ```
+
+## Demonstrating that you can load React from a CDN for a demo
 
 ```masteryls
 {"id":"a9c2c3d4-e5f6-7890-1234-567890123460", "title":"Basic React Demo", "type":"web-page", "height":420}
