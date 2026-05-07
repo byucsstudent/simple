@@ -121,11 +121,12 @@
           "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
           "state": "published",
           "interactions": [
+            "taco-mastery-01",
             "1bbf8b11-d05d-4035-8685-5bc0efe724d2",
-            "a0f441e1-ae14-4a35-8376-cbc42528c7ca"
+            "ca847f9a-527d-4148-97fb-636a2a904981"
           ],
           "description": "",
-          "commit": "3cb470a4e08cf96a515f09bcc0b6627ea5a7f249"
+          "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365"
         },
         {
           "title": "Table Scroll",
