@@ -1,9 +1,6 @@
 {
   "title": "Simple",
   "links": {},
-  "externalRefs": {
-    "canvasCourseId": "33932"
-  },
   "schedule": {
     "id": "c054d0f5-4170-4bec-b5eb-4190e1278c52",
     "files": [
@@ -28,19 +25,13 @@
   "modules": [
     {
       "title": "Course info",
-      "externalRefs": {
-        "canvasModuleId": 377894
-      },
       "topics": [
         {
           "title": "Home",
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
-          "interactions": [],
-          "externalRefs": {
-            "canvasPageId": 1522335
-          }
+          "interactions": []
         },
         {
           "title": "Fish",
@@ -53,10 +44,7 @@
             "fish-taco-01"
           ],
           "description": "",
-          "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078",
-          "externalRefs": {
-            "canvasPageId": 1522336
-          }
+          "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078"
         },
         {
           "title": "city",
@@ -68,10 +56,7 @@
             "urb-des-001"
           ],
           "description": "",
-          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e",
-          "externalRefs": {
-            "canvasPageId": 1522337
-          }
+          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e"
         },
         {
           "title": "city slides",
