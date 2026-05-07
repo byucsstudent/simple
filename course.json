@@ -29,7 +29,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 386677
+        "canvasModuleId": 386676
       },
       "topics": [
         {
@@ -38,9 +38,7 @@
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
           "interactions": [],
-          "externalRefs": {
-            "canvasPageId": 1555468
-          }
+          "externalRefs": {}
         },
         {
           "title": "Fish",
@@ -55,7 +53,7 @@
           "description": "",
           "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078",
           "externalRefs": {
-            "canvasPageId": 1555470
+            "canvasPageId": 1555469
           }
         },
         {
@@ -70,7 +68,7 @@
           "description": "",
           "commit": "15e9366f22f4019114827a53bf2888bd28a2506e",
           "externalRefs": {
-            "canvasPageId": 1555472
+            "canvasPageId": 1555471
           }
         },
         {
@@ -80,7 +78,9 @@
           "id": "73fbf3c2-5c0a-4c7e-a5d9-7f54cadd95c5",
           "state": "published",
           "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
-          "externalRefs": {}
+          "externalRefs": {
+            "canvasPageId": 1555473
+          }
         },
         {
           "title": "cow",
@@ -94,7 +94,9 @@
           ],
           "description": "",
           "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50",
-          "externalRefs": {}
+          "externalRefs": {
+            "canvasPageId": 1555475
+          }
         },
         {
           "title": "cow video",
@@ -103,9 +105,7 @@
           "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
           "state": "published",
           "description": "https://www.youtube.com/embed/Yl65JzffgII",
-          "externalRefs": {
-            "canvasPageId": 1555477
-          }
+          "externalRefs": {}
         },
         {
           "title": "mastery project",
@@ -119,7 +119,7 @@
           "description": "",
           "commit": "5cbc6243295ce67f1583ff045f95dacc5f15fee6",
           "externalRefs": {
-            "canvasPageId": 1555480
+            "canvasPageId": 1555479
           }
         },
         {
@@ -134,7 +134,7 @@
           "description": "",
           "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a",
           "externalRefs": {
-            "canvasPageId": 1555482
+            "canvasPageId": 1555481
           }
         },
         {
@@ -152,7 +152,7 @@
           "description": "",
           "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441",
           "externalRefs": {
-            "canvasPageId": 1555483
+            "canvasPageId": 1555485
           }
         },
         {
@@ -169,7 +169,7 @@
           "description": "Don't begin this exam until you are ready.",
           "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365",
           "externalRefs": {
-            "canvasPageId": 1555484
+            "canvasPageId": 1555486
           }
         }
       ]
