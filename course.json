@@ -108,7 +108,11 @@
           "path": "instruction/mastery-project/mastery-project.md",
           "id": "a95db487-be8b-478a-9ba9-8c1699bd9637",
           "state": "published",
-          "description": ""
+          "interactions": [
+            "f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2"
+          ],
+          "description": "",
+          "commit": "5cbc6243295ce67f1583ff045f95dacc5f15fee6"
         },
         {
           "title": "final",
