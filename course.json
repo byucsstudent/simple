@@ -29,7 +29,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 386690
+        "canvasModuleId": 386772
       },
       "topics": [
         {
@@ -39,7 +39,7 @@
           "state": "published",
           "interactions": [],
           "externalRefs": {
-            "canvasPageId": 1555607
+            "canvasPageId": 1555741
           }
         },
         {
@@ -55,7 +55,7 @@
           "description": "",
           "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078",
           "externalRefs": {
-            "canvasPageId": 1555608
+            "canvasPageId": 1555742
           }
         },
         {
@@ -70,7 +70,7 @@
           "description": "",
           "commit": "15e9366f22f4019114827a53bf2888bd28a2506e",
           "externalRefs": {
-            "canvasPageId": 1555609
+            "canvasPageId": 1555743
           }
         },
         {
@@ -81,7 +81,7 @@
           "state": "published",
           "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
           "externalRefs": {
-            "canvasPageId": 1555610
+            "canvasPageId": 1555744
           }
         },
         {
@@ -97,7 +97,7 @@
           "description": "",
           "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50",
           "externalRefs": {
-            "canvasPageId": 1555611
+            "canvasPageId": 1555745
           }
         },
         {
@@ -108,12 +108,13 @@
           "state": "published",
           "description": "https://www.youtube.com/embed/Yl65JzffgII",
           "externalRefs": {
-            "canvasPageId": 1555612
+            "canvasPageId": 1555746
           }
         },
         {
           "title": "mastery project",
           "type": "project",
+          "points": 100,
           "path": "instruction/mastery-project/mastery-project.md",
           "id": "a95db487-be8b-478a-9ba9-8c1699bd9637",
           "state": "published",
@@ -123,7 +124,7 @@
           "description": "",
           "commit": "5cbc6243295ce67f1583ff045f95dacc5f15fee6",
           "externalRefs": {
-            "canvasAssignmentId": 1352174
+            "canvasAssignmentId": 1352501
           }
         },
         {
@@ -138,7 +139,7 @@
           "description": "",
           "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a",
           "externalRefs": {
-            "canvasPageId": 1555613
+            "canvasPageId": 1555747
           }
         },
         {
@@ -156,12 +157,13 @@
           "description": "",
           "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441",
           "externalRefs": {
-            "canvasPageId": 1555614
+            "canvasPageId": 1555748
           }
         },
         {
           "title": "final",
           "type": "exam",
+          "points": 200,
           "path": "instruction/final/final.md",
           "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
           "state": "published",
@@ -173,7 +175,7 @@
           "description": "Don't begin this exam until you are ready.",
           "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365",
           "externalRefs": {
-            "canvasQuizId": 617735
+            "canvasQuizId": 617863
           }
         }
       ]
