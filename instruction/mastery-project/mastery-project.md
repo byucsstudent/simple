@@ -19,8 +19,8 @@
 
 
 ```masteryls
-{"id":"f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2", "title":"Mastery submission", "type":"url-submission" }
-**Submit** the URL of your project GitHub repository.
+{"id":"f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2", "title":"Mastery submission", "type":"url-submission", "gradingCriteria":"The page has the text BYU on it" }
+Submit a URL for a web page that has the text **BYU** on it.
 
-_Example: https://github.com/youraccount/yourrepo_
+_Example: https://www.byu.edu_
 ```
