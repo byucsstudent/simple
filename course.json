@@ -34,6 +34,21 @@
           "interactions": []
         },
         {
+          "title": "HTML",
+          "type": "instruction",
+          "path": "instruction/html/html.md",
+          "id": "3cea2619-f248-444b-99ee-80e16ac2074e",
+          "state": "published",
+          "interactions": [
+            "05db5593-00b4-4dbd-ac28-b0ac04205e27",
+            "92535d2e-1a6e-4de3-8591-46b7b552dc5e",
+            "b0c3c187-8e65-4d4f-9f60-b2aae1941d04",
+            "a9b2c3d4-e5f6-7890-1234-567890123460"
+          ],
+          "description": "",
+          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441"
+        },
+        {
           "title": "Fish",
           "type": "instruction",
           "path": "instruction/test/test.md",
@@ -111,21 +126,6 @@
           ],
           "description": "",
           "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
-        },
-        {
-          "title": "HTML",
-          "type": "instruction",
-          "path": "instruction/html/html.md",
-          "id": "3cea2619-f248-444b-99ee-80e16ac2074e",
-          "state": "published",
-          "interactions": [
-            "05db5593-00b4-4dbd-ac28-b0ac04205e27",
-            "92535d2e-1a6e-4de3-8591-46b7b552dc5e",
-            "b0c3c187-8e65-4d4f-9f60-b2aae1941d04",
-            "a9b2c3d4-e5f6-7890-1234-567890123460"
-          ],
-          "description": "",
-          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441"
         },
         {
           "title": "final",
