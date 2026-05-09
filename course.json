@@ -160,7 +160,12 @@
           "externalRefs": {
             "canvasAssignmentId": 1352866
           }
-        },
+        }
+      ]
+    },
+    {
+      "title": "Part 2",
+      "topics": [
         {
           "title": "final",
           "type": "exam",
@@ -178,12 +183,7 @@
           "externalRefs": {
             "canvasQuizId": 617977
           }
-        }
-      ]
-    },
-    {
-      "title": "Part 2",
-      "topics": [
+        },
         {
           "title": "junk",
           "type": "instruction",
