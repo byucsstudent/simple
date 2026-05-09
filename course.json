@@ -123,6 +123,17 @@
           }
         },
         {
+          "title": "cow video",
+          "type": "embedded",
+          "path": "https://www.youtube.com/embed/Yl65JzffgII",
+          "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
+          "state": "published",
+          "description": "https://www.youtube.com/embed/Yl65JzffgII",
+          "externalRefs": {
+            "canvasPageId": 1556076
+          }
+        },
+        {
           "title": "mastery project",
           "type": "project",
           "points": 100,
@@ -136,17 +147,6 @@
           "commit": "add01dbd8a45448119887aeb6c76e6dbd24dbd87",
           "externalRefs": {
             "canvasAssignmentId": 1352866
-          }
-        },
-        {
-          "title": "cow video",
-          "type": "embedded",
-          "path": "https://www.youtube.com/embed/Yl65JzffgII",
-          "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
-          "state": "published",
-          "description": "https://www.youtube.com/embed/Yl65JzffgII",
-          "externalRefs": {
-            "canvasPageId": 1556076
           }
         }
       ]
