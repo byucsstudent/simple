@@ -1,6 +1,10 @@
 {
   "title": "Simple",
   "links": {},
+  "externalRefs": {
+    "canvasCourseId": "20802",
+    "canvasScheduleFileId": "f74ff368-7a75-4b74-a97e-acd104c3eda8"
+  },
   "schedule": {
     "id": "c054d0f5-4170-4bec-b5eb-4190e1278c52",
     "files": [
@@ -25,13 +29,19 @@
   "modules": [
     {
       "title": "Course info",
+      "externalRefs": {
+        "canvasModuleId": 386863
+      },
       "topics": [
         {
           "title": "Home",
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
-          "interactions": []
+          "interactions": [],
+          "externalRefs": {
+            "canvasPageId": 1556038
+          }
         },
         {
           "title": "HTML",
@@ -46,7 +56,10 @@
             "a9b2c3d4-e5f6-7890-1234-567890123460"
           ],
           "description": "",
-          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441"
+          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441",
+          "externalRefs": {
+            "canvasPageId": 1556039
+          }
         },
         {
           "title": "Fish",
@@ -59,7 +72,10 @@
             "fish-taco-01"
           ],
           "description": "",
-          "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078"
+          "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078",
+          "externalRefs": {
+            "canvasPageId": 1556040
+          }
         },
         {
           "title": "city",
@@ -71,7 +87,10 @@
             "urb-des-001"
           ],
           "description": "",
-          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e"
+          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e",
+          "externalRefs": {
+            "canvasPageId": 1556041
+          }
         },
         {
           "title": "city slides",
@@ -79,7 +98,10 @@
           "path": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
           "id": "73fbf3c2-5c0a-4c7e-a5d9-7f54cadd95c5",
           "state": "published",
-          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed"
+          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
+          "externalRefs": {
+            "canvasPageId": 1556042
+          }
         },
         {
           "title": "cow",
@@ -92,7 +114,10 @@
             "0e28ce18-f54a-4632-9f90-27deae07c846"
           ],
           "description": "",
-          "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50"
+          "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50",
+          "externalRefs": {
+            "canvasPageId": 1556043
+          }
         },
         {
           "title": "cow video",
@@ -100,7 +125,10 @@
           "path": "https://www.youtube.com/embed/Yl65JzffgII",
           "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
           "state": "published",
-          "description": "https://www.youtube.com/embed/Yl65JzffgII"
+          "description": "https://www.youtube.com/embed/Yl65JzffgII",
+          "externalRefs": {
+            "canvasPageId": 1556044
+          }
         },
         {
           "title": "Table Scroll",
@@ -112,7 +140,10 @@
             "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
           ],
           "description": "",
-          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
+          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a",
+          "externalRefs": {
+            "canvasPageId": 1556045
+          }
         },
         {
           "title": "mastery project",
@@ -125,7 +156,10 @@
             "f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2"
           ],
           "description": "",
-          "commit": "add01dbd8a45448119887aeb6c76e6dbd24dbd87"
+          "commit": "add01dbd8a45448119887aeb6c76e6dbd24dbd87",
+          "externalRefs": {
+            "canvasAssignmentId": 1352858
+          }
         },
         {
           "title": "final",
@@ -140,7 +174,10 @@
             "ca847f9a-527d-4148-97fb-636a2a904981"
           ],
           "description": "Don't begin this exam until you are ready.",
-          "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365"
+          "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365",
+          "externalRefs": {
+            "canvasQuizId": 617973
+          }
         }
       ]
     }
