@@ -144,7 +144,12 @@
           "externalRefs": {
             "canvasPageId": 1556077
           }
-        },
+        }
+      ]
+    },
+    {
+      "title": "Part 2",
+      "topics": [
         {
           "title": "mastery project",
           "type": "project",
@@ -160,12 +165,7 @@
           "externalRefs": {
             "canvasAssignmentId": 1352866
           }
-        }
-      ]
-    },
-    {
-      "title": "Part 2",
-      "topics": [
+        },
         {
           "title": "final",
           "type": "exam",
