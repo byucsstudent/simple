@@ -159,7 +159,15 @@
     },
     {
       "title": "Part 2",
-      "topics": []
+      "topics": [
+        {
+          "title": "junk",
+          "type": "instruction",
+          "path": "instruction/junk/junk.md",
+          "id": "ff5658af-8eb5-4324-af0e-84635dea7f67",
+          "description": ""
+        }
+      ]
     }
   ]
 }
