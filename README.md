@@ -1,6 +1,8 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# Course name
+# Simple
+
+This course is used to experiment while development MasteryLS.
 
 ![alt text](https://images.unsplash.com/photo-1767597186218-813e8e6c44d6?q=80&w=400)
 
