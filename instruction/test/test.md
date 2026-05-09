@@ -57,7 +57,7 @@ In a culinary history context, we can represent the essential components of a tr
 ```
 
 ```masteryls
-{"id":"hist-001", "title":"The Origin of the Batter", "type":"multiple-choice"}
+{"id":"0c2ca594-e641-4fdd-957f-72fe871994b9", "title":"The Origin of the Batter", "type":"multiple-choice"}
 Which cultural group is credited with introducing the frying techniques that led to the "tempura-style" batter used in modern Baja fish tacos?
 
 - [ ] Spanish conquistadors during the colonial era
@@ -124,7 +124,7 @@ In a culinary data system, a fish taco might be represented by a configuration o
 ```
 
 ```masteryls
-{"id":"fish-taco-01", "title":"Identifying the Ideal Protein", "type":"multiple-choice"}
+{"id":"2cdc63b0-bd20-4e0c-9834-9da8fe9d3c51", "title":"Identifying the Ideal Protein", "type":"multiple-choice"}
 Why are white, flaky fish like Cod or Mahi-Mahi generally preferred for fish tacos over oily fish like Salmon or Mackerel?
 
 - [ ] Oily fish are too expensive for street-style tacos.
