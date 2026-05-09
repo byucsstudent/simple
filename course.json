@@ -30,7 +30,7 @@
     {
       "title": "Part 1",
       "externalRefs": {
-        "canvasModuleId": 386869
+        "canvasModuleId": 386870
       },
       "topics": [
         {
@@ -122,13 +122,16 @@
           "description": "",
           "commit": "add01dbd8a45448119887aeb6c76e6dbd24dbd87",
           "externalRefs": {
-            "canvasAssignmentId": 1352870
+            "canvasAssignmentId": 1352872
           }
         }
       ]
     },
     {
       "title": "Part 2",
+      "externalRefs": {
+        "canvasModuleId": 386871
+      },
       "topics": [
         {
           "title": "Table Scroll",
@@ -157,7 +160,7 @@
           "description": "Don't begin this exam until you are ready.",
           "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365",
           "externalRefs": {
-            "canvasQuizId": 617979
+            "canvasQuizId": 617980
           }
         }
       ]
