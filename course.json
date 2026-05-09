@@ -28,9 +28,9 @@
   },
   "modules": [
     {
-      "title": "Part 1",
+      "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 386867
+        "canvasModuleId": 386869
       },
       "topics": [
         {
@@ -38,13 +38,7 @@
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
-          "interactions": [
-            "intro_learning_01"
-          ],
-          "commit": "b9b7dea0a53921b2702b5e73b3f1bde5f586760a",
-          "externalRefs": {
-            "canvasPageId": 1556070
-          }
+          "interactions": []
         },
         {
           "title": "HTML",
@@ -59,10 +53,7 @@
             "a9b2c3d4-e5f6-7890-1234-567890123460"
           ],
           "description": "",
-          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441",
-          "externalRefs": {
-            "canvasPageId": 1556071
-          }
+          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441"
         },
         {
           "title": "Fish",
@@ -75,10 +66,7 @@
             "fish-taco-01"
           ],
           "description": "",
-          "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078",
-          "externalRefs": {
-            "canvasPageId": 1556072
-          }
+          "commit": "3b489cb094c1cb8845c285fe2fdc2e379c9e1078"
         },
         {
           "title": "city",
@@ -90,10 +78,7 @@
             "urb-des-001"
           ],
           "description": "",
-          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e",
-          "externalRefs": {
-            "canvasPageId": 1556073
-          }
+          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e"
         },
         {
           "title": "city slides",
@@ -101,10 +86,7 @@
           "path": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
           "id": "73fbf3c2-5c0a-4c7e-a5d9-7f54cadd95c5",
           "state": "published",
-          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed",
-          "externalRefs": {
-            "canvasPageId": 1556074
-          }
+          "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed"
         },
         {
           "title": "cow",
@@ -117,10 +99,7 @@
             "0e28ce18-f54a-4632-9f90-27deae07c846"
           ],
           "description": "",
-          "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50",
-          "externalRefs": {
-            "canvasPageId": 1556075
-          }
+          "commit": "f08d95c99008052584cf523ad34c8d8ec64c4a50"
         },
         {
           "title": "cow video",
@@ -128,10 +107,19 @@
           "path": "https://www.youtube.com/embed/Yl65JzffgII",
           "id": "03a9bf66-f45b-4664-bb0f-58f19efe999c",
           "state": "published",
-          "description": "https://www.youtube.com/embed/Yl65JzffgII",
-          "externalRefs": {
-            "canvasPageId": 1556076
-          }
+          "description": "https://www.youtube.com/embed/Yl65JzffgII"
+        },
+        {
+          "title": "Table Scroll",
+          "type": "instruction",
+          "path": "instruction/table-scroll/table-scroll.md",
+          "id": "0706c405-4f42-4b1c-bce7-7bd6275d09d0",
+          "state": "published",
+          "interactions": [
+            "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
+          ],
+          "description": "",
+          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
         },
         {
           "title": "mastery project",
@@ -146,27 +134,7 @@
           "description": "",
           "commit": "add01dbd8a45448119887aeb6c76e6dbd24dbd87",
           "externalRefs": {
-            "canvasAssignmentId": 1352866
-          }
-        }
-      ]
-    },
-    {
-      "title": "Part 2",
-      "topics": [
-        {
-          "title": "Table Scroll",
-          "type": "instruction",
-          "path": "instruction/table-scroll/table-scroll.md",
-          "id": "0706c405-4f42-4b1c-bce7-7bd6275d09d0",
-          "state": "published",
-          "interactions": [
-            "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
-          ],
-          "description": "",
-          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a",
-          "externalRefs": {
-            "canvasPageId": 1556077
+            "canvasAssignmentId": 1352870
           }
         },
         {
@@ -184,7 +152,7 @@
           "description": "Don't begin this exam until you are ready.",
           "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365",
           "externalRefs": {
-            "canvasQuizId": 617977
+            "canvasQuizId": 617979
           }
         }
       ]
