@@ -19,7 +19,7 @@
 
 
 ```masteryls
-{"id":"f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2", "title":"Mastery submission", "syncGrade":true, "type":"url-submission", "gradingCriteria":"The page has the text BYU on it" }
+{"id":"f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2", "title":"Mastery submission", "syncGrade":true, "autoGrade":false, "type":"url-submission", "gradingCriteria":"The page has the text BYU on it" }
 Submit a URL for a web page that has the text **BYU** on it.
 
 _Example: https://www.byu.edu_
