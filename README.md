@@ -2,8 +2,7 @@
 
 # Course name
 
-![cover](coursecover.jpg?raw=true)
-
+![alt text](https://images.unsplash.com/photo-1767597186218-813e8e6c44d6?q=80&w=400)
 
 
 ## Outcomes
