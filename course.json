@@ -38,7 +38,10 @@
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
-          "interactions": []
+          "interactions": [
+            "intro_learning_01"
+          ],
+          "commit": "0642fc82f161011bffc82c79532a5cfc9b2962d9"
         },
         {
           "title": "HTML",
