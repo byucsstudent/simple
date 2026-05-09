@@ -129,7 +129,12 @@
           "externalRefs": {
             "canvasPageId": 1556076
           }
-        },
+        }
+      ]
+    },
+    {
+      "title": "Part 2",
+      "topics": [
         {
           "title": "Table Scroll",
           "type": "instruction",
@@ -144,12 +149,7 @@
           "externalRefs": {
             "canvasPageId": 1556077
           }
-        }
-      ]
-    },
-    {
-      "title": "Part 2",
-      "topics": [
+        },
         {
           "title": "mastery project",
           "type": "project",
