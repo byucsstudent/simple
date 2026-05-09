@@ -183,7 +183,15 @@
     },
     {
       "title": "Part 2",
-      "topics": []
+      "topics": [
+        {
+          "title": "junk",
+          "type": "instruction",
+          "path": "instruction/junk/junk.md",
+          "id": "28fd3321-9183-4439-9812-36288b3ec4c2",
+          "description": ""
+        }
+      ]
     }
   ]
 }
