@@ -5,6 +5,12 @@
 
 
 
+
+   ```masteryls
+   {"id":"9f478149-7090-44a8-8985-8c69bff12c14", "title":"Web page development", "type":"web-page", "allowAiPrompt":true, "gradingCriteria":"The word 'byu' must be included in the HTML.", "height":650, "file":"javascriptPlayground.html" }
+   ```
+
+
 ## The Nautical Roots of the Fish Taco
 
 The history of the fish taco is a fascinating study of cultural fusion and coastal geography. While corn tortillas have been a staple of the Mesoamerican diet for millennia, the specific iteration known as the "fish taco" (or *taco de pescado*) traces its most significant evolution to the coastal regions of Baja California, Mexico. Long before it became a global street food phenomenon, indigenous peoples along the Sea of Cortez and the Pacific Coast utilized the abundant marine life—specifically white-fleshed fish—as their primary protein source, wrapping grilled catches in hand-pressed masa.
