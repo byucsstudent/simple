@@ -72,9 +72,369 @@ bessie.digest();
 Interactively create an HTML page from your prompt.
 
 ~~~html
-  <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#22d3aa,#004949);color:#ecfeff;font-family:ui-monospace,monospace;">
-    <h1 style="font-size:clamp(1.4rem,4vw,2.4rem);letter-spacing:.06em;">Hello, curious learner.</h1>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Cow Simulator</title>
+    <style>
+        :root {
+            --meadow-green: #7cfc00;
+            --sky-blue: #87ceeb;
+            --cow-black: #2c3e50;
+            --cow-white: #ecf0f1;
+            --fence-brown: #8b4513;
+            --accent-color: #e67e22;
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--sky-blue);
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            max-width: 600px;
+            width: 100%;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            overflow: hidden;
+            border: 5px solid #fff;
+        }
+
+        header {
+            background-color: var(--meadow-green);
+            padding: 20px;
+            text-align: center;
+            border-bottom: 3px solid #5cb300;
+        }
+
+        h1 {
+            margin: 0;
+            color: #2d5a27;
+            font-size: 1.8rem;
+        }
+
+        .game-world {
+            padding: 20px;
+            text-align: center;
+            background: linear-gradient(to bottom, var(--sky-blue) 0%, var(--sky-blue) 60%, var(--meadow-green) 60%, var(--meadow-green) 100%);
+            position: relative;
+        }
+
+        .cow-visual {
+            width: 200px;
+            height: 150px;
+            margin: 20px auto;
+            position: relative;
+            transition: transform 0.3s ease;
+        }
+
+        .cow-visual.chewing {
+            animation: chew 0.5s infinite;
+        }
+
+        @keyframes chew {
+            0%, 100% { transform: scaleY(1); }
+            50% { transform: scaleY(0.98) translateY(2px); }
+        }
+
+        .speech-bubble {
+            position: absolute;
+            top: 30px;
+            right: 80px;
+            background: white;
+            border-radius: 10px;
+            padding: 10px;
+            border: 2px solid #333;
+            width: 150px;
+            height: 100px;
+            font-weight: bold;
+            font-size: 0.9rem;
+            display: none;
+        }
+
+
+        .controls {
+            padding: 20px;
+            background: #f9f9f9;
+            display: grid;
+            gap: 15px;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        label {
+            font-weight: bold;
+            color: #444;
+            font-size: 0.9rem;
+        }
+
+        select, input, button {
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+        }
+
+        button {
+            cursor: pointer;
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+
+        button:hover {
+            background-color: #d35400;
+        }
+
+        button:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+
+        .status-panel {
+            display: flex;
+            justify-content: space-around;
+            padding: 15px;
+            background: #eee;
+            font-size: 0.85rem;
+            border-top: 1px solid #ddd;
+        }
+
+        .status-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .status-value {
+            font-weight: bold;
+            color: var(--cow-black);
+        }
+
+        .log {
+            height: 80px;
+            overflow-y: auto;
+            background: #222;
+            color: #0f0;
+            font-family: monospace;
+            padding: 10px;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1 id="cow-title">Bessie's Life</h1>
+    </header>
+
+    <div class="game-world">
+        <div id="bubble" class="speech-bubble">Moo?</div>
+        <div id="cow-sprite" class="cow-visual">
+            <svg viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+                <!-- Body -->
+                <ellipse cx="100" cy="80" rx="60" ry="40" fill="white" stroke="#333" stroke-width="3"/>
+                <!-- Spots -->
+                <circle cx="80" cy="70" r="15" fill="#333"/>
+                <circle cx="120" cy="90" r="10" fill="#333"/>
+                <circle cx="100" cy="55" r="8" fill="#333"/>
+                <!-- Head -->
+                <ellipse cx="150" cy="60" rx="25" ry="30" fill="white" stroke="#333" stroke-width="3"/>
+                <circle cx="145" cy="55" r="3" fill="#333"/>
+                <circle cx="165" cy="55" r="3" fill="#333"/>
+                <!-- Muzzle -->
+                <ellipse cx="155" cy="75" rx="15" ry="10" fill="#ffc0cb" stroke="#333" stroke-width="1"/>
+                <!-- Ears -->
+                <ellipse cx="130" cy="45" rx="8" ry="5" fill="white" stroke="#333" stroke-width="2" transform="rotate(-30 130 45)"/>
+                <ellipse cx="175" cy="50" rx="8" ry="5" fill="white" stroke="#333" stroke-width="2" transform="rotate(20 175 50)"/>
+                <!-- Legs -->
+                <rect x="60" y="110" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+                <rect x="85" y="115" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+                <rect x="110" y="115" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+                <rect x="130" y="110" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+            </svg>
+        </div>
+    </div>
+
+    <div class="status-panel">
+        <div class="status-item">
+            <span>Hunger</span>
+            <span id="stat-hunger" class="status-value">50</span>
+        </div>
+        <div class="status-item">
+            <span>Ruminating</span>
+            <span id="stat-rumination" class="status-value">False</span>
+        </div>
+        <div class="status-item">
+            <span>Name</span>
+            <span id="stat-name" class="status-value">Bessie</span>
+        </div>
+    </div>
+
+    <div class="controls">
+        <div class="input-group">
+            <label for="nameInput">Rename Cow:</label>
+            <input type="text" id="nameInput" placeholder="Enter name..." maxlength="12">
+        </div>
+
+        <div class="input-group">
+            <label for="objectSelect">What does the cow see?</label>
+            <select id="objectSelect">
+                <option value="Grass">Patch of Grass</option>
+                <option value="Fence">Wooden Fence</option>
+                <option value="Human with bucket">Human with bucket</option>
+                <option value="Squirrel">A Squirrel</option>
+            </select>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+            <button id="btnEvaluate">Evaluate Surroundings</button>
+            <button id="btnDigest">Digest Food</button>
+        </div>
+    </div>
+
+    <div id="console-log" class="log">
+        Initializing cow simulation...
+    </div>
+</div>
+
+<script>
+    // --- Class Definition as requested ---
+    class Cow {
+        constructor(name, hungerLevel = 50) {
+            this.name = name;
+            this.hungerLevel = hungerLevel;
+            this.isRuminating = false;
+        }
+
+        evaluateSurroundings(objectSeen) {
+            if (objectSeen === "Grass") {
+                return "Eat it.";
+            } else if (objectSeen === "Fence") {
+                return "Stare at it for three hours.";
+            } else if (objectSeen === "Human with bucket") {
+                return "Run toward them with uncoordinated joy.";
+            } else {
+                return "Moo suspiciously.";
+            }
+        }
+
+        digest() {
+            if (this.hungerLevel > 0) {
+                this.isRuminating = true;
+                // We'll return the string instead of just console.log for the UI
+                return `${this.name} is now chewing the cud. Do not disturb.`;
+            }
+            return `${this.name} has nothing to digest.`;
+        }
+    }
+
+    // --- UI Logic ---
+    let myCow = new Cow("Bessie");
+    
+    const bubble = document.getElementById('bubble');
+    const cowSprite = document.getElementById('cow-sprite');
+    const consoleLog = document.getElementById('console-log');
+    const nameInput = document.getElementById('nameInput');
+    const objectSelect = document.getElementById('objectSelect');
+    
+    const statHunger = document.getElementById('stat-hunger');
+    const statRumination = document.getElementById('stat-rumination');
+    const statName = document.getElementById('stat-name');
+    const cowTitle = document.getElementById('cow-title');
+
+    function updateUI() {
+        statHunger.textContent = myCow.hungerLevel;
+        statRumination.textContent = myCow.isRuminating ? "True" : "False";
+        statName.textContent = myCow.name;
+        cowTitle.textContent = `${myCow.name}'s Life`;
+        
+        if(myCow.isRuminating) {
+            cowSprite.classList.add('chewing');
+        } else {
+            cowSprite.classList.remove('chewing');
+        }
+    }
+
+    function writeToLog(msg) {
+        const time = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+        consoleLog.innerHTML = `[${time}] ${msg}<br>` + consoleLog.innerHTML;
+    }
+
+    function speak(text) {
+        bubble.textContent = text;
+        bubble.style.display = 'block';
+        setTimeout(() => {
+            bubble.style.display = 'none';
+        }, 3000);
+    }
+
+    // Event Listeners
+    nameInput.addEventListener('change', (e) => {
+        if(e.target.value.trim() !== "") {
+            myCow.name = e.target.value.trim();
+            writeToLog(`Cow renamed to ${myCow.name}`);
+            updateUI();
+        }
+    });
+
+    document.getElementById('btnEvaluate').addEventListener('click', () => {
+        const obj = objectSelect.value;
+        const reaction = myCow.evaluateSurroundings(obj);
+        
+        writeToLog(`${myCow.name} saw: ${obj}. Reaction: ${reaction}`);
+        speak(reaction);
+
+        if(obj === "Grass") {
+            myCow.hungerLevel += 10;
+            myCow.isRuminating = false;
+        }
+        updateUI();
+    });
+
+    document.getElementById('btnDigest').addEventListener('click', () => {
+        const msg = myCow.digest();
+        writeToLog(msg);
+        speak("Chomp... chomp...");
+        updateUI();
+        
+        // Stop ruminating after a few seconds for gameplay feel
+        if(myCow.isRuminating) {
+            setTimeout(() => {
+                myCow.isRuminating = false;
+                myCow.hungerLevel = Math.max(0, myCow.hungerLevel - 20);
+                writeToLog(`Digestion complete. ${myCow.name} is hungry again.`);
+                updateUI();
+            }, 5000);
+        }
+    });
+
+    // Initialize
+    updateUI();
+</script>
+
+</body>
+</html>
 ~~~
 ```
 
