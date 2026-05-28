@@ -68,7 +68,7 @@ bessie.digest();
 
 
 ```masteryls
-{"id":"86422d90-fe84-457e-8cd6-0858dfb34b24", "title":"Web page development", "type":"ai-web-page", "allowAiPrompt":true, "gradingCriteria":"The word 'byu' must be included in the HTML.", "height":500 }
+{"id":"86422d90-fe84-457e-8cd6-0858dfb34b24", "title":"Web page development", "type":"ai-web-page", "allowAiPrompt":false, "gradingCriteria":"The cow must say Yahoo after eating grass.", "height":500 }
 Interactively create an HTML page from your prompt.
 
 ~~~html
