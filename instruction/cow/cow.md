@@ -252,6 +252,11 @@ Help your cow grow strong. Make sure it says **Yahoo** when it eats grass.
         <div id="bubble" class="speech-bubble">Moo?</div>
         <div id="cow-sprite" class="cow-visual">
             <svg viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+                <!-- Legs -->
+                <rect x="60" y="110" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+                <rect x="85" y="115" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+                <rect x="110" y="115" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+                <rect x="130" y="110" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
                 <!-- Body -->
                 <ellipse cx="100" cy="80" rx="60" ry="40" fill="white" stroke="#333" stroke-width="3"/>
                 <!-- Spots -->
@@ -267,11 +272,7 @@ Help your cow grow strong. Make sure it says **Yahoo** when it eats grass.
                 <!-- Ears -->
                 <ellipse cx="130" cy="45" rx="8" ry="5" fill="white" stroke="#333" stroke-width="2" transform="rotate(-30 130 45)"/>
                 <ellipse cx="175" cy="50" rx="8" ry="5" fill="white" stroke="#333" stroke-width="2" transform="rotate(20 175 50)"/>
-                <!-- Legs -->
-                <rect x="60" y="110" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
-                <rect x="85" y="115" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
-                <rect x="110" y="115" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
-                <rect x="130" y="110" width="10" height="25" fill="white" stroke="#333" stroke-width="2"/>
+
             </svg>
         </div>
     </div>
