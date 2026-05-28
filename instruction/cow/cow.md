@@ -67,6 +67,17 @@ bessie.digest();
 ```
 
 
+```masteryls
+{"id":"86422d90-fe84-457e-8cd6-0858dfb34b24", "title":"Web page development", "type":"ai-web-page", "allowAiPrompt":true, "gradingCriteria":"The word 'byu' must be included in the HTML.", "height":500 }
+Interactively create an HTML page from your prompt.
+
+~~~html
+  <body style="margin:0;display:grid;place-items:center;min-height:100vh;background:radial-gradient(circle at 20% 20%,#22d3aa,#004949);color:#ecfeff;font-family:ui-monospace,monospace;">
+    <h1 style="font-size:clamp(1.4rem,4vw,2.4rem);letter-spacing:.06em;">Hello, curious learner.</h1>
+  </body>
+~~~
+```
+
 
 
 ### Fun Facts for the Aspiring Cow-Whisperer
