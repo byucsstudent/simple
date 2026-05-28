@@ -30,35 +30,44 @@ The following diagram illustrates the "Grass-to-Energy Pipeline" that keeps a co
 
 Cows are surprisingly social creatures with complex hierarchies. They have "best friends" and can become stressed when separated from their preferred grazing buddies. Their communication isn't just a monotonous "moo"; it involves a variety of pitches and volumes that indicate hunger, frustration, or the bovine equivalent of "Hey, look at this cool rock!"
 
-To better understand how a cow operates, we can look at a simplified "Cow Logic" algorithm written in Python:
+To better understand how a cow operates, we can look at a simplified "Cow Logic" algorithm written in JavaScript:
 
-```python
-class Cow:
-    def __init__(self, name, hunger_level=50):
-        self.name = name
-        self.hunger_level = hunger_level
-        self.is_ruminating = False
+```javascript
+class Cow {
+  constructor(name, hungerLevel = 50) {
+    this.name = name;
+    this.hungerLevel = hungerLevel;
+    this.isRuminating = false;
+  }
 
-    def evaluate_surroundings(self, object_seen):
-        if object_seen == "Grass":
-            return "Eat it."
-        elif object_seen == "Fence":
-            return "Stare at it for three hours."
-        elif object_seen == "Human with bucket":
-            return "Run toward them with uncoordinated joy."
-        else:
-            return "Moo suspiciously."
+  evaluateSurroundings(objectSeen) {
+    if (objectSeen === "Grass") {
+      return "Eat it.";
+    } else if (objectSeen === "Fence") {
+      return "Stare at it for three hours.";
+    } else if (objectSeen === "Human with bucket") {
+      return "Run toward them with uncoordinated joy.";
+    } else {
+      return "Moo suspiciously.";
+    }
+  }
 
-    def digest(self):
-        if self.hunger_level > 0:
-            self.is_ruminating = True
-            print(f"{self.name} is now chewing the cud. Do not disturb.")
+  digest() {
+    if (this.hungerLevel > 0) {
+      this.isRuminating = true;
+      console.log(`${this.name} is now chewing the cud. Do not disturb.`);
+    }
+  }
+}
 
-# Example usage:
-bessie = Cow("Bessie")
-print(bessie.evaluate_surroundings("Fence"))
-bessie.digest()
+// Example usage:
+const bessie = new Cow("Bessie");
+console.log(bessie.evaluateSurroundings("Fence"));
+bessie.digest();
 ```
+
+
+
 
 ### Fun Facts for the Aspiring Cow-Whisperer
 *   **Panoramic Vision:** Cows have almost 360-degree panoramic vision, allowing them to see predators (or snacks) coming from almost any angle without moving their heads.
