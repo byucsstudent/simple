@@ -82,6 +82,7 @@ Cows communicate through a vocalization known as **mooing** (scientifically refe
   <a href="https://upload.wikimedia.org/wikipedia/commons/5/52/Charles_%27Cow_Cow%27_Davenport_-_Atlanta_Rag_%281922%29.ogg">Hear Charles 'Cow Cow' Davenport play the Atlanta Rag</a>
 </audio>
 
+![cow](https://upload.wikimedia.org/wikipedia/commons/a/a5/Cow_grazing_in_the_farm.webm)
 
 ## Fun Facts for the Aspiring Cow-Whisperer
 *   **Panoramic Vision:** Cows have almost 360-degree panoramic vision, allowing them to see predators (or snacks) coming from almost any angle without moving their heads.
