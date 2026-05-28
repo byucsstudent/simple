@@ -23,7 +23,7 @@ A cow's digestive tract is less of a tube and more of a complex industrial compl
 
 The following diagram illustrates the "Grass-to-Energy Pipeline" that keeps a cow powered:
 
-<img size="600px" src="fourStagesOfDigestion.jpg" />
+<img width="700px" src="fourStagesOfDigestion.jpg" />
 
 
 ### Bovine Social Life and "Cow Logic"
