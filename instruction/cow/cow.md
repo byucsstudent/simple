@@ -68,7 +68,7 @@ bessie.digest();
 
 
 ```masteryls
-{"id":"86422d90-fe84-457e-8cd6-0858dfb34b24", "title":"Web page development", "type":"ai-web-page", "allowAiPrompt":false, "gradingCriteria":"The cow must say Yahoo after eating grass.", "height":500 }
+{"id":"86422d90-fe84-457e-8cd6-0858dfb34b24", "title":"Cow Care", "type":"ai-web-page", "allowAiPrompt":false, "gradingCriteria":"The cow must say Yahoo after eating grass.", "height":500 }
 Help your cow grow strong. Make sure it says **Yahoo** when it eats grass.
 
 ~~~html
