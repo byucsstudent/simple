@@ -447,7 +447,7 @@ Help your cow grow strong. Make sure it says **Yahoo** when it eats grass.
 *   **The Saliva Factor:** A cow can produce up to 125 pounds of saliva a day to help lubricate all that dry grass.
 
 ```masteryls
-{"id":"bovine-basics-01", "title":"The Ruminant System", "type":"multiple-choice"}
+{"id":"41e1711a-63a9-4e69-9eac-a2cfa8afca5b", "title":"The Ruminant System", "type":"multiple-choice"}
 Why do cows "chew the cud" (regurgitate their food)?
 
 - [ ] They are showing off their digestive prowess to other cows in the herd.
