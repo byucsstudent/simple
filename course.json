@@ -98,11 +98,12 @@
           "id": "0bc51c30-cf46-4e05-b32b-a645fe3f625e",
           "state": "published",
           "interactions": [
+            "86422d90-fe84-457e-8cd6-0858dfb34b24",
             "bovine-basics-01",
             "0e28ce18-f54a-4632-9f90-27deae07c846"
           ],
           "description": "",
-          "commit": "dab7344ec778d4766135d50f4e737ef27d76ef2e"
+          "commit": "12bacb31171a30478f2f250c328823b29f314764"
         },
         {
           "title": "cow video",
