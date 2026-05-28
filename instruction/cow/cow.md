@@ -23,18 +23,8 @@ A cow's digestive tract is less of a tube and more of a complex industrial compl
 
 The following diagram illustrates the "Grass-to-Energy Pipeline" that keeps a cow powered:
 
-```mermaid
-graph TD
-    A[Grass Intake] --> B[Rumen: Fermentation Party]
-    B --> C[Regurgitation: Chewing the Cud]
-    C --> B
-    B --> D[Reticulum: The Filter]
-    D --> E[Omasum: Water Extraction]
-    E --> F[Abomasum: Acid Digestion]
-    F --> G[Nutrient Absorption]
-    
-    classDef default fill:#ffffff,stroke:#000000,color:#000000,stroke-width:1px;
-```
+![fourStagesOfDigestion.jpg](fourStagesOfDigestion.jpg)
+
 
 ### Bovine Social Life and "Cow Logic"
 
