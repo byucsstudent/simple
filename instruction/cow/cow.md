@@ -65,6 +65,54 @@ bessie.digest();
 ```
 
 
+## Cow Vocalization: The Moo
+
+Cows communicate through a vocalization known as **mooing** (scientifically referred to as **lowing**). This sound is a vital part of bovine social structure and behavior.
+
+### Educational Key Concepts
+*   **Communication:** Cows moo to express a variety of needs, including hunger, physical discomfort, or the desire to be milked.
+*   **Maternal Recognition:** A cow and her calf use unique vocal signatures to identify and locate each other within a large herd.
+*   **Social Cohesion:** Vocalizations help maintain contact between herd members, especially when moving across large grazing areas.
+
+<audio controls src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Single_Cow_Moo.ogg">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/a/a5/Single_Cow_Moo.ogg">Listen to the cow mooing here.</a>
+</audio>
+
+---
+
+<audio controls src="https://upload.wikimedia.org/wikipedia/commons/5/52/Charles_%27Cow_Cow%27_Davenport_-_Atlanta_Rag_%281922%29.ogg">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/5/52/Charles_%27Cow_Cow%27_Davenport_-_Atlanta_Rag_%281922%29.ogg">Hear Charles 'Cow Cow' Davenport play the Atlanta Rag</a>
+</audio>
+
+
+## Fun Facts for the Aspiring Cow-Whisperer
+*   **Panoramic Vision:** Cows have almost 360-degree panoramic vision, allowing them to see predators (or snacks) coming from almost any angle without moving their heads.
+*   **Smell-O-Vision:** They can detect scents up to six miles away.
+*   **The Saliva Factor:** A cow can produce up to 125 pounds of saliva a day to help lubricate all that dry grass.
+
+## Demonstrate your understanding
+
+```masteryls
+{"id":"41e1711a-63a9-4e69-9eac-a2cfa8afca5b", "title":"The Ruminant System", "type":"multiple-choice"}
+Why do cows "chew the cud" (regurgitate their food)?
+
+- [ ] They are showing off their digestive prowess to other cows in the herd.
+- [ ] They forgot what it tasted like and wanted a second opinion.
+- [x] To further break down tough plant fibers that were softened in the rumen.
+- [ ] It is a defense mechanism used to scare away potential predators.
+```
+
+```masteryls
+{"id":"0e28ce18-f54a-4632-9f90-27deae07c846", "title":"Udder Capacity Ratio", "type":"multiple-choice"}
+In dairy science, when evaluating a high-producing cow at peak fill, what is the approximate ratio of the weight of the milk contained in the udder to the weight of the empty udder tissue itself?
+
+- [ ] 1:5 (The milk weight is much lower than the weight of the supportive tissue)
+- [x] 1:1 (The milk weight is roughly equal to the weight of the empty udder)
+- [ ] 10:1 (The milk weight is ten times the weight of the udder tissue)
+- [ ] 1:4 (The milk accounts for only 20% of the total udder weight when full)
+```
+
+
 ```masteryls
 {"id":"86422d90-fe84-457e-8cd6-0858dfb34b24", "title":"Cow Care", "type":"ai-web-page", "allowAiPrompt":false, "gradingCriteria":"The cow must say Yahoo after eating grass.", "height":500 }
 Help your cow grow strong. Make sure it says **Yahoo** when it eats grass.
@@ -437,29 +485,3 @@ Help your cow grow strong. Make sure it says **Yahoo** when it eats grass.
 ~~~
 ```
 
-
-
-### Fun Facts for the Aspiring Cow-Whisperer
-*   **Panoramic Vision:** Cows have almost 360-degree panoramic vision, allowing them to see predators (or snacks) coming from almost any angle without moving their heads.
-*   **Smell-O-Vision:** They can detect scents up to six miles away.
-*   **The Saliva Factor:** A cow can produce up to 125 pounds of saliva a day to help lubricate all that dry grass.
-
-```masteryls
-{"id":"41e1711a-63a9-4e69-9eac-a2cfa8afca5b", "title":"The Ruminant System", "type":"multiple-choice"}
-Why do cows "chew the cud" (regurgitate their food)?
-
-- [ ] They are showing off their digestive prowess to other cows in the herd.
-- [ ] They forgot what it tasted like and wanted a second opinion.
-- [x] To further break down tough plant fibers that were softened in the rumen.
-- [ ] It is a defense mechanism used to scare away potential predators.
-```
-
-```masteryls
-{"id":"0e28ce18-f54a-4632-9f90-27deae07c846", "title":"Udder Capacity Ratio", "type":"multiple-choice"}
-In dairy science, when evaluating a high-producing cow at peak fill, what is the approximate ratio of the weight of the milk contained in the udder to the weight of the empty udder tissue itself?
-
-- [ ] 1:5 (The milk weight is much lower than the weight of the supportive tissue)
-- [x] 1:1 (The milk weight is roughly equal to the weight of the empty udder)
-- [ ] 10:1 (The milk weight is ten times the weight of the udder tissue)
-- [ ] 1:4 (The milk accounts for only 20% of the total udder weight when full)
-```
