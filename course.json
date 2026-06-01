@@ -166,6 +166,13 @@
           "externalRefs": {
             "canvasQuizId": 617980
           }
+        },
+        {
+          "title": "JavaScript",
+          "type": "instruction",
+          "path": "instruction/javascript/javascript.md",
+          "id": "6ae8eb58-8af3-4212-984c-45a05d2ac501",
+          "description": ""
         }
       ]
     }
