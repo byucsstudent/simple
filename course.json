@@ -34,13 +34,15 @@
       },
       "topics": [
         {
-          "title": "Home",
+          "title": "Learning",
+          "type": "instruction",
           "path": "README.md",
           "id": "52c7dddc-e3b1-4580-bad8-279ed6e0508f",
           "state": "published",
           "interactions": [
             "intro_learning_01"
           ],
+          "description": "",
           "commit": "20adc6e5e41f3b4b4891147ad8e0fbee6c8853f8"
         },
         {
