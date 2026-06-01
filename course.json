@@ -41,7 +41,7 @@
           "interactions": [
             "intro_learning_01"
           ],
-          "commit": "0642fc82f161011bffc82c79532a5cfc9b2962d9"
+          "commit": "20adc6e5e41f3b4b4891147ad8e0fbee6c8853f8"
         },
         {
           "title": "HTML",
@@ -142,6 +142,7 @@
           "type": "instruction",
           "path": "instruction/javascript/javascript.md",
           "id": "6ae8eb58-8af3-4212-984c-45a05d2ac501",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "5d218210e86f08f8c3cb15a88440c88c015b02c9"
