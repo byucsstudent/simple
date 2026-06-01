@@ -138,6 +138,15 @@
       },
       "topics": [
         {
+          "title": "JavaScript",
+          "type": "instruction",
+          "path": "instruction/javascript/javascript.md",
+          "id": "6ae8eb58-8af3-4212-984c-45a05d2ac501",
+          "interactions": [],
+          "description": "",
+          "commit": "5d218210e86f08f8c3cb15a88440c88c015b02c9"
+        },
+        {
           "title": "Table Scroll",
           "type": "instruction",
           "path": "instruction/table-scroll/table-scroll.md",
@@ -166,15 +175,6 @@
           "externalRefs": {
             "canvasQuizId": 617980
           }
-        },
-        {
-          "title": "JavaScript",
-          "type": "instruction",
-          "path": "instruction/javascript/javascript.md",
-          "id": "6ae8eb58-8af3-4212-984c-45a05d2ac501",
-          "interactions": [],
-          "description": "",
-          "commit": "5d218210e86f08f8c3cb15a88440c88c015b02c9"
         }
       ]
     }
