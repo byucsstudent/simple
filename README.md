@@ -1,6 +1,6 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# Simple
+# Learning
 
 This course is used to experiment while development MasteryLS.
 
