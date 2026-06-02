@@ -1,4 +1,4 @@
-![BYU logo](byuLogo.png?raw=true)
+<img width="100" src="byuLogo.png" />
 
 # Learning
 
