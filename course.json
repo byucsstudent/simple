@@ -23,6 +23,12 @@
         "default": false,
         "state": "published",
         "commit": "013a7a9f7186eb04cc20a4483a984800559cd161"
+      },
+      {
+        "id": "6a7cf0c4-848a-4ce4-ba4e-ee475c012c53",
+        "title": "Fall",
+        "path": "schedule/fall.md",
+        "default": false
       }
     ]
   },
