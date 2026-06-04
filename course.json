@@ -13,23 +13,21 @@
         "title": "Jensen",
         "path": "schedule/jensen.md",
         "default": true,
-        "state": "published",
-        "commit": "3cb0a2662085a4487b1eed84775d47f7d02d6328"
+        "state": "published"
       },
       {
         "id": "9e87b980-d499-4081-b6a3-76b50654ec37",
         "title": "Winter",
         "path": "schedule/winter.md",
         "default": false,
-        "state": "published",
-        "commit": "013a7a9f7186eb04cc20a4483a984800559cd161"
+        "state": "published"
       },
       {
         "id": "6a7cf0c4-848a-4ce4-ba4e-ee475c012c53",
         "title": "Fall",
         "path": "schedule/fall.md",
         "default": false,
-        "commit": "18fe37937a1fb2d3bfeac9a3d1cca189432aad6a"
+        "state": "published"
       }
     ]
   },
@@ -49,8 +47,7 @@
           "interactions": [
             "intro_learning_01"
           ],
-          "description": "",
-          "commit": "cff93c454bd20b2c3d8120b3fd2fb4b860a82193"
+          "description": ""
         },
         {
           "title": "HTML",
@@ -64,8 +61,7 @@
             "b0c3c187-8e65-4d4f-9f60-b2aae1941d04",
             "a9b2c3d4-e5f6-7890-1234-567890123460"
           ],
-          "description": "",
-          "commit": "18f218206f8d873f6aa43d41eeedea3a835d4441"
+          "description": ""
         },
         {
           "title": "Fish Tacos",
@@ -77,8 +73,7 @@
             "0c2ca594-e641-4fdd-957f-72fe871994b9",
             "2cdc63b0-bd20-4e0c-9834-9da8fe9d3c51"
           ],
-          "description": "",
-          "commit": "2b3560e1ac208393efb5c12e7c50ac95d0e92661"
+          "description": ""
         },
         {
           "title": "city",
@@ -89,8 +84,7 @@
           "interactions": [
             "urb-des-001"
           ],
-          "description": "",
-          "commit": "15e9366f22f4019114827a53bf2888bd28a2506e"
+          "description": ""
         },
         {
           "title": "city slides",
@@ -111,8 +105,7 @@
             "0e28ce18-f54a-4632-9f90-27deae07c846",
             "86422d90-fe84-457e-8cd6-0858dfb34b24"
           ],
-          "description": "",
-          "commit": "5da412a86d1864edc716094078ed622ab6a99f6c"
+          "description": ""
         },
         {
           "title": "cow video",
@@ -133,7 +126,6 @@
             "f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2"
           ],
           "description": "",
-          "commit": "add01dbd8a45448119887aeb6c76e6dbd24dbd87",
           "externalRefs": {
             "canvasAssignmentId": 1352872
           }
@@ -153,8 +145,7 @@
           "id": "6ae8eb58-8af3-4212-984c-45a05d2ac501",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "commit": "5d218210e86f08f8c3cb15a88440c88c015b02c9"
+          "description": ""
         },
         {
           "title": "Table Scroll",
@@ -165,8 +156,7 @@
           "interactions": [
             "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
           ],
-          "description": "",
-          "commit": "1dff305f244efe14d60388ec2ea33ea34eaf238a"
+          "description": ""
         },
         {
           "title": "final",
@@ -181,7 +171,6 @@
             "ca847f9a-527d-4148-97fb-636a2a904981"
           ],
           "description": "Don't begin this exam until you are ready.",
-          "commit": "af0017b0cc2f362a3039896c78d4fe9f0bc93365",
           "externalRefs": {
             "canvasQuizId": 617980
           }
