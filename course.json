@@ -28,7 +28,8 @@
         "id": "6a7cf0c4-848a-4ce4-ba4e-ee475c012c53",
         "title": "Fall",
         "path": "schedule/fall.md",
-        "default": false
+        "default": false,
+        "commit": "18fe37937a1fb2d3bfeac9a3d1cca189432aad6a"
       }
     ]
   },
