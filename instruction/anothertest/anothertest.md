@@ -15,6 +15,11 @@ Supply your semester long project GitHub repo URL.
 ```       
 
 
+```masteryls
+{"id":"6560ab82-6d43-4504-96cc-6e676f4f6f56", "title":"URL submission", "type":"url-submission", "syncGrade":true, "autoGrade":false, "validateUrl":true, "gradingCriteria":"- Contains an elevator pitch\n- Has checked all the boxes for the deliverables", "urlPrompt":"Convert the user provided URL to create a URL that is the path to the raw GitHub content for the README.md file." }
+Simple **submission** by url
+```
+
 
 ## Principles of Sustainable Urban Design
 
