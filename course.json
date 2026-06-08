@@ -135,6 +135,11 @@
           "type": "instruction",
           "path": "instruction/github-grading/github-grading.md",
           "id": "672b40e5-97e2-471f-a508-968bdf0bee83",
+          "interactions": [
+            "6c137756-4306-431c-bec8-bc44706cff78",
+            "48648877-41f1-4d83-9c6a-621a74c74b73",
+            "6560ab82-6d43-4504-96cc-6e676f4f6f56"
+          ],
           "description": ""
         }
       ]
