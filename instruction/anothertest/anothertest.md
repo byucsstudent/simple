@@ -3,6 +3,11 @@
 
 ![Topic Cover](https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2l0eXxlbnwwfHwwfHx8MA%3D%3D)
 
+```masteryls
+{"id":"6c137756-4306-431c-bec8-bc44706cff78","title":"Website application","type":"github-submission","validateUrl":true,"syncGrade":true,"autoGrade":false,"gradingCriteria":"- Use of proper HTML\n- use of proper CSS\n- WebSocket implemented both in client and server\n- MongoDB for database support\n- Express JS for service endpoints\n- User autentication supported on front and backend\n- The application is at the level of an university introductory CS course on Web Programming"}
+Supply your semester long project GitHub repo URL.
+```       
+
 
 ## Principles of Sustainable Urban Design
 
@@ -58,7 +63,7 @@ Modern cities use digital twins and data modeling to simulate traffic patterns a
 By prioritizing these elements, cities can transition from congested, car-dependent environments into vibrant, breathable spaces that support both economic growth and environmental health.
 
 ```masteryls
-{"id":"urb-des-001", "title":"Understanding Mixed-Use Development", "type":"multiple-choice"}
+{"id":"dfa31db4-b990-4b03-8704-d70e420f78b4","title":"Understanding Mixed-Use Development","type":"multiple-choice"}
 What is the primary benefit of transitioning from traditional single-use zoning to mixed-use development within city design?
 
 - [ ] It increases the total number of parking spaces required for commuters
