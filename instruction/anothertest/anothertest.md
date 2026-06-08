@@ -9,6 +9,13 @@ Supply your semester long project GitHub repo URL.
 ```       
 
 
+```masteryls
+{"id":"48648877-41f1-4d83-9c6a-621a74c74b73","title":"Another Website application","type":"github-submission","validateUrl":true,"syncGrade":true,"autoGrade":false,"gradingCriteria":"- Use of proper HTML\n- use of proper CSS\n- WebSocket implemented both in client and server\n- MongoDB for database support\n- Express JS for service endpoints\n- User autentication supported on front and backend\n- The application is at the level of an university introductory CS course on Web Programming"}
+Supply your semester long project GitHub repo URL.
+```       
+
+
+
 ## Principles of Sustainable Urban Design
 
 Proper city design, often referred to as urban planning, is the technical and political process focused on the development and design of land use and the built environment. Modern urban design prioritizes **sustainability, accessibility, and human-centricity** over the mid-20th-century focus on automobile throughput. A well-designed city functions as an ecosystem where infrastructure, transit, and social spaces work in harmony to reduce carbon footprints and improve the quality of life for residents.
