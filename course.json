@@ -132,6 +132,13 @@
           "externalRefs": {
             "canvasAssignmentId": 1352872
           }
+        },
+        {
+          "title": "GitHub grading",
+          "type": "instruction",
+          "path": "instruction/github-grading/github-grading.md",
+          "id": "672b40e5-97e2-471f-a508-968bdf0bee83",
+          "description": ""
         }
       ]
     },
