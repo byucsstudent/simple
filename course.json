@@ -187,6 +187,13 @@
           "externalRefs": {
             "canvasQuizId": 617980
           }
+        },
+        {
+          "title": "Website",
+          "type": "dra",
+          "path": "instruction/website/website.md",
+          "id": "7a7dc545-0cf1-42ef-8ab2-f2b5555d750d",
+          "description": ""
         }
       ]
     }
