@@ -1,7 +1,7 @@
 
 # final
 
-![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
+![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/coursecover.jpg)
 
 
 ## Mastering the Art and Science of the Taco
@@ -62,7 +62,7 @@ In a modern culinary database, a taco can be represented as a complex object. Th
 Salsa is the final layer of complexity. A master taco maker knows that the salsa should complement, not overpower, the protein. **Salsa Verde** (tomatillo-based) offers a bright, acidic counterpoint to fatty meats like *Suadero* or *Carnitas*, while **Salsa Roja** (dried chili-based) provides a deep, smoky heat that pairs well with grilled meats.
 
 ```masteryls
-{"id":"taco-mastery-01", "title":"The Nixtamalization Process", "type":"multiple-choice"}
+{"id":"707825a2-c9d3-4009-8b04-28170cea6b0a","title":"The Nixtamalization Process","type":"multiple-choice"}
 What is the primary purpose of nixtamalization in the context of traditional taco preparation?
 
 - [ ] To bleach the corn so the tortillas appear whiter and more processed
