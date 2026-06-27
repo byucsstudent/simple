@@ -179,7 +179,7 @@
           "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
           "state": "published",
           "interactions": [
-            "taco-mastery-01",
+            "707825a2-c9d3-4009-8b04-28170cea6b0a",
             "1bbf8b11-d05d-4035-8685-5bc0efe724d2",
             "ca847f9a-527d-4148-97fb-636a2a904981"
           ],
@@ -193,6 +193,7 @@
           "type": "dra",
           "path": "instruction/website/website.md",
           "id": "7a7dc545-0cf1-42ef-8ab2-f2b5555d750d",
+          "state": "published",
           "description": ""
         }
       ]
