@@ -1,4 +1,4 @@
-# Missionary
+# Church ministry
 
 **Discipline:** Eternal Progression
 **Problem type:** Preaching the gospel of Jesus Christ
@@ -21,7 +21,7 @@ If you're preparing a ministry plan or sermon series, you could state the outcom
 
 ```json
 {
-  "title": "Missionary",
+  "title": "Church ministry",
   "discipline": "Eternal Progression",
   "problemType": "Preaching the gospel of Jesus Christ",
   "difficulty": 3,
