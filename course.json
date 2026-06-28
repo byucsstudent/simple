@@ -201,6 +201,14 @@
           "type": "dra",
           "path": "instruction/city-planning/city-planning.md",
           "id": "76695479-dcbb-470e-aaae-e501977c549d",
+          "state": "published",
+          "description": ""
+        },
+        {
+          "title": "Missionary",
+          "type": "dra",
+          "path": "instruction/missionary/missionary.md",
+          "id": "0a10fb17-80b9-4864-91df-5dcd826a081e",
           "description": ""
         }
       ]
