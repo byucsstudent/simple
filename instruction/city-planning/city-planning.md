@@ -2,7 +2,7 @@
 
 **Discipline:** City Planning
 **Problem type:** Traffic flow optimization
-**Difficulty:** 1 / 5
+**Difficulty:** 5 / 5
 **Modes:** Practice, Final
 **Instability:** Off
 
@@ -17,7 +17,7 @@ A simple single action solution to solving traffic congestion in a small city wi
   "title": "Increasing Traffic FLow",
   "discipline": "City Planning",
   "problemType": "Traffic flow optimization",
-  "difficulty": 1,
+  "difficulty": 5,
   "practiceMode": true,
   "finalMode": true,
   "instability": false,
