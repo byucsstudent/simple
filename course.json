@@ -195,6 +195,13 @@
           "id": "7a7dc545-0cf1-42ef-8ab2-f2b5555d750d",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "City Planning",
+          "type": "instruction",
+          "path": "instruction/city-planning/city-planning.md",
+          "id": "76695479-dcbb-470e-aaae-e501977c549d",
+          "description": ""
         }
       ]
     }
