@@ -2,7 +2,7 @@
 
 # Learning
 
-This course is used to experiment while development MasteryLS.
+This course is used to experiment while MasteryLS is being developed.
 
 ![alt text](https://images.unsplash.com/photo-1767597186218-813e8e6c44d6?q=80&w=400)
 
@@ -37,7 +37,7 @@ To optimize your study habits, consider these four evidence-based strategies:
 4.  **Dual Coding:** Combining verbal materials with visual imagery to provide two different ways of representing the same information.
 
 ```masteryls
-{"id":"intro_learning_01", "title":"Understanding Active Recall", "type":"multiple-choice"}
+{"id":"299edd23-220e-4b3f-9aed-c05a278923e8","title":"Understanding Active Recall","type":"multiple-choice"}
 Which of the following activities best demonstrates the principle of "Active Recall"?
 
 - [ ] Highlighting key passages in a textbook while reading for the first time.
