@@ -211,6 +211,13 @@
           "id": "da432335-b12f-44d9-a426-6b1f2605708f",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "Software Construction",
+          "type": "dra",
+          "path": "instruction/software-construction/software-construction.md",
+          "id": "6cf1360d-850e-4b46-94e8-3ddb9e844be9",
+          "description": ""
         }
       ]
     }
