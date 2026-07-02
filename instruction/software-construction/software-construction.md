@@ -1,7 +1,7 @@
-# Disciplinary Reasoning Assessment
+# Client Server Architciture
 
-**Discipline:** _unspecified_
-**Problem type:** _unspecified_
+**Discipline:** Software Engineering
+**Problem type:** Designing a simple client server application with a MySQL database
 **Difficulty:** 1 / 5
 **Modes:** Practice
 **Instability:** Off
@@ -19,9 +19,9 @@ Throughout the assessment, you will be expected to justify design decisions, imp
 
 ```json
 {
-  "title": "",
-  "discipline": "",
-  "problemType": "",
+  "title": "Client Server Architciture",
+  "discipline": "Software Engineering",
+  "problemType": "Designing a simple client server application with a MySQL database",
   "difficulty": 1,
   "practiceMode": true,
   "finalMode": false,
