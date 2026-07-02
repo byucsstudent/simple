@@ -2,7 +2,7 @@
 
 **Discipline:** _unspecified_
 **Problem type:** _unspecified_
-**Difficulty:** 3 / 5
+**Difficulty:** 1 / 5
 **Modes:** Practice
 **Instability:** Off
 
@@ -22,7 +22,7 @@ Throughout the assessment, you will be expected to justify design decisions, imp
   "title": "",
   "discipline": "",
   "problemType": "",
-  "difficulty": 3,
+  "difficulty": 1,
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
