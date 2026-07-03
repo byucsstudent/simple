@@ -1,26 +1,27 @@
 # PE
 
-**Discipline:** _unspecified_
-**Problem type:** _unspecified_
-**Difficulty:** 3 / 5
+**Discipline:** Petroleum Engineering
+**Problem type:** Maximize oil production
+**Difficulty:** 2 / 5
 **Modes:** Practice
 **Instability:** Off
 
 ## Learning Outcomes
 
-_Learning outcomes to be defined._
+Maximum oil production 
+Political risk management
 
 ## Assessment Definition
 
 ```json
 {
   "title": "PE",
-  "discipline": "",
-  "problemType": "",
-  "difficulty": 3,
+  "discipline": "Petroleum Engineering",
+  "problemType": "Maximize oil production",
+  "difficulty": 2,
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": ""
+  "learningOutcomes": "Maximum oil production \nPolitical risk management"
 }
 ```
