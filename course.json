@@ -217,6 +217,14 @@
           "type": "dra",
           "path": "instruction/software-construction/software-construction.md",
           "id": "6cf1360d-850e-4b46-94e8-3ddb9e844be9",
+          "state": "published",
+          "description": ""
+        },
+        {
+          "title": "PE",
+          "type": "dra",
+          "path": "instruction/pe/pe.md",
+          "id": "f8a6298a-4d43-411d-a710-f58f88102f67",
           "description": ""
         }
       ]
