@@ -1,4 +1,4 @@
-# PE
+# Petroleum Engineering
 
 **Discipline:** Petroleum Engineering
 **Problem type:** Maximize oil production
@@ -8,6 +8,8 @@
 
 ## Learning Outcomes
 
+Practice gathering information, satisfying constraints, and generation solutions that provide the following results:
+
 * Maximum oil production 
 * Political risk management
 
@@ -15,13 +17,13 @@
 
 ```json
 {
-  "title": "PE",
+  "title": "Petroleum Engineering",
   "discipline": "Petroleum Engineering",
   "problemType": "Maximize oil production",
   "difficulty": 2,
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "* Maximum oil production \n* Political risk management"
+  "learningOutcomes": "Practice gathering information, satisfying constraints, and generation solutions that provide the following results:\n\n* Maximum oil production \n* Political risk management"
 }
 ```
