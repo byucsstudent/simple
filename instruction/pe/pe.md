@@ -8,8 +8,8 @@
 
 ## Learning Outcomes
 
-Maximum oil production 
-Political risk management
+* Maximum oil production 
+* Political risk management
 
 ## Assessment Definition
 
@@ -22,6 +22,6 @@ Political risk management
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "Maximum oil production \nPolitical risk management"
+  "learningOutcomes": "* Maximum oil production \n* Political risk management"
 }
 ```
