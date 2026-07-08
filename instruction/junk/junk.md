@@ -1,26 +1,33 @@
-# junk
+# Courtroom ethics
 
-**Discipline:** _unspecified_
-**Problem type:** _unspecified_
+**Discipline:** Legal
+**Problem type:** Proper behavior in a courtroom for lawyers
 **Difficulty:** 3 / 5
 **Modes:** Practice
 **Instability:** Off
 
 ## Learning Outcomes
 
-_Learning outcomes to be defined._
+Learn how to:
+
+- Properly address a judge
+- Properly address witnesses
+- Interview a witness without violating any ethical or legal conditions
+- Presenting evidence
+- Interacting with the jury
+- Interacting with the other legal team
 
 ## Assessment Definition
 
 ```json
 {
-  "title": "junk",
-  "discipline": "",
-  "problemType": "",
+  "title": "Courtroom ethics",
+  "discipline": "Legal",
+  "problemType": "Proper behavior in a courtroom for lawyers",
   "difficulty": 3,
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": ""
+  "learningOutcomes": "Learn how to:\n\n- Properly address a judge\n- Properly address witnesses\n- Interview a witness without violating any ethical or legal conditions\n- Presenting evidence\n- Interacting with the jury\n- Interacting with the other legal team"
 }
 ```
