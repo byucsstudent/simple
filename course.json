@@ -227,6 +227,13 @@
           "id": "f8a6298a-4d43-411d-a710-f58f88102f67",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "junk",
+          "type": "dra",
+          "path": "instruction/junk/junk.md",
+          "id": "eb083a6d-d71e-4131-9366-42650f8b2c45",
+          "description": ""
         }
       ]
     }
