@@ -241,6 +241,14 @@
           "type": "dra",
           "path": "instruction/boardroom-drama/boardroom-drama.md",
           "id": "3aeb40cd-de58-403e-86ed-0922677c8028",
+          "state": "published",
+          "description": ""
+        },
+        {
+          "title": "Interview",
+          "type": "dra",
+          "path": "instruction/interview/interview.md",
+          "id": "0210b125-7907-4aee-81a9-16fe8d3d04d2",
           "description": ""
         }
       ]
