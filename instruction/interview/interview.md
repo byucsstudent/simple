@@ -1,7 +1,7 @@
 # Interview
 
-**Discipline:** _unspecified_
-**Problem type:** _unspecified_
+**Discipline:** Software Engineering
+**Problem type:** Interview for entry level software engineering position
 **Difficulty:** 3 / 5
 **Modes:** Practice
 **Instability:** Off
@@ -15,8 +15,8 @@ _Learning outcomes to be defined._
 ```json
 {
   "title": "Interview",
-  "discipline": "",
-  "problemType": "",
+  "discipline": "Software Engineering",
+  "problemType": "Interview for entry level software engineering position",
   "difficulty": 3,
   "practiceMode": true,
   "finalMode": false,
