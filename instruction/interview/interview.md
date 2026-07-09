@@ -16,7 +16,9 @@ Responsibilities include:
 - Interfacing with customers, stakeholders, and investors
 
 Outcomes:
-- Demonstrated ability to leverage 
+- Ability to leverage aI for development and DevOps.
+- Ability to facilitate positive communicate with technical, product, marketing, and sales teams.
+- Ability to represent the company to external customers, partners, and investors.
 
 ## Assessment Definition
 
@@ -29,6 +31,6 @@ Outcomes:
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "You are interviewing for an entry level software engineering position at a small technical company.\n\nResponsibilities include:\n- Full stack development\n- System management and incident response\n- Interfacing with customers, stakeholders, and investors\n\nOutcomes:\n- Demonstrated ability to leverage "
+  "learningOutcomes": "You are interviewing for an entry level software engineering position at a small technical company.\n\nResponsibilities include:\n- Full stack development\n- System management and incident response\n- Interfacing with customers, stakeholders, and investors\n\nOutcomes:\n- Ability to leverage aI for development and DevOps.\n- Ability to facilitate positive communicate with technical, product, marketing, and sales teams.\n- Ability to represent the company to external customers, partners, and investors."
 }
 ```
