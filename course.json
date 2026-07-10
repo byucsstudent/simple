@@ -249,6 +249,14 @@
           "type": "dra",
           "path": "instruction/interview/interview.md",
           "id": "0210b125-7907-4aee-81a9-16fe8d3d04d2",
+          "state": "published",
+          "description": ""
+        },
+        {
+          "title": "Battery Storage",
+          "type": "dra",
+          "path": "instruction/battery-storage/battery-storage.md",
+          "id": "b2e4123d-2faf-4e66-89bd-f66c74eec007",
           "description": ""
         }
       ]
