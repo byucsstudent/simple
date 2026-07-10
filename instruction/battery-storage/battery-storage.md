@@ -1,26 +1,30 @@
 # Battery Storage
 
-**Discipline:** _unspecified_
-**Problem type:** _unspecified_
-**Difficulty:** 3 / 5
+**Discipline:** Electrical Engineering
+**Problem type:** Extending the life of batteries
+**Difficulty:** 1 / 5
 **Modes:** Practice
 **Instability:** Off
 
 ## Learning Outcomes
 
-_Learning outcomes to be defined._
+Come up with new solutions to store energy.
+
+- Scalable
+- Inexpensive
+- Renewable
 
 ## Assessment Definition
 
 ```json
 {
   "title": "Battery Storage",
-  "discipline": "",
-  "problemType": "",
-  "difficulty": 3,
+  "discipline": "Electrical Engineering",
+  "problemType": "Extending the life of batteries",
+  "difficulty": 1,
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": ""
+  "learningOutcomes": "Come up with new solutions to store energy.\n\n- Scalable\n- Inexpensive\n- Renewable"
 }
 ```
