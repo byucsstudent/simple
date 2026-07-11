@@ -6,9 +6,13 @@
 **Modes:** Practice
 **Instability:** Off
 
-## Learning Outcomes
+## Engagement Description
 
 The board for a startup is meeting to discuss the future of the company and must decide to 1) continue operations, 2) seek for a buyer, or 3) close down operations.
+
+
+## Learning Outcomes
+
 
 Learning outcomes include:
 - The ability to decided the financial stability of the company
@@ -26,6 +30,7 @@ Learning outcomes include:
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "The board for a startup is meeting to discuss the future of the company and must decide to 1) continue operations, 2) seek for a buyer, or 3) close down operations.\n\nLearning outcomes include:\n- The ability to decided the financial stability of the company\n- The ability to access the ability of the management team to be successful\n- The ability to access the current product value and market opportunities"
+  "engagementDescription": "The board for a startup is meeting to discuss the future of the company and must decide to 1) continue operations, 2) seek for a buyer, or 3) close down operations.\n",
+  "learningOutcomes": "\nLearning outcomes include:\n- The ability to decided the financial stability of the company\n- The ability to access the ability of the management team to be successful\n- The ability to access the current product value and market opportunities"
 }
 ```
