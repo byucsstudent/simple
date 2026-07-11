@@ -267,6 +267,13 @@
           "id": "2e590468-a4a0-4fe2-9518-9d702f3dba8d",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "Energy Solutions",
+          "type": "interview",
+          "path": "instruction/energy-solutions/energy-solutions.md",
+          "id": "b0c49a46-b7f0-4d80-a80d-816dd598f2c1",
+          "description": ""
         }
       ]
     }
