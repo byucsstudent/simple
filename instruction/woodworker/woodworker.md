@@ -1,7 +1,7 @@
 # Woodworker
 
-**Discipline:** _unspecified_
-**Job title:** _unspecified_
+**Discipline:** Skilled trade
+**Job title:** Custom Cabinet Maker
 **Difficulty:** 3 / 5
 **Modes:** Practice
 
@@ -18,8 +18,8 @@ _Learning outcomes to be defined._
 ```json
 {
   "title": "Woodworker",
-  "discipline": "",
-  "jobTitle": "",
+  "discipline": "Skilled trade",
+  "jobTitle": "Custom Cabinet Maker",
   "jobDescription": "",
   "difficulty": 3,
   "practiceMode": true,
