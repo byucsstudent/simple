@@ -6,9 +6,16 @@
 **Modes:** Practice, Final
 **Instability:** Off
 
-## Learning Outcomes
+## Engagement Description
 
 A simple single action solution to solving traffic congestion in a small city with one road.
+
+## Learning Outcomes
+
+- Efficient
+- Cost effective
+- Reduces congestion and accident rates
+- Minimal changes
 
 ## Assessment Definition
 
@@ -21,6 +28,7 @@ A simple single action solution to solving traffic congestion in a small city wi
   "practiceMode": true,
   "finalMode": true,
   "instability": false,
-  "learningOutcomes": "A simple single action solution to solving traffic congestion in a small city with one road."
+  "engagementDescription": "A simple single action solution to solving traffic congestion in a small city with one road.",
+  "learningOutcomes": "- Efficient\n- Cost effective\n- Reduces congestion and accident rates\n- Minimal changes"
 }
 ```
