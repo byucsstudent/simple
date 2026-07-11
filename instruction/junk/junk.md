@@ -6,9 +6,11 @@
 **Modes:** Practice
 **Instability:** Off
 
-## Learning Outcomes
+## Engagement Description
 
-Learn how to:
+Courtroom behavior and ethics
+
+## Learning Outcomes
 
 - Properly address a judge
 - Properly address witnesses
@@ -28,6 +30,7 @@ Learn how to:
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "Learn how to:\n\n- Properly address a judge\n- Properly address witnesses\n- Interview a witness without violating any ethical or legal conditions\n- Presenting evidence\n- Interacting with the jury\n- Interacting with the other legal team"
+  "engagementDescription": "Courtroom behavior and ethics",
+  "learningOutcomes": "- Properly address a judge\n- Properly address witnesses\n- Interview a witness without violating any ethical or legal conditions\n- Presenting evidence\n- Interacting with the jury\n- Interacting with the other legal team"
 }
 ```
