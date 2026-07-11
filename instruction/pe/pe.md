@@ -6,9 +6,11 @@
 **Modes:** Practice
 **Instability:** Off
 
-## Learning Outcomes
+## Engagement Description
 
-Practice gathering information, satisfying constraints, and generation solutions that provide the following results:
+Practice gathering information, satisfying constraints, and generation solutions
+
+## Learning Outcomes
 
 * Maximum oil production 
 * Political risk management
@@ -24,6 +26,7 @@ Practice gathering information, satisfying constraints, and generation solutions
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "Practice gathering information, satisfying constraints, and generation solutions that provide the following results:\n\n* Maximum oil production \n* Political risk management"
+  "engagementDescription": "Practice gathering information, satisfying constraints, and generation solutions",
+  "learningOutcomes": "* Maximum oil production \n* Political risk management"
 }
 ```
