@@ -261,10 +261,11 @@
           "description": ""
         },
         {
-          "title": "Woodworker",
+          "title": "Cabinet Maker",
           "type": "interview",
           "path": "instruction/woodworker/woodworker.md",
           "id": "2e590468-a4a0-4fe2-9518-9d702f3dba8d",
+          "state": "published",
           "description": ""
         }
       ]
