@@ -6,7 +6,7 @@
 **Modes:** Practice
 **Instability:** Off
 
-## Learning Outcomes
+## Engagement Description
 
 You are interviewing for an entry level software engineering position at a small technical company.
 
@@ -14,6 +14,9 @@ Responsibilities include:
 - Full stack development
 - System management and incident response
 - Interfacing with customers, stakeholders, and investors
+
+
+## Learning Outcomes
 
 Outcomes:
 - Ability to leverage AI for development and DevOps.
@@ -33,6 +36,7 @@ Outcomes:
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "You are interviewing for an entry level software engineering position at a small technical company.\n\nResponsibilities include:\n- Full stack development\n- System management and incident response\n- Interfacing with customers, stakeholders, and investors\n\nOutcomes:\n- Ability to leverage AI for development and DevOps.\n- Ability to facilitate positive communicate with technical, product, marketing, and sales teams.\n- Ability to represent the company to external customers, partners, and investors.\n- Demonstrates creativity, collaboration, and curiosity.\n- Proven software engineering skills at a professional entry level."
+  "engagementDescription": "You are interviewing for an entry level software engineering position at a small technical company.\n\nResponsibilities include:\n- Full stack development\n- System management and incident response\n- Interfacing with customers, stakeholders, and investors\n",
+  "learningOutcomes": "Outcomes:\n- Ability to leverage AI for development and DevOps.\n- Ability to facilitate positive communicate with technical, product, marketing, and sales teams.\n- Ability to represent the company to external customers, partners, and investors.\n- Demonstrates creativity, collaboration, and curiosity.\n- Proven software engineering skills at a professional entry level."
 }
 ```
