@@ -6,13 +6,15 @@
 **Modes:** Practice
 **Instability:** Off
 
-## Learning Outcomes
+## Engagement Description
 
 Come up with new solutions to store energy.
 
-- Scalable
-- Inexpensive
-- Renewable
+## Learning Outcomes
+
+- Scalable designs
+- Inexpensive implementation
+- Renewable energy sources
 
 ## Assessment Definition
 
@@ -25,6 +27,7 @@ Come up with new solutions to store energy.
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "learningOutcomes": "Come up with new solutions to store energy.\n\n- Scalable\n- Inexpensive\n- Renewable"
+  "engagementDescription": "Come up with new solutions to store energy.",
+  "learningOutcomes": "- Scalable designs\n- Inexpensive implementation\n- Renewable energy sources"
 }
 ```
