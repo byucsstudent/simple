@@ -245,14 +245,6 @@
           "description": ""
         },
         {
-          "title": "Interview",
-          "type": "dra",
-          "path": "instruction/interview/interview.md",
-          "id": "0210b125-7907-4aee-81a9-16fe8d3d04d2",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "Battery Storage",
           "type": "dra",
           "path": "instruction/battery-storage/battery-storage.md",
@@ -265,6 +257,7 @@
           "type": "interview",
           "path": "instruction/junior-dev/junior-dev.md",
           "id": "2946cdf5-e4d0-4f42-b2f6-c979056b0075",
+          "state": "published",
           "description": ""
         }
       ]
