@@ -259,6 +259,13 @@
           "id": "2946cdf5-e4d0-4f42-b2f6-c979056b0075",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "Woodworker",
+          "type": "interview",
+          "path": "instruction/woodworker/woodworker.md",
+          "id": "2e590468-a4a0-4fe2-9518-9d702f3dba8d",
+          "description": ""
         }
       ]
     }
