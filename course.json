@@ -273,6 +273,14 @@
           "type": "interview",
           "path": "instruction/energy-solutions/energy-solutions.md",
           "id": "b0c49a46-b7f0-4d80-a80d-816dd598f2c1",
+          "state": "published",
+          "description": ""
+        },
+        {
+          "title": "junk",
+          "type": "instruction",
+          "path": "instruction/junk-2/junk-2.md",
+          "id": "b7d95741-f912-4238-9fb0-4505ae6e1528",
           "description": ""
         }
       ]
