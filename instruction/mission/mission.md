@@ -1,4 +1,4 @@
-# Mission
+# Christian Outreach
 
 **Discipline:** Eternal Progression
 **Problem type:** Serving a mission for the Church of Jesus Christ of Latter Day Saints
@@ -35,7 +35,7 @@ These outcomes emphasize that missionary service is not only about helping other
 
 ```json
 {
-  "title": "Mission",
+  "title": "Christian Outreach",
   "discipline": "Eternal Progression",
   "problemType": "Serving a mission for the Church of Jesus Christ of Latter Day Saints",
   "difficulty": 3,
