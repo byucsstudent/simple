@@ -95,7 +95,7 @@
           "description": "https://docs.google.com/presentation/d/e/2PACX-1vRNMUt0hZHu0OSZqKIMuPUsel9sg_XqEaDq_7d60yKNwIN2IaI-L8WVhrGaLdheFGvkSYm35np6pUcI/pubembed"
         },
         {
-          "title": "cow",
+          "title": "Bovines",
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "0bc51c30-cf46-4e05-b32b-a645fe3f625e",
@@ -281,6 +281,7 @@
           "type": "instruction",
           "path": "instruction/junk-2/junk-2.md",
           "id": "b7d95741-f912-4238-9fb0-4505ae6e1528",
+          "state": "published",
           "interactions": [
             "3e63ee43-9270-48b9-be1e-d2f55dae0a76"
           ],
