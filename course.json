@@ -275,17 +275,6 @@
           "id": "b0c49a46-b7f0-4d80-a80d-816dd598f2c1",
           "state": "published",
           "description": ""
-        },
-        {
-          "title": "junk",
-          "type": "instruction",
-          "path": "instruction/junk-2/junk-2.md",
-          "id": "b7d95741-f912-4238-9fb0-4505ae6e1528",
-          "state": "published",
-          "interactions": [
-            "3e63ee43-9270-48b9-be1e-d2f55dae0a76"
-          ],
-          "description": ""
         }
       ]
     }
