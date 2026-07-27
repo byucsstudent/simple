@@ -2,12 +2,14 @@
 
 **Discipline:** Computer Science
 **Job title:** Computer Science Student
-**Difficulty:** 3 / 5
+**Difficulty:** 1 / 5
 **Modes:** Practice
 
 ## Job Description
 
-You are a student seeking to take an introductory course in Web Programming. The outcomes for the course include:
+This position is for joining a freshman level university introductory course in Web Programming.
+
+### Expected outcomes at the conclusion of the class
 
 - **Web Pages**: Create interactive web applications using HTML, CSS, and JavaScript.
 - **Web Frameworks**: Modularize, build, and package an application using a web framework.
@@ -15,12 +17,33 @@ You are a student seeking to take an introductory course in Web Programming. The
 - **Infrastructure**: Deploy applications and manage code.
 - **Security and Design**: Appreciate production web application security and design practices.
 
-You are interviewing to show that you are properly prepared to successfully complete the Introduction to Web Programming course.
+It is not expected that you have significant experiences with the outcomes of the course as you will learn this during the course. 
+
+### Required preparation
+
+You are expected to have the following preparation:
+
+- **Programming**: Programming experience should include statements, variables, control flow (if/while), and functions
+- **Computing and Service**: Write programs that accomplish tasks relevant to computer science, such as data visualization or internet protocols. Students will view these technical applications as a means of service, using their intellectually enlarging skills to address the needs of a global society.
+- **Algorithms**: Effectively use basic algorithms including recursion, merge sort, and others. Students will engage in the intellectually enlarging study of algorithmic efficiency, recognizing the elegance and order inherent in well-designed computational logic.
+- **Data Structures**: Use data structures, modules, classes, and functions to organize information and behavior within a program. This mastery over data and complexity prepares students for lifelong learning by providing them with the mental frameworks necessary to adapt to a constantly evolving technical landscape.
+
+The course requires careful study of course materials, defining, designing, and building a mastery based project. Minimum workload for an average student is 3 hours in class and  5-7 hours out of class per week. 
+
+### Interviews
+
+You are interviewing to show that you are properly prepared to successfully complete the Introduction to Web Programming course. As part of this interview you will meet with:
+
+* TA
+* Previous student
+* Instructor.
+
 
 ## Learning Outcomes
 
-- Demonstrates the understanding necessary to succeed in an introductory web programming class
-- Necessary skills include: basic programming, data structures, abstract thinking, curiosity, and creativity.
+- Demonstrates the necessary preparation
+- Demonstrates the commitment to succeed
+
 
 ## Assessment Definition
 
@@ -29,10 +52,10 @@ You are interviewing to show that you are properly prepared to successfully comp
   "title": "260 Entrance",
   "discipline": "Computer Science",
   "jobTitle": "Computer Science Student",
-  "jobDescription": "You are a student seeking to take an introductory course in Web Programming. The outcomes for the course include:\n\n- **Web Pages**: Create interactive web applications using HTML, CSS, and JavaScript.\n- **Web Frameworks**: Modularize, build, and package an application using a web framework.\n- **Web Services**: Create a backend service using DNS, HTTPS, WebSocket, service endpoints, authentication, and data persistence.\n- **Infrastructure**: Deploy applications and manage code.\n- **Security and Design**: Appreciate production web application security and design practices.\n\nYou are interviewing to show that you are properly prepared to successfully complete the Introduction to Web Programming course.",
-  "difficulty": 3,
+  "jobDescription": "This position is for joining a freshman level university introductory course in Web Programming.\n\n### Expected outcomes at the conclusion of the class\n\n- **Web Pages**: Create interactive web applications using HTML, CSS, and JavaScript.\n- **Web Frameworks**: Modularize, build, and package an application using a web framework.\n- **Web Services**: Create a backend service using DNS, HTTPS, WebSocket, service endpoints, authentication, and data persistence.\n- **Infrastructure**: Deploy applications and manage code.\n- **Security and Design**: Appreciate production web application security and design practices.\n\nIt is not expected that you have significant experiences with the outcomes of the course as you will learn this during the course. \n\n### Required preparation\n\nYou are expected to have the following preparation:\n\n- **Programming**: Programming experience should include statements, variables, control flow (if/while), and functions\n- **Computing and Service**: Write programs that accomplish tasks relevant to computer science, such as data visualization or internet protocols. Students will view these technical applications as a means of service, using their intellectually enlarging skills to address the needs of a global society.\n- **Algorithms**: Effectively use basic algorithms including recursion, merge sort, and others. Students will engage in the intellectually enlarging study of algorithmic efficiency, recognizing the elegance and order inherent in well-designed computational logic.\n- **Data Structures**: Use data structures, modules, classes, and functions to organize information and behavior within a program. This mastery over data and complexity prepares students for lifelong learning by providing them with the mental frameworks necessary to adapt to a constantly evolving technical landscape.\n\nThe course requires careful study of course materials, defining, designing, and building a mastery based project. Minimum workload for an average student is 3 hours in class and  5-7 hours out of class per week. \n\n### Interviews\n\nYou are interviewing to show that you are properly prepared to successfully complete the Introduction to Web Programming course. As part of this interview you will meet with:\n\n* TA\n* Previous student\n* Instructor.\n",
+  "difficulty": 1,
   "practiceMode": true,
   "finalMode": false,
-  "learningOutcomes": "- Demonstrates the understanding necessary to succeed in an introductory web programming class\n- Necessary skills include: basic programming, data structures, abstract thinking, curiosity, and creativity."
+  "learningOutcomes": "- Demonstrates the necessary preparation\n- Demonstrates the commitment to succeed\n"
 }
 ```
