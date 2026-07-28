@@ -1,31 +1,31 @@
 # Faculty Development
 
-**Discipline:** _unspecified_
-**Problem type:** _unspecified_
+**Discipline:** Education
+**Problem type:** BYU student rating impacting positive faculty development
 **Difficulty:** 3 / 5
 **Modes:** Practice
 **Instability:** Off
 
 ## Engagement Description
 
-_Engagement description to be defined._
+BYU student rating impacting positive faculty development
 
 ## Learning Outcomes
 
-_Learning outcomes to be defined._
+Improved instructor class performance
 
 ## Assessment Definition
 
 ```json
 {
   "title": "Faculty Development",
-  "discipline": "",
-  "problemType": "",
+  "discipline": "Education",
+  "problemType": "BYU student rating impacting positive faculty development",
   "difficulty": 3,
   "practiceMode": true,
   "finalMode": false,
   "instability": false,
-  "engagementDescription": "",
-  "learningOutcomes": ""
+  "engagementDescription": "BYU student rating impacting positive faculty development",
+  "learningOutcomes": "Improved instructor class performance"
 }
 ```
