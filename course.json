@@ -213,14 +213,6 @@
           "description": ""
         },
         {
-          "title": "Courtroom Ethics",
-          "type": "dra",
-          "path": "instruction/junk/junk.md",
-          "id": "eb083a6d-d71e-4131-9366-42650f8b2c45",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "Boardroom Drama",
           "type": "dra",
           "path": "instruction/boardroom-drama/boardroom-drama.md",
