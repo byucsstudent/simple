@@ -261,14 +261,6 @@
           "description": ""
         },
         {
-          "title": "Energy Solutions",
-          "type": "interview",
-          "path": "instruction/energy-solutions/energy-solutions.md",
-          "id": "b0c49a46-b7f0-4d80-a80d-816dd598f2c1",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "260 Entrance",
           "type": "interview",
           "path": "instruction/260-entrance/260-entrance.md",
@@ -281,6 +273,7 @@
           "type": "dra",
           "path": "instruction/faculty-development/faculty-development.md",
           "id": "2311812d-d502-439a-beec-67cd5f2f1da6",
+          "state": "published",
           "description": ""
         }
       ]
