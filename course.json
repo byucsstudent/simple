@@ -213,14 +213,6 @@
           "description": ""
         },
         {
-          "title": "Battery Storage",
-          "type": "dra",
-          "path": "instruction/battery-storage/battery-storage.md",
-          "id": "b2e4123d-2faf-4e66-89bd-f66c74eec007",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "Full Stack Developer",
           "type": "interview",
           "path": "instruction/junior-dev/junior-dev.md",
