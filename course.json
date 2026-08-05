@@ -213,14 +213,6 @@
           "description": ""
         },
         {
-          "title": "Boardroom Drama",
-          "type": "dra",
-          "path": "instruction/boardroom-drama/boardroom-drama.md",
-          "id": "3aeb40cd-de58-403e-86ed-0922677c8028",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "Battery Storage",
           "type": "dra",
           "path": "instruction/battery-storage/battery-storage.md",
