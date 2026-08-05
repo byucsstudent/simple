@@ -197,14 +197,6 @@
           "description": ""
         },
         {
-          "title": "City Planning",
-          "type": "dra",
-          "path": "instruction/city-planning/city-planning.md",
-          "id": "76695479-dcbb-470e-aaae-e501977c549d",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "Mission",
           "type": "dra",
           "path": "instruction/mission/mission.md",
