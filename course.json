@@ -213,14 +213,6 @@
           "description": ""
         },
         {
-          "title": "Petroleum Engineering",
-          "type": "dra",
-          "path": "instruction/pe/pe.md",
-          "id": "f8a6298a-4d43-411d-a710-f58f88102f67",
-          "state": "published",
-          "description": ""
-        },
-        {
           "title": "Courtroom Ethics",
           "type": "dra",
           "path": "instruction/junk/junk.md",
