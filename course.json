@@ -161,17 +161,6 @@
           "description": ""
         },
         {
-          "title": "Table Scroll",
-          "type": "instruction",
-          "path": "instruction/table-scroll/table-scroll.md",
-          "id": "0706c405-4f42-4b1c-bce7-7bd6275d09d0",
-          "state": "published",
-          "interactions": [
-            "421e0b6d-04de-4519-8c9b-ef7afbe8702c"
-          ],
-          "description": ""
-        },
-        {
           "title": "final",
           "type": "exam",
           "points": 200,
