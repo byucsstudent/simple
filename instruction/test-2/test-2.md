@@ -4,7 +4,7 @@
 Simple **multiple choice** question
 
 - [ ] a
-- [] b
+- [ ] b
 - [ ] c
 - [x] d
 ```
