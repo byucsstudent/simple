@@ -216,6 +216,13 @@
           "id": "5f50ae8c-8810-4be2-972b-b4c6ffc5895d",
           "state": "published",
           "description": ""
+        },
+        {
+          "title": "test",
+          "type": "instruction",
+          "path": "instruction/test-2/test-2.md",
+          "id": "2d3619b0-733b-40f4-af45-a30333d2dc44",
+          "description": ""
         }
       ]
     }
