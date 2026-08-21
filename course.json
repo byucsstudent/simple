@@ -39,17 +39,6 @@
       },
       "topics": [
         {
-          "title": "test",
-          "type": "instruction",
-          "path": "instruction/test-2/test-2.md",
-          "id": "2d3619b0-733b-40f4-af45-a30333d2dc44",
-          "interactions": [
-            "7d3db4ab-d06c-4782-a456-686940acad18",
-            "f230a6dd-78ae-4e50-83d0-2f7f004c1887"
-          ],
-          "description": ""
-        },
-        {
           "title": "Learning",
           "type": "instruction",
           "path": "README.md",
