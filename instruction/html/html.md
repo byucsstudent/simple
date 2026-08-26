@@ -9,6 +9,11 @@
   </body>
 ```
 
+```masteryls
+{"id":"c99e3d39-6309-4f7f-8a47-d55c610ac05d", "title":"Essay", "type":"essay" }
+If you were to invent a replacement for HTML what would it be like?
+```
+
 ## Manipulating the DOM
 
 ```masteryls
@@ -679,20 +684,20 @@ Create an HTML page. You can start with one generated from a prompt. Or start fr
 ## Animation
 
 ```masteryls
-{"id":"a9b2c3d4-e5f6-7890-1234-567890123460", "title":"Animation usage", "type":"ai-web-page", "height":420}
+{"id":"a9388f2b-bbd8-43ce-b364-7b92bb4c0c5d","title":"Animation usage","type":"ai-web-page","height":420}
 Demonstrate the use of CSS animation. The web page should include at least one animation that repeats.
 ```
 
 ## A pickle demo
 
 ```masteryls
-{"id":"a9d2c3d4-e5f6-7890-1234-567890123460", "title":"AI web page", "type":"web-page", "file":"demo/pickle.html", "height":420}
+{"id":"064844e4-90cd-4826-959f-ffd8c07d155b","title":"AI web page","type":"web-page","file":"demo/pickle.html","height":420}
 ```
 
 ## Demonstrating that you can load React from a CDN for a demo
 
 ```masteryls
-{"id":"a9c2c3d4-e5f6-7890-1234-567890123460", "title":"Basic React Demo", "type":"web-page", "height":420}
+{"id":"68194297-fd2c-4168-b127-9825c314be62","title":"Basic React Demo","type":"web-page","height":420}
 <!DOCTYPE html>
 <html lang="en">
 <head>
