@@ -44,14 +44,10 @@ Which of the following activities best demonstrates the principle of "Active Rec
 
 - [ ] Highlighting key passages in a textbook while reading for the first time.
   Highlighting can help identify important information, but it is primarily a **passive study strategy**. Active recall requires retrieving information from memory rather than simply marking it while reading.
-
 - [ ] Listening to a recorded lecture while commuting to work or school.
   Listening to a lecture may provide useful exposure to new information, but it does not require you to **retrieve knowledge from memory**. This activity supports input, not active recall.
-
 - [x] Closing your book and writing down everything you remember about a topic from memory.
   **Correct!** Closing the book and recalling information forces your brain to retrieve what you have learned. This strengthens neural pathways and helps move knowledge into long-term memory.
-
-
 - [ ] Reading a chapter three times in a row to ensure the information "sinks in."
   Repeated reading may create a sense of familiarity, but it does not actively test your ability to remember the material. **Retrieving information without looking at the text** is more effective for strengthening learning.
 ```
