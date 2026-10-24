@@ -1,4 +1,4 @@
-# Jensen
+# Summer
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
