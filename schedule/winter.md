@@ -1,4 +1,4 @@
-# Winter
+# Winter 2027
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
