@@ -8,4 +8,4 @@
 |  | Fri Sep 11, 2026 |  | [Fish](../instruction/test/test.md)</br>[cow](../instruction/cow/cow.md) | [Table Scroll](../instruction/table-scroll/table-scroll.md) |  |
 | 2 | Wed Sep 30, 2026 | `Tuna Salad` |  | Cooking</br>Peanuts</br>[HTML](../instruction/html/html.md) |  |
 |  | Fri Oct 2, 2026 |  | Cooking</br>Peanuts</br>[Table Scroll](../instruction/table-scroll/table-scroll.md)</br>[HTML](../instruction/html/html.md) |  |  |
-|  | Wed Oct 14, 2026 |  | [final](../instruction/final/final.md) |  |  |
+|  | Fri Oct 30, 2026 |  | [final](../instruction/final/final.md) |  |  |
