@@ -13,7 +13,9 @@
         "title": "Summer",
         "path": "schedule/jensen.md",
         "default": true,
-        "state": "published"
+        "state": "published",
+        "startDate": "2026-07-01",
+        "endDate": "2026-07-31"
       },
       {
         "id": "9e87b980-d499-4081-b6a3-76b50654ec37",
