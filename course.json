@@ -20,7 +20,9 @@
         "title": "Winter",
         "path": "schedule/winter.md",
         "default": false,
-        "state": "published"
+        "state": "published",
+        "startDate": "2027-01-24",
+        "endDate": "2027-03-24"
       },
       {
         "id": "6a7cf0c4-848a-4ce4-ba4e-ee475c012c53",
