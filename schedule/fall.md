@@ -1,4 +1,4 @@
-# Fall
+# Fall 2026
 
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
@@ -6,5 +6,5 @@
 |  | Sun Sep 6, 2026 |  |  | [city](../instruction/anothertest/anothertest.md)</br>[mastery project](../instruction/mastery-project/mastery-project.md) | [cow video](/course/07252223-4200-48d1-8e60-5e02e594d32a/topic/03a9bf66-f45b-4664-bb0f-58f19efe999c) |
 | 2 | Fri Sep 11, 2026 | `cows` |  | [Fish](../instruction/test/test.md)</br>[Super](https://super.com)</br>[cow](../instruction/cow/cow.md) |  |
 |  | Sun Sep 13, 2026 |  | [cow video](/course/07252223-4200-48d1-8e60-5e02e594d32a/topic/03a9bf66-f45b-4664-bb0f-58f19efe999c) | [Table Scroll](../instruction/table-scroll/table-scroll.md) |  |
-| 3 | Fri Sep 18, 2026 | `Tuna Salad` | [mastery project](../instruction/mastery-project/mastery-project.md) | Cooking</br>Peanuts</br>[final](../instruction/final/final.md) |  |
-|  | Sun Sep 20, 2026 |  | [final](../instruction/final/final.md) |  |  |
+| 3 | Wed Nov 25, 2026 | `Tuna Salad` | [mastery project](../instruction/mastery-project/mastery-project.md) | Cooking</br>Peanuts</br>[final](../instruction/final/final.md) |  |
+|  | Wed Dec 9, 2026 |  | [final](../instruction/final/final.md) |  |  |
