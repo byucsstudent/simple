@@ -1,3 +1,5 @@
+[BYU](https://www.byu.edu)
+
 | Week | Date | Module | Due | Topics Covered | Slides |
 | :--: | ---- | ------ | --- | -------------- | ------ |
 | 1 | Tue Sep 5, 6 | `Intro` |  | [Home](../README.md)</br>[HTML](../instruction/html/html.md) | [city slides](/course/07252223-4200-48d1-8e60-5e02e594d32a/topic/73fbf3c2-5c0a-4c7e-a5d9-7f54cadd95c5) |
