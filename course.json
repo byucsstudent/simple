@@ -138,6 +138,23 @@
           }
         },
         {
+          "title": "final",
+          "type": "exam",
+          "points": 200,
+          "path": "instruction/final/final.md",
+          "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
+          "state": "published",
+          "interactions": [
+            "707825a2-c9d3-4009-8b04-28170cea6b0a",
+            "1bbf8b11-d05d-4035-8685-5bc0efe724d2",
+            "ca847f9a-527d-4148-97fb-636a2a904981"
+          ],
+          "description": "Don't begin this exam until you are ready.",
+          "externalRefs": {
+            "canvasQuizId": 617980
+          }
+        },
+        {
           "title": "GitHub grading",
           "type": "instruction",
           "path": "instruction/github-grading/github-grading.md",
@@ -166,23 +183,6 @@
           "state": "published",
           "interactions": [],
           "description": ""
-        },
-        {
-          "title": "final",
-          "type": "exam",
-          "points": 200,
-          "path": "instruction/final/final.md",
-          "id": "fc2505b0-dd6c-4c2f-b373-d2629eebcaff",
-          "state": "published",
-          "interactions": [
-            "707825a2-c9d3-4009-8b04-28170cea6b0a",
-            "1bbf8b11-d05d-4035-8685-5bc0efe724d2",
-            "ca847f9a-527d-4148-97fb-636a2a904981"
-          ],
-          "description": "Don't begin this exam until you are ready.",
-          "externalRefs": {
-            "canvasQuizId": 617980
-          }
         },
         {
           "title": "Website",
