@@ -23,6 +23,16 @@ The following diagram illustrates the "Grass-to-Energy Pipeline" that keeps a co
 <img width="700px" src="fourStagesOfDigestion.jpg" />
 
 
+```masteryls
+{"id":"41e1711a-63a9-4e69-9eac-a2cfa8afca5b", "title":"The Ruminant System", "type":"multiple-choice"}
+Why do cows "chew the cud" (regurgitate their food)?
+
+- [ ] They are showing off their digestive prowess to other cows in the herd.
+- [ ] They forgot what it tasted like and wanted a second opinion.
+- [x] To further break down tough plant fibers that were softened in the rumen.
+- [ ] It is a defense mechanism used to scare away potential predators.
+```
+
 ### Bovine Social Life and "Cow Logic"
 
 Cows are surprisingly social creatures with complex hierarchies. They have "best friends" and can become stressed when separated from their preferred grazing buddies. Their communication isn't just a monotonous "moo"; it involves a variety of pitches and volumes that indicate hunger, frustration, or the bovine equivalent of "Hey, look at this cool rock!"
@@ -116,16 +126,6 @@ When conducting "field research" on bovine behavior, look for these specific ind
 *   **Thirsty Work:** A high-producing dairy cow can drink up to 50 gallons of water in a single day—roughly the amount of water in a standard bathtub.
 
 ## Demonstrate your understanding
-
-```masteryls
-{"id":"41e1711a-63a9-4e69-9eac-a2cfa8afca5b", "title":"The Ruminant System", "type":"multiple-choice"}
-Why do cows "chew the cud" (regurgitate their food)?
-
-- [ ] They are showing off their digestive prowess to other cows in the herd.
-- [ ] They forgot what it tasted like and wanted a second opinion.
-- [x] To further break down tough plant fibers that were softened in the rumen.
-- [ ] It is a defense mechanism used to scare away potential predators.
-```
 
 ```masteryls
 {"id":"0e28ce18-f54a-4632-9f90-27deae07c846", "title":"Udder Capacity Ratio", "type":"multiple-choice"}
