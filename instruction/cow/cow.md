@@ -92,6 +92,13 @@ Cows communicate through a vocalization known as **mooing** (scientifically refe
   <a href="https://upload.wikimedia.org/wikipedia/commons/5/52/Charles_%27Cow_Cow%27_Davenport_-_Atlanta_Rag_%281922%29.ogg">Hear Charles 'Cow Cow' Davenport play the Atlanta Rag</a>
 </audio>
 
+
+```masteryls
+{"id":"987aa238-b164-4543-bf34-1dbcd88b5d75", "title":"Say what?", "type":"essay" }
+What do you think cows are saying when they `moooo`!
+```
+
+
 ## The Art of Cow Watching: Observation and Behavior
 
 To the uninitiated, watching a cow is a lesson in extreme patience and a study in existential stillness. They possess a unique ability to engage in a high-stakes staring contest that can last upwards of ten minutes without a single blink. As you stand by the fence, a cow will likely stop mid-chew, lock eyes with you, and project an aura of profound, silent judgment. It’s as if they are mentally auditing your taxes or questioning your choice of footwear, all while rhythmically rotating their lower jaw in a way that defies the standard laws of human physics. This meditative state is interrupted only by the occasional flick of an ear or a sudden, unexplained trot to the other side of the field.
