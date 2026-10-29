@@ -1,7 +1,7 @@
 <img width="100" src="byuLogo.png" />
 
 
-<iframe src="https://class.cs260.click/l" width="100%" height="400"/>
+<iframe src="https://class.cs260.click/#/l" width="100%" height="400"/>
 
 # Learning
 
