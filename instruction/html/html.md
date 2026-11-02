@@ -14,6 +14,17 @@
 If you were to invent a replacement for HTML what would it be like?
 ```
 
+## Mermaid
+
+```mermaid
+%%{init: { 'theme': 'neutral', 'themeVariables': { 'mainBkg': '#ffffff', 'lineColor': '#000000', 'primaryTextColor': '#000000', 'actorBorder': '#000000', 'participantBorder': '#000000', 'noteBorderColor': '#000000' } }}%%
+graph LR
+    A[User Browser] -->|Requests HTML| B[GitHub Pages]
+    B -->|Serves Static Markup| A
+    A -->|JavaScript Fetch| C[External APIs]
+    C -->|Returns Data| A
+```
+
 ## Manipulating the DOM
 
 ```masteryls
