@@ -1,10 +1,6 @@
 {
   "title": "Simple",
   "links": {},
-  "externalRefs": {
-    "canvasCourseId": "20802",
-    "canvasScheduleFileId": "f74ff368-7a75-4b74-a97e-acd104c3eda8"
-  },
   "schedule": {
     "id": "c054d0f5-4170-4bec-b5eb-4190e1278c52",
     "files": [
@@ -40,9 +36,6 @@
   "modules": [
     {
       "title": "Part 1",
-      "externalRefs": {
-        "canvasModuleId": 386870
-      },
       "topics": [
         {
           "title": "Learning",
@@ -133,10 +126,7 @@
           "interactions": [
             "f27884bb-81a2-4bc1-afbf-fbf7ce76a9d2"
           ],
-          "description": "",
-          "externalRefs": {
-            "canvasAssignmentId": 1352872
-          }
+          "description": ""
         },
         {
           "title": "GitHub grading",
@@ -164,9 +154,6 @@
     },
     {
       "title": "Part 2",
-      "externalRefs": {
-        "canvasModuleId": 386871
-      },
       "topics": [
         {
           "title": "final",
@@ -180,10 +167,7 @@
             "1bbf8b11-d05d-4035-8685-5bc0efe724d2",
             "ca847f9a-527d-4148-97fb-636a2a904981"
           ],
-          "description": "Don't begin this exam until you are ready.",
-          "externalRefs": {
-            "canvasQuizId": 617980
-          }
+          "description": "Don't begin this exam until you are ready."
         },
         {
           "title": "Website",
