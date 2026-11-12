@@ -6,6 +6,20 @@
 
 -
 
+```masteryls
+{"id":"3797ca50-7b58-414e-a169-1fef15561307","title":"Understanding God's Relentless Pursuit","type":"multiple-choice"}
+In the context of spiritual learning and theology, what does the concept of "God is in relentless pursuit of you" primarily signify?
+
+- [ ] It describes a passive observation where God waits for a person to achieve a specific level of holiness before initiating a relationship.
+  I appreciate your effort in thinking about the importance of holiness! However, this choice suggests that the relationship is dependent on our own initial perfection. The core of "relentless pursuit" is that God is the **active initiator**. The correct answer is that it is a proactive, persistent initiative by God to reach out to individuals regardless of their current state or past mistakes.
+- [x] It represents a proactive, persistent initiative by God to seek out and restore a relationship with individuals, regardless of their distance or rebellion.
+  You nailed it! This answer correctly identifies that "relentless pursuit" means God's love is active and intentional. It highlights that He doesn't wait for us to become perfect or find our own way back; instead, He actively seeks us out—much like the shepherd searching for the lost sheep—to offer grace and reconciliation.
+- [ ] It is a conditional effort that ceases if a person continues to ignore spiritual prompts for an extended period of time.
+  That is a thoughtful perspective on human choice, but the term "relentless" specifically implies that God's effort does not have an expiration date. While we have the will to respond, the concept emphasizes His unwavering commitment. The correct answer is that it is a proactive, persistent initiative by God to restore a relationship, showing that His grace is more stubborn than our avoidance.
+- [ ] It refers to a reward system where God's closeness is only granted to those who have successfully completed a spiritual journey.
+  It is great that you are thinking about the journey of faith! However, the concept of pursuit implies that God is moving toward us while we are still on the way (or even lost). It isn't a reward for finishing; it is the means by which we are found. The correct answer is that it is a proactive and persistent initiative by God to reach us, demonstrating that His pursuit precedes our progress.
+```
+
 # Learning
 
 This course is used to experiment while MasteryLS is being developed.
