@@ -6,11 +6,6 @@
 
 -
 
-![student-in-classroom-asking-question.jpg](student-in-classroom-asking-question.jpg)
-
-![intelligence-flow.jpg](intelligence-flow.jpg)
-![intelligence.jpg](intelligence.jpg)
-
 ```masteryls
 {"id":"3797ca50-7b58-414e-a169-1fef15561307","title":"Understanding God's Relentless Pursuit","type":"multiple-choice"}
 In the context of spiritual learning and theology, what does the concept of "God is in relentless pursuit of you" primarily signify?
@@ -85,3 +80,32 @@ By the end of the course you should have experienced the following outcomes.
 - **Cognitive Process Analysis**: Explain the biological foundations of learning, such as neuroplasticity and encoding, and their impact on knowledge acquisition.
 - **Information Synthesis**: Utilize dual coding and elaboration to integrate new information into existing mental frameworks.
 - **Reflective Practice**: Evaluate personal learning workflows and iterate on study habits to optimize academic and professional performance.
+
+## Image generation
+
+1. The glory of God is intelligence
+2. female university student in class asking a question
+
+### photo
+![intelligence.jpg](intelligence.jpg)
+![student-in-classroom-asking-question.jpg](student-in-classroom-asking-question.jpg)
+
+### Visual
+![intelligence-flow.jpg](intelligence-flow.jpg)
+![question-visual.jpg](question-visual.jpg)
+
+### Minimalist
+![intelligence-flat.jpg](intelligence-flat.jpg)
+![question-minimalist.jpg](question-minimalist.jpg)
+
+### 3D render
+![ai-the-glory-of-god-is-intelligence.jpg](ai-the-glory-of-god-is-intelligence.jpg)
+![question-3d.jpg](question-3d.jpg)
+
+### Line Art
+![intelligence-lineart.jpg](intelligence-lineart.jpg)
+![question-lineart.jpg](question-lineart.jpg)
+
+### Water color
+![intelligence-watercolor.jpg](intelligence-watercolor.jpg)
+![question-watercolor.jpg](question-watercolor.jpg)
