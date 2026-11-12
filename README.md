@@ -6,6 +6,11 @@
 
 -
 
+![student-in-classroom-asking-question.jpg](student-in-classroom-asking-question.jpg)
+
+![intelligence-flow.jpg](intelligence-flow.jpg)
+![intelligence.jpg](intelligence.jpg)
+
 ```masteryls
 {"id":"3797ca50-7b58-414e-a169-1fef15561307","title":"Understanding God's Relentless Pursuit","type":"multiple-choice"}
 In the context of spiritual learning and theology, what does the concept of "God is in relentless pursuit of you" primarily signify?
