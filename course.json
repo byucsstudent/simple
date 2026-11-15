@@ -150,6 +150,13 @@
           "state": "published",
           "interactions": [],
           "description": ""
+        },
+        {
+          "title": "Images",
+          "type": "instruction",
+          "path": "instruction/images/images.md",
+          "id": "5cbc8600-76c2-4907-a4fa-2831b25258f8",
+          "description": ""
         }
       ]
     },
