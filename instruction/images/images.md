@@ -26,7 +26,7 @@ This is a demo of generating images with AI.
 
 ### Water color
 
-![intelligence-watercolor.jpg](intelligence-watercolor.jpg
+![intelligence-watercolor.jpg](intelligence-watercolor.jpg)
 
 ## female university student in class asking a question
 
