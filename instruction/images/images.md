@@ -52,6 +52,10 @@ This is a demo of generating images with AI.
 
 ![question-visualv4jpg.jpg](question-visualv4jpg.jpg)
 
+![question-visualv5.jpg](question-visualv5.jpg)
+
+![question-visialv5-repeat.jpg](question-visialv5-repeat.jpg)
+
 ### Minimalist
 
 ![question-minimalist.jpg](question-minimalist.jpg)
