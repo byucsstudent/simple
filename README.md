@@ -1,6 +1,6 @@
 <img width="100" src="byuLogo.png" />
 
---- 
+---
 
 <iframe src="https://class.cs260.click/#/l" width="100%" height="400"/>
 
@@ -26,12 +26,11 @@ This course is used to experiment while MasteryLS is being developed.
 
 ![alt text](https://images.unsplash.com/photo-1767597186218-813e8e6c44d6?q=80&w=400)
 
-
 ## The Architecture of Learning
 
 Learning is not a static event but a dynamic process of constructing knowledge. Just as a home requires a solid foundation, a frame, and finishing touches, the process of acquiring new skills involves building mental models that allow us to interpret the world. At its core, learning is about neuroplasticity—the brain's ability to reorganize itself by forming new neural connections in response to experience and practice.
 
-To learn effectively, one must move beyond passive consumption (like reading a book or watching a video) and engage in active construction. This involves synthesizing new information with what you already know, a process known as *elaboration*. By connecting new concepts to existing "mental hooks," you ensure that the information is stored in long-term memory rather than being lost to the "forgetting curve."
+To learn effectively, one must move beyond passive consumption (like reading a book or watching a video) and engage in active construction. This involves synthesizing new information with what you already know, a process known as _elaboration_. By connecting new concepts to existing "mental hooks," you ensure that the information is stored in long-term memory rather than being lost to the "forgetting curve."
 
 ### The Cycle of Knowledge Acquisition
 
@@ -43,7 +42,7 @@ graph TD
     B --> C[Output: Application & Practice]
     C --> D[Feedback: Correction & Refinement]
     D --> A
-    
+
     classDef default fill:#ffffff,stroke:#000000,color:#000000,stroke-width:1px;
 ```
 
@@ -55,8 +54,6 @@ To optimize your study habits, consider these four evidence-based strategies:
 2.  **Spaced Repetition:** Reviewing material at increasing intervals over time to combat the forgetting curve.
 3.  **Interleaving:** Mixing different topics or types of problems within a single study session to improve problem-solving flexibility.
 4.  **Dual Coding:** Combining verbal materials with visual imagery to provide two different ways of representing the same information.
-
-
 
 ```masteryls
 {"id":"299edd23-220e-4b3f-9aed-c05a278923e8","title":"Understanding Active Recall","type":"multiple-choice"}
@@ -80,32 +77,3 @@ By the end of the course you should have experienced the following outcomes.
 - **Cognitive Process Analysis**: Explain the biological foundations of learning, such as neuroplasticity and encoding, and their impact on knowledge acquisition.
 - **Information Synthesis**: Utilize dual coding and elaboration to integrate new information into existing mental frameworks.
 - **Reflective Practice**: Evaluate personal learning workflows and iterate on study habits to optimize academic and professional performance.
-
-## Image generation
-
-1. The glory of God is intelligence
-2. female university student in class asking a question
-
-### photo
-![intelligence.jpg](intelligence.jpg)
-![student-in-classroom-asking-question.jpg](student-in-classroom-asking-question.jpg)
-
-### Visual
-![intelligence-flow.jpg](intelligence-flow.jpg)
-![question-visual.jpg](question-visual.jpg)
-
-### Minimalist
-![intelligence-flat.jpg](intelligence-flat.jpg)
-![question-minimalist.jpg](question-minimalist.jpg)
-
-### 3D render
-![ai-the-glory-of-god-is-intelligence.jpg](ai-the-glory-of-god-is-intelligence.jpg)
-![question-3d.jpg](question-3d.jpg)
-
-### Line Art
-![intelligence-lineart.jpg](intelligence-lineart.jpg)
-![question-lineart.jpg](question-lineart.jpg)
-
-### Water color
-![intelligence-watercolor.jpg](intelligence-watercolor.jpg)
-![question-watercolor.jpg](question-watercolor.jpg)
