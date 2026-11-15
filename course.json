@@ -65,6 +65,13 @@
           "description": ""
         },
         {
+          "title": "Images",
+          "type": "instruction",
+          "path": "instruction/images/images.md",
+          "id": "5cbc8600-76c2-4907-a4fa-2831b25258f8",
+          "description": ""
+        },
+        {
           "title": "Fish Tacos",
           "type": "instruction",
           "path": "instruction/test/test.md",
@@ -149,13 +156,6 @@
           "id": "6ae8eb58-8af3-4212-984c-45a05d2ac501",
           "state": "published",
           "interactions": [],
-          "description": ""
-        },
-        {
-          "title": "Images",
-          "type": "instruction",
-          "path": "instruction/images/images.md",
-          "id": "5cbc8600-76c2-4907-a4fa-2831b25258f8",
           "description": ""
         }
       ]
