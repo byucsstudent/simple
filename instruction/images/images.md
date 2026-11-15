@@ -4,6 +4,8 @@ This is a demo of generating images with AI.
 
 ## WebSocket communication intialization and passing of data
 
+### Visual
+
 #### V1
 
 ![websocket.jpg](websocket.jpg)
@@ -24,6 +26,22 @@ _Same prompt. Totally different results_
 ![websocket-v5.jpg](websocket-v5.jpg)
 
 ![websocket-v3again.jpg](websocket-v3again.jpg)
+
+### Photo
+
+![websocket-photo.jpg](websocket-photo.jpg)
+
+### Watercolor
+
+![websocket-watercolor.jpg](websocket-watercolor.jpg)
+
+### Line art
+
+![websocket-lineart.jpg](websocket-lineart.jpg)
+
+### 3D Render
+
+![websocket-3d.jpg](websocket-3d.jpg)
 
 ## The glory of God is intelligence
 
