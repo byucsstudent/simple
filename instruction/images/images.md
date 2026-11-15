@@ -8,6 +8,8 @@ This is a demo of generating images with AI.
 
 ![websocketv2.jpg](websocketv2.jpg)
 
+![websocketv3.jpg](websocketv3.jpg)
+
 ## The glory of God is intelligence
 
 ### photo
