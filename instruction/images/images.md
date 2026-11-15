@@ -2,6 +2,9 @@
 
 This is a demo of generating images with AI.
 
+## WebSocket communication intialization and passing of data
+
+![websocket.jpg](websocket.jpg)
 ## The glory of God is intelligence
 
 ### photo
