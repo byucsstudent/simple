@@ -48,6 +48,8 @@ This is a demo of generating images with AI.
 
 ![question-visual.jpg](question-visual.jpg)
 
+![question-visualv3.jpg](question-visualv3.jpg)
+
 ### Minimalist
 
 ![question-minimalist.jpg](question-minimalist.jpg)
