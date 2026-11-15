@@ -4,11 +4,26 @@ This is a demo of generating images with AI.
 
 ## WebSocket communication intialization and passing of data
 
+#### V1
+
 ![websocket.jpg](websocket.jpg)
+
+#### V2
 
 ![websocketv2.jpg](websocketv2.jpg)
 
+#### V3
+
 ![websocketv3.jpg](websocketv3.jpg)
+
+
+#### V5
+
+_Same prompt. Totally different results_
+
+![websocket-v5.jpg](websocket-v5.jpg)
+
+![websocket-v3again.jpg](websocket-v3again.jpg)
 
 ## The glory of God is intelligence
 
@@ -18,10 +33,17 @@ This is a demo of generating images with AI.
 
 ### Visual
 
+#### V1
+
 ![intelligence-flow.jpg](intelligence-flow.jpg)
+
+#### V3
 
 ![intelligence-visualv3.jpg](intelligence-visualv3.jpg)
 
+#### V5
+
+![intelligence-v5.jpg](intelligence-v5.jpg)
 ### Minimalist
 
 ![intelligence-flat.jpg](intelligence-flat.jpg)
@@ -46,11 +68,20 @@ This is a demo of generating images with AI.
 
 ### Visual
 
+#### V1
+
 ![question-visual.jpg](question-visual.jpg)
 
+#### V3
 ![question-visualv3.jpg](question-visualv3.jpg)
 
+#### V4
 ![question-visualv4jpg.jpg](question-visualv4jpg.jpg)
+
+#### V5
+
+_Same prompt. Totally different results_
+
 
 ![question-visualv5.jpg](question-visualv5.jpg)
 
