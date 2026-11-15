@@ -20,6 +20,8 @@ This is a demo of generating images with AI.
 
 ![intelligence-flow.jpg](intelligence-flow.jpg)
 
+![intelligence-visualv3.jpg](intelligence-visualv3.jpg)
+
 ### Minimalist
 
 ![intelligence-flat.jpg](intelligence-flat.jpg)
