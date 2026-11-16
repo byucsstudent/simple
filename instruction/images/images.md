@@ -120,3 +120,5 @@ _Same prompt. Totally different results_
 ### Water color
 
 ![question-watercolor.jpg](question-watercolor.jpg)
+
+![foresakeMotherAndFather.jpg](foresakeMotherAndFather.jpg)
