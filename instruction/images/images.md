@@ -121,4 +121,16 @@ _Same prompt. Totally different results_
 
 ![question-watercolor.jpg](question-watercolor.jpg)
 
-![foresakeMotherAndFather.jpg](foresakeMotherAndFather.jpg)
+
+## For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
+
+### Photo
+![foresake.jpg](foresake.jpg)
+
+### Visual
+
+![forsake-visual.jpg](forsake-visual.jpg)
+
+### Watercolor
+
+![foresake-watercolor.jpg](foresake-watercolor.jpg)
